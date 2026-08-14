@@ -1,6 +1,7 @@
-import { Controller, Get } from '@nestjs/common';
+import { Body, Controller, Get,Post,Patch,Delete ,Param } from '@nestjs/common';
 import { ContenidosCurricularesService } from './contenidos-curriculares.service';
-
+import { UpdateContenidosCurricularesDto } from './dto/update-contenidos-curriculares';
+import { CreateContenidosCurricularesDto } from './dto/create-contenidos-curriculares.dto';
 @Controller('contenidos-curriculares')
 export class ContenidosCurricularesController {
   constructor(
@@ -11,4 +12,24 @@ export class ContenidosCurricularesController {
   findAll() {
     return this.contenidosCurricularesService.findAll();
   }
+ 
+  @Get(':id')
+  findOne(@Param('id') id: string) {
+    return this.contenidosCurricularesService.findOne(+id);
+  }
+
+  @Post()
+  create(@Body() CreateMateriaDto: CreateContenidosCurricularesDto) {
+    return this.contenidosCurricularesService.create(CreateMateriaDto);
+  }
+
+  @Patch(':id')
+  update(@Param('id') id: string, @Body() updateMateriaDto: CreateContenidosCurricularesDto) {
+    return this.contenidosCurricularesService.update(+id, updateMateriaDto);
+  }
+  @Delete(':id')
+  remove(@Param('id') id: string) {
+    return this.contenidosCurricularesService.remove(+id);
+  }
+
 }
