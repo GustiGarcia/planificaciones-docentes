@@ -4,7 +4,7 @@ import { AppService } from './app.service';
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { Materia } from './entities/materia.entity';
 import { ContenidoCurricular } from './entities/contenido-curricular.entity';
-
+import { MateriasModule } from './materias/materias.module';
 @Module({
   imports: [
     TypeOrmModule.forRoot({
@@ -17,7 +17,8 @@ import { ContenidoCurricular } from './entities/contenido-curricular.entity';
       autoLoadEntities: true,
       synchronize: true,
       entities: [Materia, ContenidoCurricular],
-    })
+    }),
+    MateriasModule,   // ← agregar esta línea (con coma antes)
   ],
   controllers: [AppController],
   providers: [AppService],
