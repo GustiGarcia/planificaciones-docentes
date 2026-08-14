@@ -1,5 +1,6 @@
-import { Controller, Get } from '@nestjs/common';
+import { Controller, Get, Post, Body } from '@nestjs/common';
 import { MateriasService } from './materias.service';
+import { CreateMateriaDto } from './dto/create-materia.dto';
 
 @Controller('materias')
 export class MateriasController {
@@ -8,5 +9,10 @@ export class MateriasController {
   @Get()
   findAll() {
     return this.materiasService.findAll();
+  }
+
+  @Post()
+  create(@Body() CreateMateriaDto: CreateMateriaDto) {
+    return this.materiasService.create(CreateMateriaDto);
   }
 }

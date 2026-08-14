@@ -1,98 +1,112 @@
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
-</p>
+# Planificaciones Docentes
 
-[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-[circleci-url]: https://circleci.com/gh/nestjs/nest
+Sistema para automatizar la creación de planificaciones docentes en la provincia de Mendoza. Permite seleccionar contenidos del Diseño Curricular Provincial (DCP) y completar la parte específica de cada docente (estrategias de enseñanza, evaluación, ABP), exportando el resultado final.
 
-  <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
-    <p align="center">
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/dm/@nestjs/common.svg" alt="NPM Downloads" /></a>
-<a href="https://circleci.com/gh/nestjs/nest" target="_blank"><img src="https://img.shields.io/circleci/build/github/nestjs/nest/master" alt="CircleCI" /></a>
-<a href="https://discord.gg/G7Qnnhy" target="_blank"><img src="https://img.shields.io/badge/discord-online-brightgreen.svg" alt="Discord"/></a>
-<a href="https://opencollective.com/nest#backer" target="_blank"><img src="https://opencollective.com/nest/backers/badge.svg" alt="Backers on Open Collective" /></a>
-<a href="https://opencollective.com/nest#sponsor" target="_blank"><img src="https://opencollective.com/nest/sponsors/badge.svg" alt="Sponsors on Open Collective" /></a>
-  <a href="https://paypal.me/kamilmysliwiec" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-ff3f59.svg" alt="Donate us"/></a>
-    <a href="https://opencollective.com/nest#sponsor"  target="_blank"><img src="https://img.shields.io/badge/Support%20us-Open%20Collective-41B883.svg" alt="Support us"></a>
-  <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow" alt="Follow us on Twitter"></a>
-</p>
-  <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
-  [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
+## 📌 Motivación
 
-## Description
+Cada año, los docentes deben presentar planificaciones que combinan:
+- Contenidos fijos que salen del **Diseño Curricular Provincial** (en PDF)
+- Una parte específica que cada docente completa (estrategias, evaluación, actividades)
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Este proyecto busca digitalizar ese proceso: cargar el contenido curricular una sola vez en una base de datos, y permitir que el docente arme su planificación seleccionando contenidos y agregando su propia parte, en vez de transcribir todo a mano cada año.
 
-## Project setup
+## 🚧 Estado del proyecto
 
-```bash
-$ npm install
+**En desarrollo activo** — proyecto académico (Programación 3, Tecnicatura en Desarrollo de Software).
+
+### Hecho hasta ahora
+- [x] Setup inicial de NestJS + TypeORM + PostgreSQL
+- [x] Entities: `Materia`, `ContenidoCurricular` (con relación uno a muchos)
+- [x] Primer endpoint funcional: `GET /materias`
+- [x] Estructura de módulo por dominio (`materias/`)
+
+### Por hacer
+- [ ] CRUD completo de Materias (crear, obtener por id, actualizar, eliminar)
+- [ ] Entity y endpoints de `ContenidoCurricular`
+- [ ] Carga de datos reales del DCP (Educación Física, más materias)
+- [ ] Entities de `Planificacion` y `PlanificacionDetalle` (lo que arma el docente)
+- [ ] Entities de `Escuela`, `Docente`, `AcuerdoInstitucional`, `AcuerdoArea`
+- [ ] Exportación de planificación a PDF
+- [ ] Frontend (React + TypeScript)
+- [ ] Expansión a otras materias y modalidades/orientaciones
+- [ ] Módulo de proyectos escolares (salidas, proyectos institucionales)
+
+## 🛠️ Stack tecnológico
+
+| Capa | Tecnología |
+|---|---|
+| Backend | [NestJS](https://nestjs.com/) + TypeScript |
+| ORM | [TypeORM](https://typeorm.io/) |
+| Base de datos | PostgreSQL |
+| Frontend (a futuro) | React + TypeScript |
+
+## 📂 Estructura del proyecto
+
+```
+src/
+ ┣ entities/              → Modelos de datos (tablas) compartidos
+ ┃  ┣ materia.entity.ts
+ ┃  ┗ contenido-curricular.entity.ts
+ ┣ materias/               → Módulo de Materias (por dominio)
+ ┃  ┣ materias.controller.ts
+ ┃  ┣ materias.service.ts
+ ┃  ┗ materias.module.ts
+ ┣ app.module.ts           → Módulo raíz, conecta todo
+ ┗ main.ts                 → Punto de entrada de la aplicación
 ```
 
-## Compile and run the project
+## 🗄️ Modelo de datos (resumen)
 
-```bash
-# development
-$ npm run start
-
-# watch mode
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
+```
+Materia (nombre, orientación)
+  └── ContenidoCurricular (año, saberes, aprendizajes específicos)
+        [relación: una Materia tiene muchos ContenidoCurricular]
 ```
 
-## Run tests
+Próximamente se suman: `Planificacion`, `PlanificacionDetalle`, `Escuela`, `Docente`, `AcuerdoInstitucional`, `AcuerdoArea`.
 
-```bash
-# unit tests
-$ npm run test
+## 🚀 Cómo correr el proyecto localmente
 
-# e2e tests
-$ npm run test:e2e
+### Requisitos previos
+- Node.js instalado
+- PostgreSQL instalado y corriendo
+- Una base de datos creada (ej: `planificaciones_db`)
 
-# test coverage
-$ npm run test:cov
-```
+### Pasos
 
-## Deployment
+1. Cloná el repositorio:
+   ```bash
+   git clone https://github.com/GustiGarcia/planificaciones-docentes.git
+   cd planificaciones-docentes
+   ```
 
-When you're ready to deploy your NestJS application to production, there are some key steps you can take to ensure it runs as efficiently as possible. Check out the [deployment documentation](https://docs.nestjs.com/deployment) for more information.
+2. Instalá las dependencias:
+   ```bash
+   npm install
+   ```
 
-If you are looking for a cloud-based platform to deploy your NestJS application, check out [Mau](https://mau.nestjs.com), our official platform for deploying NestJS applications on AWS. Mau makes deployment straightforward and fast, requiring just a few simple steps:
+3. Configurá la conexión a la base de datos en `src/app.module.ts` (host, usuario, contraseña, nombre de la base).
 
-```bash
-$ npm install -g @nestjs/mau
-$ mau deploy
-```
+4. Levantá el servidor en modo desarrollo:
+   ```bash
+   npm run start:dev
+   ```
 
-With Mau, you can deploy your application in just a few clicks, allowing you to focus on building features rather than managing infrastructure.
+5. La API queda disponible en `http://localhost:3000`
 
-## Resources
+### Endpoints disponibles
 
-Check out a few resources that may come in handy when working with NestJS:
+| Método | Ruta | Descripción |
+|---|---|---|
+| GET | `/materias` | Lista todas las materias |
 
-- Visit the [NestJS Documentation](https://docs.nestjs.com) to learn more about the framework.
-- For questions and support, please visit our [Discord channel](https://discord.gg/G7Qnnhy).
-- To dive deeper and get more hands-on experience, check out our official video [courses](https://courses.nestjs.com/).
-- Deploy your application to AWS with the help of [NestJS Mau](https://mau.nestjs.com) in just a few clicks.
-- Visualize your application graph and interact with the NestJS application in real-time using [NestJS Devtools](https://devtools.nestjs.com).
-- Need help with your project (part-time to full-time)? Check out our official [enterprise support](https://enterprise.nestjs.com).
-- To stay in the loop and get updates, follow us on [X](https://x.com/nestframework) and [LinkedIn](https://linkedin.com/company/nestjs).
-- Looking for a job, or have a job to offer? Check out our official [Jobs board](https://jobs.nestjs.com).
+## 🌿 Flujo de trabajo (Git)
 
-## Support
+- `master` — rama estable
+- `feature/nombre-de-la-funcionalidad` — una rama por funcionalidad nueva
+- Commits chicos y descriptivos
+- Merge a `master` solo cuando la funcionalidad está probada y funcionando
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+## 👤 Autor
 
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+Gustavo García — Docente de Educación Física, estudiante de la Tecnicatura en Desarrollo de Software.

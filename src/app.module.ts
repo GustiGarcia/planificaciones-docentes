@@ -5,6 +5,8 @@ import { TypeOrmModule } from '@nestjs/typeorm';
 import { Materia } from './entities/materia.entity';
 import { ContenidoCurricular } from './entities/contenido-curricular.entity';
 import { MateriasModule } from './materias/materias.module';
+import { ContenidosCurricularesModule } from './contenidos-curriculares/contenidos-curriculares.module';
+
 @Module({
   imports: [
     TypeOrmModule.forRoot({
@@ -19,6 +21,7 @@ import { MateriasModule } from './materias/materias.module';
       entities: [Materia, ContenidoCurricular],
     }),
     MateriasModule,   // ← agregar esta línea (con coma antes)
+    ContenidosCurricularesModule,  // ← agregar esta línea (con coma antes)
   ],
   controllers: [AppController],
   providers: [AppService],
