@@ -1,5 +1,5 @@
 import { Entity, PrimaryGeneratedColumn, Column, ManyToOne } from 'typeorm';
-import { Materia } from './materia.entity';
+import { Eje } from './eje.entity';
 
 @Entity('contenidos_curriculares')
 export class ContenidoCurricular {
@@ -9,5 +9,5 @@ export class ContenidoCurricular {
   anio: string;
   @Column({ type: 'text' })
   saberes: string;
-  @ManyToOne(() => Materia, (materia) => materia.contenidosCurriculares) materia: Materia;
+  @ManyToOne(() => Eje, (eje) => eje.contenidos) eje: Eje;
 }

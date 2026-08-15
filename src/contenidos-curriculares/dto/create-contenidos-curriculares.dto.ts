@@ -9,5 +9,5 @@ export class CreateContenidosCurricularesDto {
   saberes: string;
   @IsNotEmpty()
   @IsNumber()
-  materiaId: number;
+  ejeId: number;
 }

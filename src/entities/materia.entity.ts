@@ -1,5 +1,5 @@
 import { Entity, PrimaryGeneratedColumn,Column, OneToMany } from "typeorm";
-import { ContenidoCurricular } from "./contenido-curricular.entity";
+import { Eje } from "./eje.entity";
 
 @Entity('materias')
 export class Materia {
@@ -10,6 +10,6 @@ export class Materia {
     @Column()
     orientacion: string;
 
-    @OneToMany(() => ContenidoCurricular, (contenido) => contenido.materia)
-    contenidosCurriculares: ContenidoCurricular[];
+    @OneToMany(() => Eje, (eje) => eje.materia)
+    ejes: Eje[];
 }

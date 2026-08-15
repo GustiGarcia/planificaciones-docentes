@@ -27,7 +27,7 @@ export class ContenidosCurricularesService {
   create(createContenidoDto: CreateContenidosCurricularesDto) {
     // Separamos "materiaId" del resto de propiedades del DTO.
     // "resto" queda con { anio, saberes } — todo menos materiaId.
-    const { materiaId, ...resto } = createContenidoDto;
+    const { ejeId, ...resto } = createContenidoDto;
   
     // Armamos el objeto que espera la Entity:
     // - "...resto" desparrama anio y saberes tal cual
@@ -36,7 +36,7 @@ export class ContenidosCurricularesService {
     //   (no hace falta traer la Materia completa, alcanza con el id)
     const nuevoContenido = this.contenidoCurricularRepository.create({
       ...resto,
-      materia: { id: materiaId },
+      eje: { id: ejeId },
     });
   
     // Recién acá se guarda de verdad en la base de datos (INSERT).
