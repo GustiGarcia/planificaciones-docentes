@@ -3,6 +3,7 @@ import { InjectRepository } from '@nestjs/typeorm';
 import { Repository } from 'typeorm';
 import { ContenidoCurricular } from '../entities/contenido-curricular.entity';
 import { CreateContenidosCurricularesDto } from './dto/create-contenidos-curriculares.dto';
+import { UpdateContenidosCurricularesDto } from './dto/update-contenidos-curriculares';
 
 @Injectable()
 export class ContenidosCurricularesService {
@@ -42,7 +43,7 @@ export class ContenidosCurricularesService {
     // Recién acá se guarda de verdad en la base de datos (INSERT).
     return this.contenidoCurricularRepository.save(nuevoContenido);
   }
-  async update(id: number, updateContenidoDto: CreateContenidosCurricularesDto) {
+  async update(id: number, updateContenidoDto: UpdateContenidosCurricularesDto) {
     const contenido = await this.contenidoCurricularRepository.preload({
       id,
       ...updateContenidoDto,

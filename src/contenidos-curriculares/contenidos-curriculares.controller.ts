@@ -24,7 +24,7 @@ export class ContenidosCurricularesController {
   }
 
   @Patch(':id')
-  update(@Param('id') id: string, @Body() updateMateriaDto: CreateContenidosCurricularesDto) {
+  update(@Param('id') id: string, @Body() updateMateriaDto:UpdateContenidosCurricularesDto) {
     return this.contenidosCurricularesService.update(+id, updateMateriaDto);
   }
   @Delete(':id')
