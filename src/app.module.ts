@@ -8,6 +8,7 @@ import { MateriasModule } from './materias/materias.module';
 import { ContenidosCurricularesModule } from './contenidos-curriculares/contenidos-curriculares.module';
 import { Eje } from './entities/eje.entity';
 import { EjesModule } from './ejes/ejes.module';
+import { AprendizajeEspecifico } from './entities/aprendizaje-especifico.entity';
 @Module({
   imports: [
     TypeOrmModule.forRoot({
@@ -19,7 +20,7 @@ import { EjesModule } from './ejes/ejes.module';
       database: 'planificaciones_db',
       autoLoadEntities: true,
       synchronize: true,
-      entities: [Materia, ContenidoCurricular,Eje ],
+      entities: [Materia, ContenidoCurricular,Eje,AprendizajeEspecifico ],
     }),
     MateriasModule,   // ← agregar esta línea (con coma antes)
     ContenidosCurricularesModule,

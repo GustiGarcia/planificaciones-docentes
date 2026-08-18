@@ -4,7 +4,6 @@ import { Repository } from 'typeorm';
 import { Eje } from 'src/entities/eje.entity';
 import { CreateEjesDto } from './dto/create-ejes.dto';
 import { UpdateEjesDto } from './dto/update-ejes.dto';
-import { NumericType } from 'typeorm/driver/mongodb/typings.js';
 
 @Injectable()
 export class EjesService {
