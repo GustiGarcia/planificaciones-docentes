@@ -9,6 +9,7 @@ import { ContenidosCurricularesModule } from './contenidos-curriculares/contenid
 import { Eje } from './entities/eje.entity';
 import { EjesModule } from './ejes/ejes.module';
 import { AprendizajeEspecifico } from './entities/aprendizaje-especifico.entity';
+import { AprendizajesEspecificosModule } from './aprendizajes-especificos/aprendizajes-especificos.module';
 @Module({
   imports: [
     TypeOrmModule.forRoot({
@@ -24,7 +25,8 @@ import { AprendizajeEspecifico } from './entities/aprendizaje-especifico.entity'
     }),
     MateriasModule,   // ← agregar esta línea (con coma antes)
     ContenidosCurricularesModule,
-    EjesModule  // ← agregar esta línea (con coma antes)
+    EjesModule ,
+    AprendizajesEspecificosModule // ← agregar esta línea (con coma antes)
   ],
   controllers: [AppController],
   providers: [AppService],

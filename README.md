@@ -26,7 +26,7 @@ Este proyecto busca digitalizar ese proceso: cargar el contenido curricular una 
 
 ### En curso
 - [ ] Entity `Docente`
-- [ ] Entities `Planificacion` y `PlanificacionDetalle`
+- [ ] Entities `Aprendizajes Especificos` y `PlanificacionDetalle`
 
 ### Por hacer
 - [ ] Carga de datos reales del DCP (Educación Física completa: 1° a 5° año)
@@ -72,6 +72,11 @@ src/
  ┃  ┣ contenidos-curriculares.controller.ts
  ┃  ┣ contenidos-curriculares.service.ts
  ┃  ┗ contenidos-curriculares.module.ts
+ ┣ aprendizajes-especificos/         → Módulo de aprendizajes especificos
+    ┣ dto/
+    ┣ aprendizajes-especificos.controller.ts
+    ┣ aprendizajes-especificos.module.ts
+    ┗ aprendizajes-especificos.service
  ┣ app.module.ts                    → Módulo raíz, conecta todo
  ┗ main.ts                          → Punto de entrada (ValidationPipe global)
 ```
