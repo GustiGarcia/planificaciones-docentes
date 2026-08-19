@@ -1,206 +1,170 @@
 # Planificaciones Docentes
 
-Sistema para automatizar la creación de planificaciones docentes en la provincia de Mendoza. Permite seleccionar contenidos del Diseño Curricular Provincial (DCP) y completar la parte específica de cada docente (estrategias de enseñanza, evaluación, ABP), exportando el resultado final.
+Aplicación para automatizar la creación de planificaciones docentes anuales a partir del **Diseño Curricular Provincial (DCP)** de Mendoza.
 
-## 📌 Motivación
+El docente selecciona los contenidos curriculares oficiales desde una base de datos, agrega sus propios aportes (estrategias de enseñanza, actividades, métodos de evaluación, temas de ABP) y exporta el resultado como PDF.
 
-Cada año, los docentes deben presentar planificaciones que combinan:
-- Contenidos fijos que salen del **Diseño Curricular Provincial** (en PDF)
-- Una parte específica que cada docente completa (estrategias, evaluación, actividades)
+---
 
-Este proyecto busca digitalizar ese proceso: cargar el contenido curricular una sola vez en una base de datos, y permitir que el docente arme su planificación seleccionando contenidos y agregando su propia parte, en vez de transcribir todo a mano cada año.
-
-## 🚧 Estado del proyecto
-
-**En desarrollo activo** — proyecto académico (Programación 3, Tecnicatura en Desarrollo de Software).
-
-### Hecho hasta ahora
-- [x] Setup de NestJS + TypeORM + PostgreSQL
-- [x] Entities del contenido curricular: `Materia`, `Eje`, `ContenidoCurricular`
-- [x] Jerarquía de relaciones: **Materia → Eje → ContenidoCurricular**
-- [x] CRUD completo de `Materia` (findAll, findOne, create, update, remove)
-- [x] CRUD completo de `Eje`
-- [x] CRUD completo de `ContenidoCurricular`
-- [x] DTOs con validación (`class-validator`) y `ValidationPipe` global
-- [x] Manejo de errores con `NotFoundException` (404)
-
-### En curso
-- [ ] Entity `Docente`
-- [ ] Entities `Aprendizajes Especificos` y `PlanificacionDetalle`
-
-### Por hacer
-- [ ] Carga de datos reales del DCP (Educación Física completa: 1° a 5° año)
-- [ ] Entities `Escuela`, `AcuerdoInstitucional`, `AcuerdoArea`
-- [ ] Endpoint para listar contenidos filtrados por eje
-- [ ] Exportación de planificación a PDF
-- [ ] Frontend (React + TypeScript)
-- [ ] Expansión a otras materias y orientaciones
-- [ ] Módulo de proyectos escolares (salidas, proyectos institucionales)
-- [ ] Autenticación de docentes
-
-## 🛠️ Stack tecnológico
+## Stack
 
 | Capa | Tecnología |
 |---|---|
-| Backend | [NestJS](https://nestjs.com/) + TypeScript |
-| ORM | [TypeORM](https://typeorm.io/) |
+| Backend | NestJS + TypeScript |
+| ORM | TypeORM |
 | Base de datos | PostgreSQL 17 |
 | Validación | class-validator + class-transformer |
-| Testing de API | Postman |
-| Frontend (a futuro) | React + TypeScript |
+| Testing de API | Postman / Thunder Client |
+| Frontend | React + TypeScript *(planeado)* |
 
-## 📂 Estructura del proyecto
+---
 
-```
-src/
- ┣ entities/                        → Modelos de datos (tablas)
- ┃  ┣ materia.entity.ts
- ┃  ┣ eje.entity.ts
- ┃  ┗ contenido-curricular.entity.ts
- ┣ materias/                        → Módulo de Materias
- ┃  ┣ dto/
- ┃  ┣ materias.controller.ts
- ┃  ┣ materias.service.ts
- ┃  ┗ materias.module.ts
- ┣ ejes/                            → Módulo de Ejes
- ┃  ┣ dto/
- ┃  ┣ ejes.controller.ts
- ┃  ┣ ejes.service.ts
- ┃  ┗ ejes.module.ts
- ┣ contenidos-curriculares/         → Módulo de Contenidos Curriculares
- ┃  ┣ dto/
- ┃  ┣ contenidos-curriculares.controller.ts
- ┃  ┣ contenidos-curriculares.service.ts
- ┃  ┗ contenidos-curriculares.module.ts
- ┣ aprendizajes-especificos/         → Módulo de aprendizajes especificos
-    ┣ dto/
-    ┣ aprendizajes-especificos.controller.ts
-    ┣ aprendizajes-especificos.module.ts
-    ┗ aprendizajes-especificos.service
- ┣ app.module.ts                    → Módulo raíz, conecta todo
- ┗ main.ts                          → Punto de entrada (ValidationPipe global)
+## Puesta en marcha
+
+```bash
+# 1. Instalar dependencias
+npm install
+
+# 2. Crear la base de datos en PostgreSQL
+#    CREATE DATABASE planificaciones_db;
+
+# 3. Levantar en modo desarrollo
+npm run start:dev
 ```
 
-## 🗄️ Modelo de datos
+La app corre en `http://localhost:3000`.
 
-### Implementado
+Con `synchronize: true` activo, TypeORM crea y actualiza las tablas automáticamente al arrancar. **No usar en producción.**
+
+> ⚠️ Las credenciales de la base están hardcodeadas en `app.module.ts`. Pendiente moverlas a variables de entorno con `@nestjs/config`.
+
+---
+
+## Modelo de datos
+
+Son **dos árboles independientes** que se cruzan en `PlanificacionDetalle`.
+
+### Árbol 1 — Catálogo del DCP (fijo, oficial)
+
+Es de donde el docente *elige*.
 
 ```
-Materia (nombre, orientacion)
-  └── Eje (nombre)
-        └── ContenidoCurricular (anio, saberes)
+Materia
+  └── Eje
+        └── ContenidoCurricular   (anio, saberes)
+              └── AprendizajeEspecifico
 ```
 
-Relaciones: `@OneToMany` desde el lado padre, `@ManyToOne` desde el lado hijo (donde vive la FK).
-
-### Planificado
+### Árbol 2 — Planificación (lo que se genera)
 
 ```
-Docente ──┐
-          ├── Planificacion (cursoDivision, anioLectivo)
-Escuela ──┘        └── PlanificacionDetalle
-                         ├── ContenidoCurricular (seleccionado del DCP)
-                         ├── estrategiaEnsenanza (texto del docente)
-                         ├── evaluacion (texto del docente)
-                         └── abp (texto del docente)
+User
+  └── Planificacion               (cursoDivision, anioLectivo, fechaCreacion)
+        └── PlanificacionDetalle  ← una fila de la tabla del PDF
+              ├── ContenidoCurricular      [ManyToOne]
+              ├── AprendizajeEspecifico[]  [ManyToMany]
+              ├── EstrategiaEnsenanza[]    [ManyToMany]
+              ├── Actividad[]              [ManyToMany]
+              ├── MetodoEvaluacion[]       [ManyToMany]
+              └── Tema[]                   [ManyToMany]
 ```
 
-## 🔌 Endpoints disponibles
+### Catálogos del docente
 
-### Materias
-| Método | Ruta | Descripción |
+`EstrategiaEnsenanza`, `Actividad`, `MetodoEvaluacion` y `Tema` comparten la misma estructura:
+
+| Campo | Tipo | Notas |
 |---|---|---|
-| GET | `/materias` | Lista todas las materias |
-| GET | `/materias/:id` | Obtiene una materia por id |
-| POST | `/materias` | Crea una materia |
-| PATCH | `/materias/:id` | Actualiza una materia |
-| DELETE | `/materias/:id` | Elimina una materia |
+| `id` | number | PK |
+| `nombre` | text | |
+| `esPredefinida` | boolean | `true` = viene con el sistema |
+| `user` | User (nullable) | dueño, si es una opción propia del docente |
 
-### Ejes
-| Método | Ruta | Descripción |
-|---|---|---|
-| GET | `/ejes` | Lista todos los ejes |
-| GET | `/ejes/:id` | Obtiene un eje por id |
-| POST | `/ejes` | Crea un eje (requiere `materiaId`) |
-| PATCH | `/ejes/:id` | Actualiza un eje |
-| DELETE | `/ejes/:id` | Elimina un eje |
+Esto permite que el docente reutilice sus propias opciones año a año, en lugar de reescribirlas como texto libre.
 
-### Contenidos Curriculares
-| Método | Ruta | Descripción |
-|---|---|---|
-| GET | `/contenidos-curriculares` | Lista todos los contenidos |
-| GET | `/contenidos-curriculares/:id` | Obtiene un contenido por id |
-| POST | `/contenidos-curriculares` | Crea un contenido (requiere `ejeId`) |
-| PATCH | `/contenidos-curriculares/:id` | Actualiza un contenido |
-| DELETE | `/contenidos-curriculares/:id` | Elimina un contenido |
+### Decisiones de diseño
 
-## 🚀 Cómo correr el proyecto localmente
+- **Los detalles guardan referencias (ids), no copias de texto.** Si se corrige un saber del DCP, el cambio se refleja en todas las planificaciones automáticamente.
+- **Sin `onDelete: 'CASCADE'`.** Se prefiere que Postgres frene el borrado si hay registros relacionados, como protección del contenido curricular oficial.
+- Las relaciones hacia los catálogos son **unidireccionales**: el catálogo no necesita saber quién lo usa.
 
-### Requisitos previos
-- Node.js
-- PostgreSQL 17 instalado y corriendo
-- Base de datos creada (ej: `planificaciones_db`)
+---
 
-### Pasos
+## Endpoints disponibles
 
-1. Cloná el repositorio:
-   ```bash
-   git clone https://github.com/GustiGarcia/planificaciones-docentes.git
-   cd planificaciones-docentes
-   ```
+CRUD completo (`GET` all, `GET` by id, `POST`, `PATCH`, `DELETE`) en:
 
-2. Instalá las dependencias:
-   ```bash
-   npm install
-   ```
+- `/materias`
+- `/ejes`
+- `/contenidos-curriculares`
+- `/aprendizajes-especificos`
 
-3. Configurá la conexión a la base de datos en `src/app.module.ts` (host, usuario, contraseña, nombre de la base).
+Todos con DTOs validados y `NotFoundException` (404) cuando el id no existe.
 
-4. Levantá el servidor en modo desarrollo:
-   ```bash
-   npm run start:dev
-   ```
+---
 
-5. La API queda disponible en `http://localhost:3000`
-
-> **Nota:** el proyecto usa `synchronize: true` en TypeORM, lo que crea/actualiza las tablas automáticamente según las entities. Esto es cómodo en desarrollo pero **no debe usarse en producción**.
-
-### Orden para cargar datos de prueba
-
-Por la jerarquía de relaciones, hay que crear los registros en este orden:
-
-1. `POST /materias` → guardar el `id` devuelto
-2. `POST /ejes` con ese `materiaId` → guardar el `id` devuelto
-3. `POST /contenidos-curriculares` con ese `ejeId`
-
-## 🔍 Consulta útil (SQL)
-
-Para ver todas las materias con sus ejes y contenidos relacionados:
+## Verificar los datos cargados
 
 ```sql
-SELECT
-  m.nombre AS materia,
-  m.orientacion,
-  e.nombre AS eje,
-  c.anio,
-  c.saberes
+SELECT m.nombre AS materia, e.nombre AS eje, c.anio, c.saberes,
+       a.descripcion AS aprendizaje
 FROM materias m
 LEFT JOIN ejes e ON e."materiaId" = m.id
 LEFT JOIN contenidos_curriculares c ON c."ejeId" = e.id
-ORDER BY m.nombre, e.nombre, c.anio;
+LEFT JOIN aprendizajes_especificos a ON a."contenidoCurricularId" = c.id
+ORDER BY e.nombre, c.id, a.id;
 ```
 
-## 🌿 Flujo de trabajo (Git)
+> Las comillas dobles son obligatorias en las columnas camelCase que genera TypeORM.
 
-- `master` — rama estable
-- `feature/nombre-de-la-funcionalidad` — una rama por funcionalidad o dominio nuevo
-- Commits chicos y descriptivos
-- Merge a `master` solo cuando el bloque de trabajo está probado y funcionando
+---
 
-Ramas del proyecto:
-- `feature/materias-crud` — CRUD de Materia, Eje y ContenidoCurricular *(mergeada)*
-- `feature/planificaciones` — Docente, Planificacion y PlanificacionDetalle *(en curso)*
+## Estado del proyecto
 
-## 👤 Autor
+### Hecho
 
-Gustavo García — Docente de Educación Física, estudiante de la Tecnicatura en Desarrollo de Software.
+- [x] Setup NestJS + TypeORM + PostgreSQL
+- [x] Entities del catálogo DCP: `Materia`, `Eje`, `ContenidoCurricular`, `AprendizajeEspecifico`
+- [x] CRUD completo de las 4 entities del catálogo, con DTOs y manejo de errores
+- [x] Entity `User`
+- [x] Entities `Planificacion` y `PlanificacionDetalle`
+- [x] Catálogos del docente: `EstrategiaEnsenanza`, `Actividad`, `MetodoEvaluacion`, `Tema`
+- [x] 5 tablas intermedias generadas por `@ManyToMany` + `@JoinTable`
+- [x] Datos de prueba cargados y verificados
+
+### Pendiente
+
+- [ ] CRUD de `Planificacion`, `PlanificacionDetalle` y los 4 catálogos
+- [ ] Endpoint para filtrar contenidos por eje
+- [ ] Carga de los datos reales del DCP (1° a 5° año)
+- [ ] Autenticación
+- [ ] Exportación a PDF
+- [ ] Frontend React + TypeScript (modelo de UI: *live-build canvas*)
+- [ ] Módulo de proyectos escolares (salidas, proyectos institucionales)
+- [ ] Entities `Escuela`, `AcuerdoInstitucional`, `AcuerdoArea`
+
+---
+
+## Patrones aplicados
+
+- **Repository Pattern** — acceso a datos aislado vía repositorios de TypeORM
+- **Dependency Injection** — provisto por el contenedor de NestJS
+- **DTO** — separación entre el dato que entra por HTTP y la entity
+- **Data Mapper** — la entity es solo datos; la persistencia la maneja el repositorio
+- **Arquitectura por capas** — Controller → Service → Repository
+- **Module Pattern** — organización por dominio, no por tipo técnico
+
+---
+
+## Flujo de trabajo con Git
+
+```bash
+git pull                              # al empezar (sincronizar entre máquinas)
+git checkout -b feature/nombre        # una rama por funcionalidad
+# ...trabajar, commits chicos y descriptivos...
+git push -u origin feature/nombre     # el -u es necesario la primera vez
+```
+
+Rama estable: `master`. Al terminar una funcionalidad, se mergea a `master`.
+
+> Después de cada `git clone`, correr `npm install` — `node_modules` no se versiona.

@@ -10,6 +10,13 @@ import { Eje } from './entities/eje.entity';
 import { EjesModule } from './ejes/ejes.module';
 import { AprendizajeEspecifico } from './entities/aprendizaje-especifico.entity';
 import { AprendizajesEspecificosModule } from './aprendizajes-especificos/aprendizajes-especificos.module';
+import { User } from './entities/user.entity';
+import { Actividad } from './entities/actividad.entity';
+import { Tema } from './entities/tema.entity';
+import { MetodoEvaluacion } from './entities/metodo-evaluacion.entity';
+import { EstrategiaEnsenanza } from './entities/estrategia-ensenanza.entity';
+import { PlanificacionDetalle } from './entities/planificacion-detalle.entity';
+import { Planificacion } from './entities/planificacion.entity';
 @Module({
   imports: [
     TypeOrmModule.forRoot({
@@ -21,12 +28,24 @@ import { AprendizajesEspecificosModule } from './aprendizajes-especificos/aprend
       database: 'planificaciones_db',
       autoLoadEntities: true,
       synchronize: true,
-      entities: [Materia, ContenidoCurricular,Eje,AprendizajeEspecifico ],
+      entities: [
+        Actividad,
+        AprendizajeEspecifico,
+        ContenidoCurricular,
+        Eje,
+        EstrategiaEnsenanza,
+        Materia,
+        MetodoEvaluacion,
+        PlanificacionDetalle,
+        Planificacion,
+        Tema,
+        User,
+      ],
     }),
-    MateriasModule,   // ← agregar esta línea (con coma antes)
+    MateriasModule, // ← agregar esta línea (con coma antes)
     ContenidosCurricularesModule,
-    EjesModule ,
-    AprendizajesEspecificosModule // ← agregar esta línea (con coma antes)
+    EjesModule,
+    AprendizajesEspecificosModule, // ← agregar esta línea (con coma antes)
   ],
   controllers: [AppController],
   providers: [AppService],
