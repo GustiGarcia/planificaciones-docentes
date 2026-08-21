@@ -17,6 +17,10 @@ import { MetodoEvaluacion } from './entities/metodo-evaluacion.entity';
 import { EstrategiaEnsenanza } from './entities/estrategia-ensenanza.entity';
 import { PlanificacionDetalle } from './entities/planificacion-detalle.entity';
 import { Planificacion } from './entities/planificacion.entity';
+import { TemasModule } from './temas/temas.module';
+import { ActividadesModule } from './actividades/actividades.module';
+import { MetodosEvaluacionModule } from './metodos-evaluacion/metodos-evaluacion.module';
+import { EstrategiasEnsenanzaModule } from './estrategias-ensenanza/estrategias-ensenanza.module';
 @Module({
   imports: [
     TypeOrmModule.forRoot({
@@ -29,23 +33,23 @@ import { Planificacion } from './entities/planificacion.entity';
       autoLoadEntities: true,
       synchronize: true,
       entities: [
-        Actividad,
         AprendizajeEspecifico,
         ContenidoCurricular,
         Eje,
-        EstrategiaEnsenanza,
         Materia,
-        MetodoEvaluacion,
         PlanificacionDetalle,
         Planificacion,
-        Tema,
         User,
       ],
     }),
     MateriasModule, // ← agregar esta línea (con coma antes)
     ContenidosCurricularesModule,
     EjesModule,
-    AprendizajesEspecificosModule, // ← agregar esta línea (con coma antes)
+    AprendizajesEspecificosModule,
+    TemasModule,
+    ActividadesModule,
+    MetodosEvaluacionModule,
+    EstrategiasEnsenanzaModule, // ← agregar esta línea (con coma antes)
   ],
   controllers: [AppController],
   providers: [AppService],
