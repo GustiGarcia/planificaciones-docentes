@@ -11,16 +11,13 @@ import { EjesModule } from './ejes/ejes.module';
 import { AprendizajeEspecifico } from './entities/aprendizaje-especifico.entity';
 import { AprendizajesEspecificosModule } from './aprendizajes-especificos/aprendizajes-especificos.module';
 import { User } from './entities/user.entity';
-import { Actividad } from './entities/actividad.entity';
-import { Tema } from './entities/tema.entity';
-import { MetodoEvaluacion } from './entities/metodo-evaluacion.entity';
-import { EstrategiaEnsenanza } from './entities/estrategia-ensenanza.entity';
 import { PlanificacionDetalle } from './entities/planificacion-detalle.entity';
 import { Planificacion } from './entities/planificacion.entity';
 import { TemasModule } from './temas/temas.module';
 import { ActividadesModule } from './actividades/actividades.module';
 import { MetodosEvaluacionModule } from './metodos-evaluacion/metodos-evaluacion.module';
 import { EstrategiasEnsenanzaModule } from './estrategias-ensenanza/estrategias-ensenanza.module';
+import { PlanificacionesModule } from './planificaciones/planificaciones.module';
 @Module({
   imports: [
     TypeOrmModule.forRoot({
@@ -38,7 +35,6 @@ import { EstrategiasEnsenanzaModule } from './estrategias-ensenanza/estrategias-
         Eje,
         Materia,
         PlanificacionDetalle,
-        Planificacion,
         User,
       ],
     }),
@@ -49,7 +45,8 @@ import { EstrategiasEnsenanzaModule } from './estrategias-ensenanza/estrategias-
     TemasModule,
     ActividadesModule,
     MetodosEvaluacionModule,
-    EstrategiasEnsenanzaModule, // ← agregar esta línea (con coma antes)
+    EstrategiasEnsenanzaModule,
+    PlanificacionesModule, // ← agregar esta línea (con coma antes)
   ],
   controllers: [AppController],
   providers: [AppService],
