@@ -2,7 +2,9 @@ import { Controller, Get, Post, Body, Patch, Param, Delete } from '@nestjs/commo
 import { PlanificacionesService } from './planificaciones.service';
 import { CreatePlanificacioneDto } from './dto/create-planificacione.dto';
 import { UpdatePlanificacioneDto } from './dto/update-planificacione.dto';
+import { ApiTags } from '@nestjs/swagger';
 
+@ApiTags('CRUD planificaciones')
 @Controller('planificaciones')
 export class PlanificacionesController {
   constructor(private readonly planificacionesService: PlanificacionesService) {}

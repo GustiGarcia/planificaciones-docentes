@@ -2,7 +2,9 @@ import { Controller, Get, Post, Body, Patch, Param, Delete } from '@nestjs/commo
 import { MetodosEvaluacionService } from './metodos-evaluacion.service';
 import { CreateMetodosEvaluacionDto } from './dto/create-metodos-evaluacion.dto';
 import { UpdateMetodosEvaluacionDto } from './dto/update-metodos-evaluacion.dto';
+import { ApiTags } from '@nestjs/swagger';
 
+@ApiTags('CRUD metodos evaluacion')
 @Controller('metodos-evaluacion')
 export class MetodosEvaluacionController {
   constructor(private readonly metodosEvaluacionService: MetodosEvaluacionService) {}

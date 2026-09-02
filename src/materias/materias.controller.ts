@@ -1,7 +1,9 @@
 import { Controller, Get, Post, Body, Param, Patch, Delete} from '@nestjs/common';
 import { MateriasService } from './materias.service';
 import { CreateMateriaDto } from './dto/create-materia.dto';
+import { ApiTags } from '@nestjs/swagger';
 
+@ApiTags('CRUD Materias')
 @Controller('materias')
 export class MateriasController {
   constructor(private readonly materiasService: MateriasService) {}

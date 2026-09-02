@@ -3,6 +3,9 @@ import { AprendizajeEspecifico } from 'src/entities/aprendizaje-especifico.entit
 import { CreateAprendizajeEspecificoDto } from './dto/create-aprendizajes-especificos.dto';
 import { UpdateAprendizajeEspecificoDto } from './dto/update-aprendizajes-especificos.dto';
 import { AprendizajesEspecificosService } from './aprendizajes-especificos.service';
+import { ApiTags } from '@nestjs/swagger';
+
+@ApiTags('CRUS Aprendizajes Especificos')
 @Controller('aprendizajes-especificos')
 export class AprendizajeEspecificoController {
   constructor(

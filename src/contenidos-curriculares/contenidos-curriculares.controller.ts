@@ -2,6 +2,9 @@ import { Body, Controller, Get,Post,Patch,Delete ,Param } from '@nestjs/common';
 import { ContenidosCurricularesService } from './contenidos-curriculares.service';
 import { UpdateContenidosCurricularesDto } from './dto/update-contenidos-curriculares';
 import { CreateContenidosCurricularesDto } from './dto/create-contenidos-curriculares.dto';
+import { ApiTags } from '@nestjs/swagger';
+
+@ApiTags('CRUD Contenidos Curriculares')
 @Controller('contenidos-curriculares')
 export class ContenidosCurricularesController {
   constructor(
