@@ -18,6 +18,7 @@ import { ActividadesModule } from './actividades/actividades.module';
 import { MetodosEvaluacionModule } from './metodos-evaluacion/metodos-evaluacion.module';
 import { EstrategiasEnsenanzaModule } from './estrategias-ensenanza/estrategias-ensenanza.module';
 import { PlanificacionesModule } from './planificaciones/planificaciones.module';
+import { PlanificacionDetallesModule } from './planificacion-detalles/planificacion-detalles.module';
 @Module({
   imports: [
     TypeOrmModule.forRoot({
@@ -46,7 +47,8 @@ import { PlanificacionesModule } from './planificaciones/planificaciones.module'
     ActividadesModule,
     MetodosEvaluacionModule,
     EstrategiasEnsenanzaModule,
-    PlanificacionesModule, // ← agregar esta línea (con coma antes)
+    PlanificacionesModule,
+    PlanificacionDetallesModule, // ← agregar esta línea (con coma antes)
   ],
   controllers: [AppController],
   providers: [AppService],
