@@ -1,6 +1,6 @@
 import { Injectable, NotFoundException } from '@nestjs/common';
-import { CreatePlanificacioneDto } from './dto/create-planificacione.dto';
-import { UpdatePlanificacioneDto } from './dto/update-planificacione.dto';
+import { CreatePlanificacionesDto } from './dto/create-planificaciones.dto';
+import { UpdatePlanificacionesDto } from './dto/update-planificaciones.dto';
 import { InjectRepository } from '@nestjs/typeorm';
 import { Planificacion } from 'src/entities/planificacion.entity';
 import { Repository } from 'typeorm';
@@ -12,7 +12,7 @@ export class PlanificacionesService {
     private readonly planificacionRepository: Repository<Planificacion>,
   ) {}
 
-  create(createPlanificacioneDto: CreatePlanificacioneDto) {
+  create(createPlanificacioneDto: CreatePlanificacionesDto) {
     const { userId, materiaId, ...resto } = createPlanificacioneDto;
     const nueva = this.planificacionRepository.create({
       ...resto,
@@ -39,7 +39,7 @@ export class PlanificacionesService {
     return planificacion;
   }
 
-  async update(id: number, updatePlanificacioneDto: UpdatePlanificacioneDto) {
+  async update(id: number, updatePlanificacioneDto: UpdatePlanificacionesDto) {
     const { userId, materiaId, ...resto } = updatePlanificacioneDto;
     const planificacion = await this.planificacionRepository.preload({
       id,

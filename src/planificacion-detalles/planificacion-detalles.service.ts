@@ -1,4 +1,4 @@
-import { Injectable } from '@nestjs/common';
+import { Injectable, NotFoundException } from '@nestjs/common';
 import { CreatePlanificacionDetalleDto } from './dto/create-planificacion-detalle.dto';
 import { UpdatePlanificacionDetalleDto } from './dto/update-planificacion-detalle.dto';
 import { InjectRepository } from '@nestjs/typeorm';
@@ -49,8 +49,17 @@ export class PlanificacionDetallesService {
     return `This action returns all planificacionDetalles`;
   }
 
-  findOne(id: number) {
-    return `This action returns a #${id} planificacionDetalle`;
+  async findOne(id: number) {
+    const detalle=await this.detalleRepository.findOne({
+      where:{id},
+      relations:{
+        planificacion:true,contenidoCurricular:true,aprendizajes:true,estrategias:true,actividades:true,metodosEvaluacion:true,temas:true
+      },
+    });
+    if (!detalle){
+      throw new NotFoundException (`Detalle con id ${id} no encontrado`);
+    }
+    return detalle
   }
 
   update(

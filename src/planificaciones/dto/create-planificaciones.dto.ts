@@ -1,8 +1,8 @@
-import { IsNotEmpty, IsNumber, IsString } from "class-validator";
+import { IsNotEmpty, IsNumber, IsOptional, IsString } from "class-validator";
 import { ApiProperty } from "@nestjs/swagger";
 
 
-export class CreatePlanificacioneDto {
+export class CreatePlanificacionesDto {
     @IsString()
     @IsNotEmpty()
     @ApiProperty({example:'2do 4ta',description:'curso y division'})
@@ -19,4 +19,9 @@ export class CreatePlanificacioneDto {
     @IsNumber()
     @ApiProperty({example:2,description:'id de la materia'})
     materiaId:number;
+
+    @IsNumber()
+    @IsOptional()
+    @ApiProperty({example:2,description:'Cuatrimestre 1 o 2/ el null da planificacion Anual'})
+    cuatrimestre?:number;
 }

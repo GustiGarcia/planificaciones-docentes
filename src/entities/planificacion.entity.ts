@@ -70,6 +70,8 @@ export class Planificacion {
         (Si el decorador dice User, la propiedad se llama user y es
         de tipo User. Confundir esto es el error más común.)
      ───────────────────────────────────────────────────────────── */
+  @Column({ nullable: true })
+  cuatrimestre: number;
   @ManyToOne(() => User, (user) => user.planificaciones)
   user: User;
 

@@ -1,7 +1,7 @@
 import { Controller, Get, Post, Body, Patch, Param, Delete } from '@nestjs/common';
 import { PlanificacionesService } from './planificaciones.service';
-import { CreatePlanificacioneDto } from './dto/create-planificacione.dto';
-import { UpdatePlanificacioneDto } from './dto/update-planificacione.dto';
+import { CreatePlanificacionesDto } from './dto/create-planificaciones.dto';
+import { UpdatePlanificacionesDto } from './dto/update-planificaciones.dto';
 import { ApiTags } from '@nestjs/swagger';
 
 @ApiTags('CRUD planificaciones')
@@ -10,7 +10,7 @@ export class PlanificacionesController {
   constructor(private readonly planificacionesService: PlanificacionesService) {}
 
   @Post()
-  create(@Body() createPlanificacioneDto: CreatePlanificacioneDto) {
+  create(@Body() createPlanificacioneDto: CreatePlanificacionesDto) {
     return this.planificacionesService.create(createPlanificacioneDto);
   }
 
@@ -25,7 +25,7 @@ export class PlanificacionesController {
   }
 
   @Patch(':id')
-  update(@Param('id') id: string, @Body() updatePlanificacioneDto: UpdatePlanificacioneDto) {
+  update(@Param('id') id: string, @Body() updatePlanificacioneDto: UpdatePlanificacionesDto) {
     return this.planificacionesService.update(+id, updatePlanificacioneDto);
   }
 
