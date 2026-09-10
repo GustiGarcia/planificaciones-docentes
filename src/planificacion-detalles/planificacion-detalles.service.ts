@@ -50,26 +50,63 @@ export class PlanificacionDetallesService {
   }
 
   async findOne(id: number) {
-    const detalle=await this.detalleRepository.findOne({
-      where:{id},
-      relations:{
-        planificacion:true,contenidoCurricular:true,aprendizajes:true,estrategias:true,actividades:true,metodosEvaluacion:true,temas:true
+    const detalle = await this.detalleRepository.findOne({
+      where: { id },
+      relations: {
+        planificacion: true,
+        contenidoCurricular: true,
+        aprendizajes: true,
+        estrategias: true,
+        actividades: true,
+        metodosEvaluacion: true,
+        temas: true,
       },
     });
-    if (!detalle){
-      throw new NotFoundException (`Detalle con id ${id} no encontrado`);
+    if (!detalle) {
+      throw new NotFoundException(`Detalle con id ${id} no encontrado`);
     }
-    return detalle
+    return detalle;
   }
 
-  update(
-    id: number,
-    updatePlanificacionDetalleDto: UpdatePlanificacionDetalleDto,
-  ) {
-    return `This action updates a #${id} planificacionDetalle`;
+  async update(id: number, dto: UpdatePlanificacionDetalleDto) {
+    const {
+      planificacionId,
+      contenidoId,
+      aprendizajesIds,
+      estrategiaIds,
+      actividadIds,
+      metodoEvaluacionIds,
+      temaIds,
+    } = dto;
+
+    const detalle = await this.detalleRepository.preload({
+      id,
+      ...(planificacionId && { planificacion: { id: planificacionId } }),
+      ...(contenidoId && { contenidoCurricular: { id: contenidoId } }),
+      ...(aprendizajesIds && {
+        aprendizajes: aprendizajesIds.map((id) => ({ id })),
+      }),
+      ...(estrategiaIds && {
+        estrategias: estrategiaIds.map((id) => ({ id })),
+      }),
+      ...(actividadIds && { actividades: actividadIds.map((id) => ({ id })) }),
+      ...(metodoEvaluacionIds && {
+        metodosEvaluacion: metodoEvaluacionIds.map((id) => ({ id })),
+      }),
+      ...(temaIds && { temas: temaIds.map((id) => ({ id })) }),
+    });
+
+    if (!detalle) {
+      throw new NotFoundException(`Detalle con id ${id} no encontrado`);
+    }
+    return this.detalleRepository.save(detalle);
   }
 
-  remove(id: number) {
-    return `This action removes a #${id} planificacionDetalle`;
+  async remove(id: number) {
+    const detalle = await this.detalleRepository.findOneBy({ id });
+    if (!detalle) {
+      throw new NotFoundException(`Detalle con id ${id} no encontrado`);
+    }
+    return this.detalleRepository.remove(detalle);
   }
 }
