@@ -11,9 +11,13 @@ export class ContenidosCurricularesService {
     @InjectRepository(ContenidoCurricular)
     private readonly contenidoCurricularRepository: Repository<ContenidoCurricular>,
   ) {}
-
-  findAll() {
-    return this.contenidoCurricularRepository.find();
+  findAll(ejeId?: string, anio?: string) {
+    return this.contenidoCurricularRepository.find({
+      where: {
+        ...(ejeId && { eje: { id: +ejeId } }),
+        ...(anio && { anio }),
+      },
+    });
   }
 
   async findOne(id: number) {
@@ -29,7 +33,7 @@ export class ContenidosCurricularesService {
     // Separamos "materiaId" del resto de propiedades del DTO.
     // "resto" queda con { anio, saberes } — todo menos materiaId.
     const { ejeId, ...resto } = createContenidoDto;
-  
+
     // Armamos el objeto que espera la Entity:
     // - "...resto" desparrama anio y saberes tal cual
     // - "materia: { id: materiaId }" le dice a TypeORM
@@ -39,11 +43,14 @@ export class ContenidosCurricularesService {
       ...resto,
       eje: { id: ejeId },
     });
-  
+
     // Recién acá se guarda de verdad en la base de datos (INSERT).
     return this.contenidoCurricularRepository.save(nuevoContenido);
   }
-  async update(id: number, updateContenidoDto: UpdateContenidosCurricularesDto) {
+  async update(
+    id: number,
+    updateContenidoDto: UpdateContenidosCurricularesDto,
+  ) {
     const contenido = await this.contenidoCurricularRepository.preload({
       id,
       ...updateContenidoDto,
@@ -54,11 +61,13 @@ export class ContenidosCurricularesService {
     return this.contenidoCurricularRepository.save(contenido); //guarda la materia actualizada en la base de datos
   }
 
-  async remove(id:number){
-    const contenido= await this.contenidoCurricularRepository.findOneBy({id});//busca la materia por id
-    if(!contenido){
-        throw new NotFoundException(`contenido con id ${id} no encontrada`);
+  async remove(id: number) {
+    const contenido = await this.contenidoCurricularRepository.findOneBy({
+      id,
+    }); //busca la materia por id
+    if (!contenido) {
+      throw new NotFoundException(`contenido con id ${id} no encontrada`);
     }
-    return this.contenidoCurricularRepository.remove(contenido);//elimina la materia de la base de datos
-}
+    return this.contenidoCurricularRepository.remove(contenido); //elimina la materia de la base de datos
+  }
 }

@@ -19,6 +19,7 @@ import { MetodosEvaluacionModule } from './metodos-evaluacion/metodos-evaluacion
 import { EstrategiasEnsenanzaModule } from './estrategias-ensenanza/estrategias-ensenanza.module';
 import { PlanificacionesModule } from './planificaciones/planificaciones.module';
 import { PlanificacionDetallesModule } from './planificacion-detalles/planificacion-detalles.module';
+import { UsersModule } from './users/users.module';
 @Module({
   imports: [
     TypeOrmModule.forRoot({
@@ -36,7 +37,6 @@ import { PlanificacionDetallesModule } from './planificacion-detalles/planificac
         Eje,
         Materia,
         PlanificacionDetalle,
-        User,
       ],
     }),
     MateriasModule, // ← agregar esta línea (con coma antes)
@@ -48,7 +48,8 @@ import { PlanificacionDetallesModule } from './planificacion-detalles/planificac
     MetodosEvaluacionModule,
     EstrategiasEnsenanzaModule,
     PlanificacionesModule,
-    PlanificacionDetallesModule, // ← agregar esta línea (con coma antes)
+    PlanificacionDetallesModule,
+    UsersModule, // ← agregar esta línea (con coma antes)
   ],
   controllers: [AppController],
   providers: [AppService],

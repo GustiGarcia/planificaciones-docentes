@@ -1,4 +1,13 @@
-import { Body, Controller, Get,Post,Patch,Delete ,Param } from '@nestjs/common';
+import {
+  Body,
+  Controller,
+  Get,
+  Post,
+  Patch,
+  Delete,
+  Param,
+  Query,
+} from '@nestjs/common';
 import { ContenidosCurricularesService } from './contenidos-curriculares.service';
 import { UpdateContenidosCurricularesDto } from './dto/update-contenidos-curriculares';
 import { CreateContenidosCurricularesDto } from './dto/create-contenidos-curriculares.dto';
@@ -12,10 +21,10 @@ export class ContenidosCurricularesController {
   ) {}
 
   @Get()
-  findAll() {
-    return this.contenidosCurricularesService.findAll();
+  findAll(@Query('ejeId') ejeId?: string, @Query('anio') anio?: string) {
+    return this.contenidosCurricularesService.findAll(ejeId, anio);
   }
- 
+
   @Get(':id')
   findOne(@Param('id') id: string) {
     return this.contenidosCurricularesService.findOne(+id);
@@ -27,12 +36,14 @@ export class ContenidosCurricularesController {
   }
 
   @Patch(':id')
-  update(@Param('id') id: string, @Body() updateMateriaDto:UpdateContenidosCurricularesDto) {
+  update(
+    @Param('id') id: string,
+    @Body() updateMateriaDto: UpdateContenidosCurricularesDto,
+  ) {
     return this.contenidosCurricularesService.update(+id, updateMateriaDto);
   }
   @Delete(':id')
   remove(@Param('id') id: string) {
     return this.contenidosCurricularesService.remove(+id);
   }
-
 }
