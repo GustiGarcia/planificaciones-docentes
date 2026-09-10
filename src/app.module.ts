@@ -8,6 +8,17 @@ import { MateriasModule } from './materias/materias.module';
 import { ContenidosCurricularesModule } from './contenidos-curriculares/contenidos-curriculares.module';
 import { Eje } from './entities/eje.entity';
 import { EjesModule } from './ejes/ejes.module';
+import { AprendizajeEspecifico } from './entities/aprendizaje-especifico.entity';
+import { AprendizajesEspecificosModule } from './aprendizajes-especificos/aprendizajes-especificos.module';
+import { User } from './entities/user.entity';
+import { PlanificacionDetalle } from './entities/planificacion-detalle.entity';
+import { Planificacion } from './entities/planificacion.entity';
+import { TemasModule } from './temas/temas.module';
+import { ActividadesModule } from './actividades/actividades.module';
+import { MetodosEvaluacionModule } from './metodos-evaluacion/metodos-evaluacion.module';
+import { EstrategiasEnsenanzaModule } from './estrategias-ensenanza/estrategias-ensenanza.module';
+import { PlanificacionesModule } from './planificaciones/planificaciones.module';
+import { PlanificacionDetallesModule } from './planificacion-detalles/planificacion-detalles.module';
 @Module({
   imports: [
     TypeOrmModule.forRoot({
@@ -19,11 +30,25 @@ import { EjesModule } from './ejes/ejes.module';
       database: 'planificaciones_db',
       autoLoadEntities: true,
       synchronize: true,
-      entities: [Materia, ContenidoCurricular,Eje ],
+      entities: [
+        AprendizajeEspecifico,
+        ContenidoCurricular,
+        Eje,
+        Materia,
+        PlanificacionDetalle,
+        User,
+      ],
     }),
-    MateriasModule,   // ← agregar esta línea (con coma antes)
+    MateriasModule, // ← agregar esta línea (con coma antes)
     ContenidosCurricularesModule,
-    EjesModule  // ← agregar esta línea (con coma antes)
+    EjesModule,
+    AprendizajesEspecificosModule,
+    TemasModule,
+    ActividadesModule,
+    MetodosEvaluacionModule,
+    EstrategiasEnsenanzaModule,
+    PlanificacionesModule,
+    PlanificacionDetallesModule, // ← agregar esta línea (con coma antes)
   ],
   controllers: [AppController],
   providers: [AppService],

@@ -1,8 +1,11 @@
 import { Body, Controller, Get,Post,Patch,Delete ,Param } from '@nestjs/common';
 import { EjesService } from './ejes.service';
 import { UpdateEjesDto } from './dto/update-ejes.dto';
-import { CreateEjesDto } from './dto/create-ejes.dto';
+import { CreateEjesDto } from './dto/create-ejes.dto'
+;
+import { ApiTags } from '@nestjs/swagger';
 
+@ApiTags('CRUD Ejes')
 @Controller('ejes')
 export class EjesController {
   constructor(
