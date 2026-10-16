@@ -32,6 +32,13 @@ import { ApiProperty, ApiPropertyOptional } from '@nestjs/swagger';
 
 /** Una fila de la tabla, con todo su contenido en texto. */
 export class FilaDocumentoDto {
+  /* Opcional para no romper a quien ya mandaba documentos sin él:
+     una fila sin eje sale con la celda vacía, no con un 400. */
+  @IsString()
+  @IsOptional()
+  @ApiPropertyOptional({ example: 'Disponibilidad de sí mismo' })
+  eje?: string;
+
   @IsString()
   @ApiProperty({ example: 'Prácticas corporales expresivas…' })
   saberes: string;

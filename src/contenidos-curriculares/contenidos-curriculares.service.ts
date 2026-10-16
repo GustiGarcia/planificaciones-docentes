@@ -11,12 +11,23 @@ export class ContenidosCurricularesService {
     @InjectRepository(ContenidoCurricular)
     private readonly contenidoCurricularRepository: Repository<ContenidoCurricular>,
   ) {}
+  // Trae cada saber CON su eje. A diferencia de "aprendizajes"
+  // (ver el comentario de findOne), esta relación sí conviene acá:
+  // es @ManyToOne, o sea un JOIN que agrega UNA fila por contenido,
+  // no un fan-out. Son 40 saberes con el nombre de su eje al lado,
+  // no 40 saberes multiplicados por sus aprendizajes.
+  //
+  // La necesita el front para armar la columna "Eje" de la tabla de
+  // la planificación: el eje es un dato DEL saber, así que tiene que
+  // viajar con él y no reconstruirse en la pantalla a partir del
+  // filtro que el docente eligió.
   findAll(ejeId?: string, anio?: string) {
     return this.contenidoCurricularRepository.find({
       where: {
         ...(ejeId && { eje: { id: +ejeId } }),
         ...(anio && { anio }),
       },
+      relations: { eje: true },
     });
   }
 
@@ -36,7 +47,7 @@ export class ContenidosCurricularesService {
   async findOne(id: number) {
     const contenido = await this.contenidoCurricularRepository.findOne({
       where: { id },
-      relations: { aprendizajes: true },
+      relations: { aprendizajes: true, eje: true },
     });
     if (!contenido) {
       throw new NotFoundException('Contenido no encontrado');

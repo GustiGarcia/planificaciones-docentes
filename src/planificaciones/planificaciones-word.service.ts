@@ -32,6 +32,7 @@ import {
   TableCell,
   TableRow,
   TextRun,
+  VerticalMergeType,
   WidthType,
 } from 'docx';
 import { Planificacion } from '../entities/planificacion.entity';
@@ -128,6 +129,7 @@ export class PlanificacionesWordService {
       docente: planificacion.user?.nombre ?? '',
       cuatrimestre: planificacion.cuatrimestre ?? null,
       filas: (planificacion.detalles ?? []).map((detalle) => ({
+        eje: detalle.contenidoCurricular?.eje?.nombre ?? '',
         saberes: detalle.contenidoCurricular?.saberes ?? '',
         aprendizajes: (detalle.aprendizajes ?? []).map((a) => a.descripcion),
         estrategias: (detalle.estrategias ?? []).map((e) => e.nombre),
@@ -153,6 +155,7 @@ export class PlanificacionesWordService {
     const encabezado = new TableRow({
       tableHeader: true, // se repite si la tabla pasa de hoja
       children: [
+        this.celdaTitulo('Eje'),
         this.celdaTitulo('Saberes'),
         this.celdaTitulo('Aprendizajes específicos'),
         this.celdaTitulo('Estrategias'),
@@ -162,19 +165,49 @@ export class PlanificacionesWordService {
       ],
     });
 
-    const filas = filasDoc.map(
-      (fila) =>
-        new TableRow({
-          children: [
-            this.celdaLista([fila.saberes || '—'], true),
-            this.celdaLista(fila.aprendizajes ?? []),
-            this.celdaLista(fila.estrategias ?? []),
-            this.celdaLista(fila.actividades ?? []),
-            this.celdaLista(fila.evaluacion ?? []),
-            this.celdaLista(fila.abp ?? []),
-          ],
-        }),
-    );
+    /* La columna del eje se fusiona verticalmente mientras el eje no
+       cambia, igual que en la planificación de papel: el eje se
+       escribe una vez y abarca todos sus saberes.
+
+       En Word una fusión vertical no es una celda que ocupa varias
+       filas, como el rowSpan del HTML: TODAS las filas llevan su
+       celda, y la primera del grupo se marca RESTART mientras las
+       de abajo van CONTINUE (con el texto vacío, que Word ignora).
+       Si una CONTINUE faltara, la tabla quedaría corrida. */
+    const filas = filasDoc.map((fila, indice) => {
+      const ejeAnterior = indice > 0 ? (filasDoc[indice - 1].eje ?? '') : null;
+      const abreGrupo = (fila.eje ?? '') !== ejeAnterior;
+
+      return new TableRow({
+        children: [
+          new TableCell({
+            verticalMerge: abreGrupo
+              ? VerticalMergeType.RESTART
+              : VerticalMergeType.CONTINUE,
+            verticalAlign: 'center' as never,
+            margins: { top: 80, bottom: 80, left: 100, right: 100 },
+            children: [
+              new Paragraph({
+                children: [
+                  new TextRun({
+                    text: abreGrupo ? fila.eje || '—' : '',
+                    bold: true,
+                    size: 18,
+                    color: AZUL,
+                  }),
+                ],
+              }),
+            ],
+          }),
+          this.celdaLista([fila.saberes || '—'], true),
+          this.celdaLista(fila.aprendizajes ?? []),
+          this.celdaLista(fila.estrategias ?? []),
+          this.celdaLista(fila.actividades ?? []),
+          this.celdaLista(fila.evaluacion ?? []),
+          this.celdaLista(fila.abp ?? []),
+        ],
+      });
+    });
 
     const tabla = new Table({
       width: { size: 100, type: WidthType.PERCENTAGE },
@@ -202,7 +235,7 @@ export class PlanificacionesWordService {
         {
           properties: {
             page: {
-              // Apaisado: la tabla tiene seis columnas y no entra
+              // Apaisado: la tabla tiene siete columnas y no entra
               // cómoda en vertical.
               size: { orientation: 'landscape' as never },
               margin: { top: 720, bottom: 720, left: 720, right: 720 },

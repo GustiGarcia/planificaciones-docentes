@@ -54,7 +54,11 @@ export class PlanificacionesService {
         user: true,
         materia: true,
         detalles: {
-          contenidoCurricular: true,
+          /* El eje va adentro del contenido porque es la primera
+             columna del documento, y al generar el Word de una
+             planificación GUARDADA no hay otra forma de saberlo:
+             el detalle apunta al saber, y el eje cuelga del saber. */
+          contenidoCurricular: { eje: true },
           aprendizajes: true,
           estrategias: true,
           actividades: true,
