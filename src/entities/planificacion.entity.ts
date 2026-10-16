@@ -92,5 +92,11 @@ export class Planificacion {
   materia: Materia;
 
   @OneToMany(() => PlanificacionDetalle, (detalle) => detalle.planificacion)
-  detalles: Planificacion[];
+  // El tipo decía Planificacion[] por un copiar y pegar: el decorador
+  // apunta a PlanificacionDetalle, así que la propiedad tiene que ser
+  // de ese tipo. En runtime funcionaba igual (TypeORM se guía por el
+  // decorador, no por el tipo de TS), pero TypeScript creía que acá
+  // venían planificaciones, y por eso no dejaba pedir
+  // relations: { detalles: { contenidoCurricular: true } }.
+  detalles: PlanificacionDetalle[];
 }

@@ -28,10 +28,40 @@ export class PlanificacionesService {
     });
   }
 
+  // Trae la planificación COMPLETA: la cabecera y todas sus filas,
+  // cada una con su saber y las cinco columnas del docente.
+  //
+  // Es el documento entero en una sola consulta. Lo necesitan dos
+  // cosas: reabrir una planificación guardada para seguir editándola,
+  // y generar el Word/PDF desde el backend.
+  //
+  // Cómo se leen las relaciones anidadas:
+  //   user: true        → "traeme el usuario"
+  //   detalles: { ... } → "traeme los detalles, y de CADA detalle
+  //                        traeme además lo que va adentro"
+  //
+  // No hace falta pedir "planificacion" dentro de cada detalle:
+  // sería volver al punto de partida, la planificación que ya
+  // estamos trayendo.
+  //
+  // Es deliberadamente distinto de findAll: ahí se lista
+  // "mis planificaciones" y solo se muestran curso, materia y año.
+  // Traer los detalles de todas sería traer la base entera.
   async findOne(id: number) {
     const planificacion = await this.planificacionRepository.findOne({
       where: { id },
-      relations: {user:true, materia:true},
+      relations: {
+        user: true,
+        materia: true,
+        detalles: {
+          contenidoCurricular: true,
+          aprendizajes: true,
+          estrategias: true,
+          actividades: true,
+          metodosEvaluacion: true,
+          temas: true,
+        },
+      },
     });
     if (!planificacion) {
       throw new NotFoundException(`Planificacion con id ${id} no encontrada`);

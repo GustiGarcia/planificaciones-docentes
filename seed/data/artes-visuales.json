@@ -1,0 +1,188 @@
+{
+  "_fuente": "DCP Secundario Mendoza - Bachiller en Turismo. Artes Visuales, Formación General - Ciclo Básico.",
+  "_nota": "El encabezado del DCP dice '1° y/o 2° Año Ciclo Básico': una sola tabla de saberes para los dos años. Cada saber está cargado dos veces, como 1° y como 2°, para que aparezca elijas el año que elijas. No es una progresión: es el MISMO saber. Páginas 182 a 184 del PDF.",
+  "materia": {
+    "nombre": "Artes Visuales",
+    "orientacion": "Bachiller en Turismo"
+  },
+  "ejes": [
+    {
+      "nombre": "En relación con las prácticas de producción de las artes visuales",
+      "contenidos": [
+        {
+          "anio": "1",
+          "saberes": "Analizar y aplicar los componentes del lenguaje visual (forma, luz, color, textura, espacio) en producciones personales y/o grupales.",
+          "aprendizajes": [
+            "Reconocimiento exploratorio de los componentes del lenguaje visual para la producción con sentido.",
+            "Utilización del color y la luz como elementos compositivos generadores de espacialidad, atmósferas, volumen y sus diferentes significaciones.",
+            "Caracterización en distintos modos de organización del espacio material o virtual para representar, presentar o intervenir."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Analizar y aplicar los componentes del lenguaje visual (forma, luz, color, textura, espacio) en producciones personales y/o grupales.",
+          "aprendizajes": [
+            "Reconocimiento exploratorio de los componentes del lenguaje visual para la producción con sentido.",
+            "Utilización del color y la luz como elementos compositivos generadores de espacialidad, atmósferas, volumen y sus diferentes significaciones.",
+            "Caracterización en distintos modos de organización del espacio material o virtual para representar, presentar o intervenir."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Producir imágenes bidimensionales y tridimensionales, fijas/móviles con significados poéticos, metafóricos, ficcionales y simbólicos.",
+          "aprendizajes": [
+            "Selección de materiales y soportes en la bidimensión y tridimensión, convencionales y no convencionales, como portadores de sentido para representar, presentar o intervenir.",
+            "Análisis exploratorio de recursos, herramientas y procedimientos técnicos en función de lo producido.",
+            "Relación entre plano, espacio, volúmenes, formas y los distintos puntos de vista.",
+            "Realización de producciones a partir de temáticas relacionadas con la realidad adolescente/juvenil para favorecer la construcción de identidad.",
+            "Reconocimiento e integración de prácticas artísticas populares, contemporáneas y contextualizadas.",
+            "Producción de imágenes: materiales, virtuales o efímeras que tiendan a las superaciones de estereotipos y convenciones estéticas y visuales."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Producir imágenes bidimensionales y tridimensionales, fijas/móviles con significados poéticos, metafóricos, ficcionales y simbólicos.",
+          "aprendizajes": [
+            "Selección de materiales y soportes en la bidimensión y tridimensión, convencionales y no convencionales, como portadores de sentido para representar, presentar o intervenir.",
+            "Análisis exploratorio de recursos, herramientas y procedimientos técnicos en función de lo producido.",
+            "Relación entre plano, espacio, volúmenes, formas y los distintos puntos de vista.",
+            "Realización de producciones a partir de temáticas relacionadas con la realidad adolescente/juvenil para favorecer la construcción de identidad.",
+            "Reconocimiento e integración de prácticas artísticas populares, contemporáneas y contextualizadas.",
+            "Producción de imágenes: materiales, virtuales o efímeras que tiendan a las superaciones de estereotipos y convenciones estéticas y visuales."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Reconocer la tecnología como nuevos modos de acceso, producción, circulación y consumo de las manifestaciones visuales.",
+          "aprendizajes": [
+            "Reconocimiento exploratorio de distintos dispositivos y medios tecnológicos en función de sus posibilidades para la producción visual con sentido.",
+            "Utilización de los medios tecnológicos para abordar los nuevos modos de acceso, circulación y consumo de las producciones visuales."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Reconocer la tecnología como nuevos modos de acceso, producción, circulación y consumo de las manifestaciones visuales.",
+          "aprendizajes": [
+            "Reconocimiento exploratorio de distintos dispositivos y medios tecnológicos en función de sus posibilidades para la producción visual con sentido.",
+            "Utilización de los medios tecnológicos para abordar los nuevos modos de acceso, circulación y consumo de las producciones visuales."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Participar en proyectos colectivos de producción en Artes Visuales respetando la diversidad y la inclusión.",
+          "aprendizajes": [
+            "Identificación de temáticas, de interés propios y en relación con las necesidades de su contexto.",
+            "Identificación y diferenciación de roles en relación a la participación activa y responsable.",
+            "Reconocimiento de las posibilidades creativas propias y de las de sus pares orientado a la valoración del trabajo cooperativo y con sentido inclusivo."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Participar en proyectos colectivos de producción en Artes Visuales respetando la diversidad y la inclusión.",
+          "aprendizajes": [
+            "Identificación de temáticas, de interés propios y en relación con las necesidades de su contexto.",
+            "Identificación y diferenciación de roles en relación a la participación activa y responsable.",
+            "Reconocimiento de las posibilidades creativas propias y de las de sus pares orientado a la valoración del trabajo cooperativo y con sentido inclusivo."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Comprender y apreciar las producciones propias y de los pares.",
+          "aprendizajes": [
+            "Reflexión a partir de las decisiones tomadas en el proceso de producción de acuerdo a la intencionalidad, promoviendo el intercambio respetuoso de opiniones.",
+            "Confrontación de diferentes miradas y lecturas sobre una misma obra.",
+            "Apropiación del vocabulario específico del lenguaje tanto para dar cuenta de las decisiones tomadas en el proceso de producción como en la lectura de las obras de sus pares y/o artistas."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Comprender y apreciar las producciones propias y de los pares.",
+          "aprendizajes": [
+            "Reflexión a partir de las decisiones tomadas en el proceso de producción de acuerdo a la intencionalidad, promoviendo el intercambio respetuoso de opiniones.",
+            "Confrontación de diferentes miradas y lecturas sobre una misma obra.",
+            "Apropiación del vocabulario específico del lenguaje tanto para dar cuenta de las decisiones tomadas en el proceso de producción como en la lectura de las obras de sus pares y/o artistas."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "En relación con las prácticas de las artes visuales y su contexto",
+      "contenidos": [
+        {
+          "anio": "1",
+          "saberes": "Interpretar la imagen visual como producciones vinculadas al contexto social, económico, político y cultural.",
+          "aprendizajes": [
+            "Desarrollo de la percepción del lenguaje visual como punto de partida de la experiencia estética.",
+            "Reflexión crítica acerca de la relación entre los componentes del lenguaje, su organización y la intencionalidad del artista.",
+            "Reflexión del objeto artístico a fin de abordar diversos niveles de lectura e interpretación de la imagen a través de la construcción de criterios de análisis, valoración y fundamentación de opiniones.",
+            "Comprensión del concepto de mirada como construcción cultural."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Interpretar la imagen visual como producciones vinculadas al contexto social, económico, político y cultural.",
+          "aprendizajes": [
+            "Desarrollo de la percepción del lenguaje visual como punto de partida de la experiencia estética.",
+            "Reflexión crítica acerca de la relación entre los componentes del lenguaje, su organización y la intencionalidad del artista.",
+            "Reflexión del objeto artístico a fin de abordar diversos niveles de lectura e interpretación de la imagen a través de la construcción de criterios de análisis, valoración y fundamentación de opiniones.",
+            "Comprensión del concepto de mirada como construcción cultural."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Reconocer y analizar manifestaciones visuales; locales, nacionales y latinoamericanas orientadas a la valoración estética.",
+          "aprendizajes": [
+            "Construcción de criterios de valoración y fundamentación de opiniones.",
+            "Aproximación a categorías estéticas, movimientos y manifestaciones artísticas.",
+            "Reflexión acerca de las obras visuales y sus contextos históricos y sociales con una mirada relacional e integradora.",
+            "Comprensión del Arte en la actualidad, sus prácticas y funciones sociales.",
+            "Reflexión sobre los modos de producción y circulación de las obras visuales en la contemporaneidad.",
+            "Participación de encuentros, muestras, espectáculos para favorecer el contacto con distintos productores visuales (artistas, artesanos, iluminadores, escenógrafos, fotógrafos, etc.)."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Reconocer y analizar manifestaciones visuales; locales, nacionales y latinoamericanas orientadas a la valoración estética.",
+          "aprendizajes": [
+            "Construcción de criterios de valoración y fundamentación de opiniones.",
+            "Aproximación a categorías estéticas, movimientos y manifestaciones artísticas.",
+            "Reflexión acerca de las obras visuales y sus contextos históricos y sociales con una mirada relacional e integradora.",
+            "Comprensión del Arte en la actualidad, sus prácticas y funciones sociales.",
+            "Reflexión sobre los modos de producción y circulación de las obras visuales en la contemporaneidad.",
+            "Participación de encuentros, muestras, espectáculos para favorecer el contacto con distintos productores visuales (artistas, artesanos, iluminadores, escenógrafos, fotógrafos, etc.)."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Interpretar obras de arte en las que exista integración de lenguajes, identificando las vinculaciones entre las manifestaciones visuales y otros lenguajes artísticos.",
+          "aprendizajes": [
+            "Análisis y apreciación de producciones estéticas en diálogo intergenérico.",
+            "Vinculación de las Artes Visuales con otros lenguajes artísticos en sus diversos modos de vinculación y participación."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Interpretar obras de arte en las que exista integración de lenguajes, identificando las vinculaciones entre las manifestaciones visuales y otros lenguajes artísticos.",
+          "aprendizajes": [
+            "Análisis y apreciación de producciones estéticas en diálogo intergenérico.",
+            "Vinculación de las Artes Visuales con otros lenguajes artísticos en sus diversos modos de vinculación y participación."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Analizar la incidencia de las nuevas tecnologías en las artes visuales.",
+          "aprendizajes": [
+            "Identificación y análisis crítico del impacto de las nuevas tecnologías en las producciones visuales, su circulación y consumo."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Analizar la incidencia de las nuevas tecnologías en las artes visuales.",
+          "aprendizajes": [
+            "Identificación y análisis crítico del impacto de las nuevas tecnologías en las producciones visuales, su circulación y consumo."
+          ]
+        }
+      ]
+    }
+  ]
+}

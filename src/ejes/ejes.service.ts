@@ -11,8 +11,18 @@ export class EjesService {
     @InjectRepository(Eje) private readonly ejeRepository: Repository<Eje>,
   ) {}
 
+  // Cada eje viene con la materia a la que pertenece.
+  //
+  // Sin esto, el front recibe una lista de ejes sueltos y no tiene
+  // forma de saber cuál es de Educación Física y cuál de Biología:
+  // la columna "materiaId" existe en la base, pero no está declarada
+  // como @Column en la entity, así que no viaja en el JSON.
+  //
+  // Es UN join contra una tabla chica, así que el costo es mínimo.
   findAll() {
-    return this.ejeRepository.find();
+    return this.ejeRepository.find({
+      relations: { materia: true },
+    });
   }
 
   async findOne(id: number) {

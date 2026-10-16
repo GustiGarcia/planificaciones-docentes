@@ -1,0 +1,246 @@
+{
+  "_fuente": "DCP Secundario Mendoza - Bachiller en Turismo. Historia y Formación Ética y Ciudadana - Ciclo Básico (1° y 2°, páginas 127-131) e Historia - Ciclo Orientado (3° y 4°, páginas 134-141).",
+  "_nota": "En Básico el espacio es 'Historia y Formación Ética y Ciudadana' (1°, 2°); en Orientado continúa como 'Historia' (3°, 4°) organizada por períodos. El DCP lista competencias transversales y, por cada eje-período, un bloque de aprendizajes específicos: cada período se cargó como un eje con un saber que resume sus competencias y su bloque de aprendizajes. (En 5° Formación Ética y Ciudadana es un espacio aparte.)",
+  "materia": {
+    "nombre": "Historia y Formación Ética y Ciudadana",
+    "orientacion": "Bachiller en Turismo"
+  },
+  "ejes": [
+    {
+      "nombre": "Sujetos e interacción en los procesos sociales",
+      "contenidos": [
+        {
+          "anio": "1",
+          "saberes": "Reconocer y comprender los diversos intereses, puntos de vista y formas de actuar en los sujetos, según el contexto individual y social en el que se desenvuelven.",
+          "aprendizajes": [
+            "Identificación de diversas formas de interacción entre los individuos y los grupos sociales y comprensión de la posición que ocupan dentro de los procesos históricos que suponen cambios profundos, como el inicio de la modernidad.",
+            "Reflexión ética a través del diálogo como herramienta para la confrontación de opiniones e ideas diferentes y su aplicación en las nuevas formas de interacción mediadas por las TIC y sus características particulares (redes sociales, plataformas colaborativas, otras).",
+            "Análisis de casos que favorecen o no relaciones humanas respetuosas de la diversidad."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Reconocer las diferentes formas en que se pueden organizar las sociedades e identificar los múltiples elementos que intervienen en dicha organización.",
+          "aprendizajes": [
+            "Construcción compartida de conceptos como: dominio, poder, conflicto, resistencia y consenso.",
+            "Caracterización y explicación de la influencia que la dimensión ideológico-política ejerce en la vida cotidiana a partir de la consideración de lo público, lo privado y el Estado.",
+            "Identificación, distinción y relación de la tensión entre Estado-Sociedad en diferentes contextos históricos, para la construcción de explicaciones provisorias."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Comprender que los sujetos son portadores de identidades y modos de vida diversos.",
+          "aprendizajes": [
+            "Identificación de modos de ser y relacionarse diversos a partir del reconocimiento de prejuicios, estereotipos y estigmatizaciones.",
+            "Identificación de situaciones en las que se vulneran derechos fundamentales."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Reconocer los tipos de Estado y sus diferentes formas de organización y acción.",
+          "aprendizajes": [
+            "Reconocimiento de los procesos históricos de construcción de normas y leyes en relación a la inclusión de lo nuevo y distinto.",
+            "Identificación de los procesos de avances y retrocesos en la conquista de derechos y las implicancias en los diferentes grupos de sujetos.",
+            "Comparación y análisis de los sistemas políticos en diferentes contextos socio-históricos tomando en cuenta sus valores y prácticas."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Procesos histórico sociales",
+      "contenidos": [
+        {
+          "anio": "1",
+          "saberes": "Comprender las distintas problemáticas socio-históricas asumiendo la complejidad de las categorías temporales en los procesos históricos estudiados (sincronía, asincronía, diacronía, cronología, periodización y duración).",
+          "aprendizajes": [
+            "Ubicación de acontecimientos en el tiempo utilizando jerárquicamente distintas unidades cronológicas desde el siglo XV hasta principios del siglo XIX.",
+            "Representación gráfica del tiempo y su interpretación histórica ubicando acontecimientos claves y significativos como inicio y final del período estudiado.",
+            "Identificación de cambios en diferentes dimensiones en el espacio europeo y americano antes, durante y después del proceso de conquista y colonización, reconociendo sincronía y asincronía."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Reconocer cambios y continuidades en diferentes contextos y dimensiones (ideológicas, políticas, económicas, sociales, etc.) así como su impacto en las sociedades.",
+          "aprendizajes": [
+            "Reconocimiento y comparación de las diferentes formas de organización de los pueblos originarios (cazadores, recolectores, agrícolas) y sociedades urbanas complejas (Incas, Mayas, Aztecas) identificando diferentes duraciones."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Conceptualizar categorías claves para la explicación de todos los procesos históricos. Reconocer la construcción de sistemas de poder como producto de procesos sociales conflictivos en diferentes contextos, desde la multi-perspectividad y el vocabulario específico.",
+          "aprendizajes": [
+            "Identificación de las formas de ocupación y organización del territorio americano durante la colonización como idea de apropiación y dominio",
+            "Reconocimiento y análisis de las formas de producción económica que implican procesos de dominación y cambio en la vida cotidiana de los dominados.",
+            "Reconocimiento de las revoluciones burguesas (Revolución Francesa, Revolución Industrial) como producto de procesos sociales conflictivos que impactan en distintos tiempos y espacios.",
+            "Identificación, en ese proceso, de la ruptura del vínculo colonial de América con España y su reformulación en el nuevo pacto colonial.",
+            "Análisis de una fuente documental sencilla y breve para diferenciar: el tipo de información que ofrece, interpretaciones diferentes contrapuestas y superadoras producidas por historiadores con el fin de interpretarla y relacionarla con el contexto.",
+            "Identificación de evidencias y establecimiento de inferencias sobre los cambios producidos entre los siglos XV y XVIII de la historia europea y americana en diversas fuentes de información primarias y secundarias.",
+            "Reconocimiento de términos comúnmente utilizados en las explicaciones históricas: interés, político, económico, proceso, etc. a través del uso de diversas fuentes con distintos formatos."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Describir las distintas problemáticas socio-históricas reconociendo la complejidad de las categorías temporales en los procesos históricos estudiados (sincronía, asincronía, diacronía, cronología, periodización y duración).",
+          "aprendizajes": [
+            "Ubicación de acontecimientos en el tiempo utilizando jerárquicamente distintas unidades cronológicas desde el siglo XIX hasta la tercera década del siglo XX de la historia Argentina (consolidación del Estado nacional y expansión agroexportadora; crisis del régimen conservador y ampliación democrática; crisis mundial y repercusión en Argentina: primer golpe de Estado)",
+            "Decodificación de representaciones gráficas del tiempo con diferentes grados de complejidad del proceso histórico de construcción, consolidación y transformación del Estado argentino hasta 1930."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Analizar y explicar los procesos históricos argentinos, latinoamericanos y mundiales entre el siglo XIX y 1930.",
+          "aprendizajes": [
+            "Secuenciación de los procesos nacionales con acontecimientos trascendentes de orden internacional (industrialización y expansión del capitalismo, imperialismo, División Internacional del Trabajo, primera guerra mundial, crisis del sistema capitalista y expansión de los nacionalismos)."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Comprender y comparar tipos de Estado y su relación de tensión con la participación social en el proceso de formación, organización, consolidación y cambio del Estado argentino entre el siglo XIX y 1930, utilizando la categoría de multi perspectividad y el vocabulario específico.",
+          "aprendizajes": [
+            "Identificación de conflictos e intereses en la formación del Estado durante la primera mitad del siglo XIX (1810/1862).",
+            "Reconocimiento y explicación de la organización del Estado argentino en el modelo Liberal en sus distintas dimensiones: político-ideológico (democracia restringida), económica (modelo agroexportador), sociales-culturales (impacto de la inmigración).",
+            "Identificación de la incidencia de las luchas sociales y políticas y su impacto en los cambios del modelo conservador: Ley Sáenz Peña, Ley de Residencia, Ley de Defensa Social, etc.",
+            "Reconocimiento de las principales características de los gobiernos radicales y su relación con la participación social: demandas de derechos sociales y su respuesta.",
+            "Elaboración de inferencias e hipótesis (conjeturas o suposiciones) a partir de la información explícita obtenida en las fuentes primarias analizadas.",
+            "Comparación de distintas versiones sobre acontecimientos provenientes de fuentes a partir del análisis de fragmentos identificando opiniones coincidentes o contradictorias.",
+            "Utilización de criterios de validación y confiabilidad para fuentes tradicionales y digitales."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Participación y construcción ciudadana",
+      "contenidos": [
+        {
+          "anio": "1",
+          "saberes": "Interpretar los procesos de construcción de ciudadanía a lo largo de diversos periodos históricos.",
+          "aprendizajes": [
+            "Reconocimiento de la construcción del ejercicio de la ciudadanía a partir de los procesos revolucionarios del siglo XVIII.",
+            "Comparación de los primeros documentos que reconocen derechos individuales y colectivos y comprensión de los mismos como el resultado de conflicto de intereses.",
+            "Reconocimiento del desarrollo y de la importancia de la participación ciudadana en la actualidad.",
+            "Identificación y análisis del impacto de las tecnologías digitales en las nuevas formas de participación y construcción de ciudadanía."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Reconocer la relevancia de la participación ciudadana en la vida democrática y reflexionar sobre el impacto de la cultura digital en la misma.",
+          "aprendizajes": [
+            "Reconocimiento de la importancia de intervenir en distintas instancias de discusión y participación colectiva.",
+            "Confrontación y análisis de procesos de construcción colectiva mediante la utilización del lenguaje argumentativo.",
+            "Aplicación de la mediación como instrumento para la resolución de conflictos.",
+            "Reflexión sobre la participación y producción en los nuevos espacios virtuales de colaboración, comunicación y opinión."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Historia 3° - 1910/1945: de la democracia restringida a la democracia ampliada y su crisis",
+      "contenidos": [
+        {
+          "anio": "3",
+          "saberes": "Reconocer y explicar las problemáticas socio-históricas de Argentina y Latinoamérica en el contexto de Occidente, en sus múltiples dimensiones; reconocer la construcción de los tipos de estado en relación a los cambios en el sistema capitalista; y caracterizar los intereses, puntos de vista, acuerdos y conflictos de los actores que construyen los sistemas sociales.",
+          "aprendizajes": [
+            "Identificación de la expansión del sistema capitalista y sus transformaciones a fines del siglo XIX y comienzos del siglo XX, su relación con el imperialismo y la Gran Guerra y las características que asumió la inserción de Latinoamérica en el mercado mundial: economías de exportación, con particular referencia al modelo agroexportador argentino.",
+            "Reconocimiento de las transformaciones producidas en la estructura social a partir de los cambios en el sistema de producción; la inmigración y su impacto en la construcción de la identidad sociocultural para el caso argentino.",
+            "Identificación de relaciones entre el modelo económico adoptado, los cambios sociales producidos y el sistema político de dominación adoptado en América Latina con particular énfasis en Argentina.",
+            "Contrastación e identificación del protagonismo de los nuevos movimientos y luchas sociales en Argentina y Latinoamérica, las diferentes respuestas que se articulan entre las demandas de la sociedad y las respuestas del Estado ya sea con reformas progresistas de reconocimiento de derechos (1916-1930) o con acciones represivas (entre 1930 y 1945).",
+            "Reconocimiento de la crisis del sistema capitalista de 1929, la respuesta del Estado y su impacto en la cuestión social a través del modelo keynesiano.",
+            "Identificación de las Fuerzas Armadas como nuevo actor social y político emergente en los procesos de ruptura de la institucionalidad democrática a partir de 1930 y su relación con otros actores.",
+            "Explicación del proceso de emergencia y configuración de los estados totalitarios en Europa en el marco de la crisis del sistema capitalista liberal y sus manifestaciones en el plano ideológico y social interno y la Segunda Guerra Mundial en el plano externo.",
+            "Reconocimiento e identificación de la Shoá como plan sistemático de violación de los Derechos Humanos por parte del Estado."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Historia 3° - 1945/1976: de la democracia masiva a la crisis de la democracia",
+      "contenidos": [
+        {
+          "anio": "3",
+          "saberes": "Comparar contextos y la realidad sociohistórica argentina con diversas realidades latinoamericanas; analizar, interpretar y organizar información procedente de fuentes diversas reconociendo la información implícita y explícita y los múltiples posicionamientos sobre los procesos.",
+          "aprendizajes": [
+            "Caracterización del Estado de Bienestar e identificación de las transformaciones que significaron en la vida social y económica en el mundo y su expresión en la Argentina.",
+            "Reconocimiento del populismo latinoamericano (peronismo, varguismo, cardenismo, etc.) y del protagonismo de nuevos actores sociales (el movimiento obrero, los nuevos empresarios industriales) en las demandas y luchas por la participación democrática.",
+            "Explicación de las novedades y conflictos que supone en la vida cotidiana de la clase dominante y sectores subalternos la implantación del Estado de bienestar y una sociedad de derechos sociales expandidos.",
+            "Reconocimiento del impacto de la Revolución cubana en los procesos políticos y sociales de Latinoamérica en el marco de la Guerra Fría.",
+            "Caracterización de la política norteamericana en la región y la implementación de la DSN como sustento ideológico de las dictaduras militares de las décadas del 60 y 70.",
+            "Identificación de los conflictos sociales y los sectores subalternos implicados en ese conflicto que atraviesan a la sociedad argentina a partir de 1955 y hasta 1976, en particular las décadas del 60 y 70.",
+            "Inferencia de conclusiones en torno a la repercusión en la inestabilidad institucional, la desvalorización de la democracia y el incremento de la violencia política.",
+            "Análisis del establecimiento de democracias controladas y dictaduras militares como mecanismo de los sectores dominantes.",
+            "Caracterización de la etapa de democracia 'custodiada' por las Fuerzas Armadas en el contexto de proscripción política.",
+            "Aplicación de las nuevas tecnologías para integrar y relacionar núcleos problematizadores en los conceptos abordados."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Historia 3° - 1976/2010: de la anulación de la democracia a la democracia nueva",
+      "contenidos": [
+        {
+          "anio": "3",
+          "saberes": "Comprender la transición desde el terrorismo de Estado y el neoliberalismo hacia la democracia nueva como construcción de ciudadanía múltiple, en el marco de la transnacionalización del capitalismo.",
+          "aprendizajes": [
+            "Reconocimiento del impacto de la crisis del petróleo y de la crisis del Estado de bienestar en América Latina, en particular la Argentina, y las consecuencias sociales de la implementación de las políticas neoliberales y su cristalización en las diferentes expresiones de la crisis de 2001.",
+            "Identificación del concepto de 'Terrorismo de Estado' en relación al plan sistemático de violación de Derechos Humanos implementado a partir de 1976: disciplinamiento social, político e ideológico.",
+            "Reconocimiento del proyecto económico de la dictadura militar: monetarismo, desindustrialización y endeudamiento externo y su impacto en la sociedad.",
+            "Reconocimiento de las acciones llevadas a cabo por los organismos de derechos humanos y de amplios sectores de la sociedad para la recuperación democrática.",
+            "Explicación de las consecuencias sociales, políticas, económicas y culturales del régimen de terrorismo de Estado en la Argentina durante la dictadura militar entre 1976 y 1983.",
+            "Reconocimiento de las características del proceso de democratización iniciado a partir de 1983.",
+            "Interpretación del alcance de la imposición de las decisiones del Consenso de Washington para las sociedades latinoamericanas, en particular la Argentina.",
+            "Identificación de las relaciones de tensión Estado/Sociedad en el marco de la Democracia nueva (2001-2010)."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Historia 4° - 1960/70-1976: democracia 'custodiada', inestabilidad política y crisis de la democracia",
+      "contenidos": [
+        {
+          "anio": "4",
+          "saberes": "Analizar, comparar y sintetizar las problemáticas socio históricas de Argentina y Latinoamérica en el contexto histórico internacional en sus múltiples dimensiones, reconociendo la complejidad de las categorías temporales para fortalecer la participación como sujeto de derechos.",
+          "aprendizajes": [
+            "Caracterización y reconocimiento de la Revolución Cubana en el marco de la 'Guerra Fría' y su relación con las realidades latinoamericana y argentina, con especial referencia a la política norteamericana para la región: Doctrina de Seguridad Nacional.",
+            "Identificación de los conflictos a nivel mundial después de la Guerra Fría. De la expansión a la crisis económica de 1973, las críticas al Estado de Bienestar y su impacto en Latinoamérica y Argentina.",
+            "Construcción de conclusiones provisorias sobre el impacto ideológico-político de la Doctrina de Seguridad Nacional en el sistema político latinoamericano y argentino (como recurso de los sectores dominantes para imponer sus intereses y proyectos).",
+            "Caracterización del Estado Burocrático Autoritario a partir del Golpe de Estado de 1966, y las respuestas de las sociedades civiles (organizadas y espontáneas). La crisis y el proceso de retorno del peronismo al poder, el inicio de la represión ilegal en el conflicto izquierda/derecha peronista y la violencia como forma de resolución de conflictos sociales y políticos."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Historia 4° - 1976/1983: anulación de la democracia en contexto de violencia y autoritarismo",
+      "contenidos": [
+        {
+          "anio": "4",
+          "saberes": "Analizar las relaciones de tensión entre Estado y sociedad que configuran decisiones políticas sobre los modelos de desarrollo económico; explicar los conflictos que se producen a partir de la intervención de diferentes actores; y reconocer y debatir conceptos y problemas del pasado reciente de la Argentina y los discursos de memoria(s) circulantes.",
+          "aprendizajes": [
+            "Explicación del impacto de la crisis del petróleo, de la crisis del Estado de bienestar en América Latina y la aplicación de la Doctrina de Seguridad Nacional, en particular en la Argentina.",
+            "Identificación de características del disciplinamiento social y concentración económica de la última dictadura militar desde el Golpe de Estado de 1976.",
+            "Caracterización del concepto de Terrorismo de Estado y análisis del plan sistemático de violación de Derechos Humanos implementado en 1976.",
+            "Reconocimiento del proyecto económico de la dictadura militar y su impacto en el disciplinamiento social. Crisis de la dictadura: la Guerra de Malvinas.",
+            "Reconocimiento de las acciones llevadas a cabo por la sociedad civil: entre la resistencia y el consentimiento.",
+            "Reconocimiento de los distintos discursos de memoria y sus debates que circulan sobre historia reciente argentina y latinoamericana."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Historia 4° - 1983/2010: democracia nueva, transición y consolidación",
+      "contenidos": [
+        {
+          "anio": "4",
+          "saberes": "Analizar críticamente, interpretar y organizar información procedente de fuentes diversas para reconocer planos implícitos y explícitos y múltiples puntos de vista sobre los procesos de transición y consolidación democrática.",
+          "aprendizajes": [
+            "Caracterización del nuevo orden mundial a partir de la caída del Muro de Berlín.",
+            "Interpretación del alcance de las decisiones del Consenso de Washington impuestas a las sociedades latinoamericanas, en particular la Argentina.",
+            "Reconocimiento de conceptos claves presentes en la transición a las democracias y su consolidación en América Latina, sus diferencias y similitudes como resultado de procesos históricos particulares.",
+            "Caracterización de los planes económicos neoliberales llevados a cabo por las nuevas democracias y su impacto en la sociedad (1983-2001).",
+            "Construcción de inferencias y conclusiones provisorias sobre las políticas neoliberales y su relación con la crisis política y económica del 2001.",
+            "Identificación de las relaciones de tensión Estado/Sociedad en el marco de la Democracia nueva (2001-2010).",
+            "Aplicación de las nuevas tecnologías para integrar y relacionar núcleos problematizadores en los conceptos abordados."
+          ]
+        }
+      ]
+    }
+  ]
+}

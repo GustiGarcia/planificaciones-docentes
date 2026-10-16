@@ -45,8 +45,26 @@ export class PlanificacionDetallesService {
 
     return this.detalleRepository.save(detalle);
   }
-  findAll() {
-    return `This action returns all planificacionDetalles`;
+  // Estaba sin implementar: devolvía el texto que deja el CLI de Nest
+  // al generar el módulo. Ahora lista de verdad.
+  //
+  // Con "planificacionId" trae solo las filas de esa planificación,
+  // que es el uso real: mostrar la tabla de un documento. Sin el
+  // parámetro trae todas, igual que los demás findAll.
+  findAll(planificacionId?: string) {
+    return this.detalleRepository.find({
+      ...(planificacionId && {
+        where: { planificacion: { id: +planificacionId } },
+      }),
+      relations: {
+        contenidoCurricular: true,
+        aprendizajes: true,
+        estrategias: true,
+        actividades: true,
+        metodosEvaluacion: true,
+        temas: true,
+      },
+    });
   }
 
   async findOne(id: number) {

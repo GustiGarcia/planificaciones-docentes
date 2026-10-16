@@ -1,0 +1,248 @@
+{
+  "_fuente": "DCP Secundario Mendoza - Bachiller en Turismo. Ciencias Naturales, Formación General - Ciclo Básico (páginas 162 a 168 del PDF).",
+  "_nota": "En Ciclo Básico las Ciencias Naturales van unificadas; recién en Ciclo Orientado se separan en Biología, Física y Química. El eje de fenómenos físicos aparece en el PDF como 'En relación con...' en 1° y 'En relación a...' en 2°: lo unifiqué en 'con' para que no queden dos ejes distintos por una preposición.",
+
+  "materia": {
+    "nombre": "Ciencias Naturales",
+    "orientacion": "Bachiller en Turismo"
+  },
+
+  "ejes": [
+    {
+      "nombre": "En relación con los seres vivos: diversidad, unidad, interrelaciones y cambios",
+      "contenidos": [
+        {
+          "anio": "1",
+          "saberes": "Reconocer la unidad en la diversidad en todos los sistemas biológicos identificando los atributos y funciones comunes, en el marco de las teorías científicas que explican el origen que comparten.",
+          "aprendizajes": [
+            "Identificación e interpretación de las características de los seres vivos como sistemas abiertos, en permanente interacción con el medio, con organización específica y origen común, que cambian a lo largo del tiempo y tienen la capacidad de reproducción y autorregulación.",
+            "Distinción y ejemplificación de los diferentes niveles de organización de los seres vivos, con sus propiedades emergentes.",
+            "Interpretación y comparación de las teorías científicas que explican el origen de la vida: generación espontánea, biogénesis, quimiosíntesis, bajo la comprensión del conocimiento científico como una construcción socio-histórica y de carácter provisorio."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Interpretar el modelo de célula como unidad estructural, funcional y de origen de todos los seres vivos propuesto por la Teoría Celular, reconociendo la diversidad celular.",
+          "aprendizajes": [
+            "Identificación de un patrón general de funcionamiento en los tipos celulares básicos, reconociendo la unidad en el marco de la diversidad biológica.",
+            "Descripción de los componentes en la célula eucariota y procariota, aproximándose a la comprensión de la dinámica celular a partir de modelizaciones, observaciones y uso adecuado de recursos tecnológicos de laboratorio e informáticos.",
+            "Aproximación a la noción de diversidad celular en organismos pluricelulares, atendiendo a los procesos de diferenciación y especialización."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Comprender la nutrición humana como la integración de funciones de obtención y transformación de materia y energía desde la noción de organismo humano como sistema integrado y abierto, para la construcción de actitudes y acciones de cuidado de la salud personal y colectiva.",
+          "aprendizajes": [
+            "Elaboración e interpretación de modelos integradores de los sistemas involucrados en la nutrición humana que permitan explicar los procesos de transformación de los alimentos desde la ingestión hasta su llegada y aprovechamiento en las células, el intercambio de gases y la eliminación de desechos, bajo la comprensión de la función vinculante del sistema circulatorio.",
+            "Indagación acerca de la función que cumplen los nutrientes en el organismo humano para interpretar su relación con la salud, en particular la de adolescentes y jóvenes.",
+            "Reconocimiento y valoración de actitudes y acciones de cuidado de la salud personal y colectiva."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Reconocer la importancia de ordenar la biodiversidad, interpretando los criterios utilizados por los distintos sistemas de clasificación.",
+          "aprendizajes": [
+            "Descripción de sistemas de clasificación biológica en su desarrollo histórico desde posiciones flexibles que permitan la comprensión de que los criterios de clasificación son constructos arbitrarios y provisorios.",
+            "Distinción de características básicas (número de células, tipo de células, tipo de nutrición) que permiten agrupar a los seres vivos en categorías taxonómicas tales como dominios y reinos.",
+            "Identificación de la evolución como la base para agrupar a los organismos en las actuales clasificaciones."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Valorar la importancia de la preservación de la diversidad biológica.",
+          "aprendizajes": [
+            "Reconocimiento de la diversidad biológica mediante la ejemplificación de formas, funciones y hábitat, entre otras",
+            "Apreciación del valor que posee la biodiversidad desde los puntos de vista ecológico y económico.",
+            "Identificación de acciones humanas que ponen en riesgo o protegen a la diversidad biológica."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Interpretar la función de reproducción de los seres vivos en sus variantes sexual y asexual, los procesos de la reproducción celular: mitosis en eucariotas y la producción de gametos a partir del proceso de meiosis.",
+          "aprendizajes": [
+            "Caracterización de la función de reproducción de los seres vivos en sus variantes sexual y asexual con las ventajas y desventajas evolutivas que representa cada una.",
+            "Identificación de la variabilidad como ventaja principal de la reproducción sexual.",
+            "Reconocimiento de la mitosis como el proceso que permite tanto el crecimiento en organismos pluricelulares, el reemplazo de células dañadas, como la reproducción en organismos unicelulares eucariotas.",
+            "Interpretación de la mitosis haciendo foco en la generación de dos células hijas a partir de una sola célula y en la distribución equitativa de la información genética.",
+            "Definición de la meiosis como el proceso de división que genera los gametos y el suministro de variación genética a los organismos que se reproducen sexualmente.",
+            "Interpretación de los resultados de la meiosis en términos de la producción de cuatro células hijas haploides que no son genéticamente idénticas."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Reconocer las estructuras y procesos relacionados con la reproducción humana en la consideración de una visión integral de sexualidad que favorezca el desarrollo personal y social armónico y la toma de decisiones responsables, basada en derechos sobre la salud sexual y reproductiva.",
+          "aprendizajes": [
+            "Identificación de las estructuras que integran el sistema reproductor femenino y masculino, y de las funciones que desarrollan.",
+            "Distinción en la sexualidad humana de múltiples dimensiones (aspectos psicológicos, biológicos, socio-culturales, filosóficos, éticos).",
+            "Valoración de acciones de protección de la salud sexual y reproductiva."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Caracterizar los procesos de captación, procesamiento de la información y elaboración de respuestas de los seres vivos haciendo foco en el organismo humano como sistema integrado y abierto, para la construcción de actitudes y acciones de cuidado de la salud personal y colectiva.",
+          "aprendizajes": [
+            "Identificación e interpretación de situaciones asociadas a la función de relación, autorregulación y control en los seres vivos vinculada con los cambios en los ambientes interno y externo, tomando como ejemplo los tropismos y las nastias en vegetales, las taxias y la condición de endodermos y ectodermos en animales.",
+            "Análisis de situaciones sencillas que evidencien procesos de captación y procesamiento de la información y elaboración de respuestas que involucran regulación nerviosa y/o endocrina en el organismo humano."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Interpretar los mecanismos hereditarios propuestos por Mendel a partir de la teoría cromosómica de la herencia.",
+          "aprendizajes": [
+            "Descripción de los principios mendelianos de la herencia a través del análisis de los experimentos de Mendel, identificando los grupos experimentales, las variables medidas y los procedimientos desarrollados.",
+            "Conceptualización de gen, alelo, heterocigosis, homocigosis, dominancia y recesividad, genotipo y fenotipo, cromosomas homólogos, en el marco de la teoría cromosómica de la herencia.",
+            "Resolución de cruzamientos sencillos que involucren a uno o más caracteres y a alelos dominantes y recesivos identificando los fenotipos y genotipos de los progenitores y sus descendientes."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Interpretar los procesos del cambio evolutivo en los seres vivos a partir de las teorías científicas de Lamarck, Darwin y Wallace.",
+          "aprendizajes": [
+            "Identificación y comparación de los principios explicativos aportados por Lamarck y Darwin-Wallace acerca de los procesos de cambio en los seres vivos a lo largo del tiempo.",
+            "Análisis y explicación de situaciones que evidencien adaptaciones de los organismos al ambiente y/o procesos de cambio en las poblaciones a través del tiempo, utilizando los principios de la Teoría de la Evolución por Selección Natural.",
+            "Reflexión sobre la construcción de una teoría científica, tomando el caso de la teoría de Darwin, interpretando la relación entre las observaciones y descripciones que realizó y la generación de ideas teóricas desarrolladas con la intención de explicarlas."
+          ]
+        }
+      ]
+    },
+
+    {
+      "nombre": "En relación con los materiales y sus cambios",
+      "contenidos": [
+        {
+          "anio": "1",
+          "saberes": "Comprender la estructura de la materia como discontinua identificando sus componentes submicroscópicos: átomos, moléculas e iones.",
+          "aprendizajes": [
+            "Identificación de los postulados del modelo cinético-corpuscular.",
+            "Interpretación de la discontinuidad de la materia a partir del modelo cinético-corpuscular, utilizando herramientas físicas y/o digitales (simuladores y laboratorios virtuales).",
+            "Identificación de los componentes submicroscópicos de los materiales presentes en la vida cotidiana (iones, átomos, moléculas, agregados moleculares)",
+            "Identificación y descripción del modelo atómico actual simplificado electro-neutralidad, núcleo y nube electrónica."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Emplear el modelo cinético-corpuscular para interpretar las propiedades de los materiales, los estados de agregación y sus cambios y el proceso de disolución, reconociendo las variables involucradas.",
+          "aprendizajes": [
+            "Interpretación de algunas propiedades de materiales que se utilizan en la vida cotidiana, empleando el modelo cinético-corpuscular.",
+            "Interpretación de los estados de agregación de la materia y sus cambios, en particular los del agua desde el modelo cinético corpuscular.",
+            "Interpretación del proceso de disolución desde el modelo cinético-corpuscular (incluyendo las variables), en particular el estudio del agua como disolvente universal.",
+            "Interpretación de la concentración de una solución que permita reconocer los distintos tipos de soluciones, en particular las diluidas, saturadas, concentradas y sobresaturadas, señalando ejemplos de la vida cotidiana."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Identificar e interpretar los principales métodos de separación de los componentes de los sistemas materiales.",
+          "aprendizajes": [
+            "Diferenciación y caracterización de sustancias puras y mezclas.",
+            "Reconocimiento y aplicación de algunos métodos de separación de sistemas materiales homogéneos y heterogéneos."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Utilizar el lenguaje de la química a través de la representación de los elementos y compuestos presentes en el entorno y la vida cotidiana.",
+          "aprendizajes": [
+            "Identificación de los símbolos y fórmulas como una forma de expresión universal de la comunicación en química.",
+            "Representación de algunos elementos y compuestos presentes en el entorno en particular en los seres vivos que son de interés por sus usos."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Reconocer la Tabla Periódica como una fuente de datos sistematizados de los elementos químicos y emplearla para extraer información relevante de los mismos.",
+          "aprendizajes": [
+            "Identificación de los parámetros de organización de la Tabla Periódica.",
+            "Utilización de la información que aporta la Tabla Periódica para el análisis de situaciones diversas."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Reconocer la Ley de la Conservación de la Masa en los cambios químicos.",
+          "aprendizajes": [
+            "Identificación de las propiedades de la combustión en situaciones de la vida cotidiana.",
+            "Identificación de las propiedades de la corrosión, en situaciones de la vida cotidiana."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Identificar sustancias ácidas, básicas y neutras a través de métodos cualitativos.",
+          "aprendizajes": [
+            "Identificación de sustancias ácidas, básicas y neutras a través de indicadores líquidos y de cintas de papel."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Conceptualizar las reacciones nucleares desde el modelo atómico simplificado.",
+          "aprendizajes": [
+            "Aproximación al concepto de reacción nuclear empleando el modelo atómico simplificado, tomando como ejemplo la producción de energía en las estrellas."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Reconocer las principales reacciones químicas presentes en el ambiente, en los seres vivos y en los procesos de deterioro ambiental y preservación ambiental.",
+          "aprendizajes": [
+            "Identificación y representación de algunos cambios químicos que ocurren en el entorno y en los seres vivos (oxidación, combustión, corrosión) a través del lenguaje específico y la utilización de sensores digitales, simuladores y laboratorios virtuales.",
+            "Identificación de las reacciones químicas involucradas en acciones preventivas y reparadoras del deterioro ambiental."
+          ]
+        }
+      ]
+    },
+
+    {
+      "nombre": "En relación con los fenómenos del mundo físico",
+      "contenidos": [
+        {
+          "anio": "1",
+          "saberes": "Reconocer los campos de fuerza, en particular los gravitatorios, eléctricos y magnéticos, así como sus interrelaciones.",
+          "aprendizajes": [
+            "Aproximación a la noción de energía potencial gravitatoria, como energía asociada a la masa y a la posición de los cuerpos respecto de la Tierra.",
+            "Identificación de la energía cinética como energía asociada al movimiento de los cuerpos, y su dependencia de la velocidad y la masa.",
+            "Introducción a la noción de campos de fuerza como la zona del espacio donde se manifiestan interacciones de diferente naturaleza, y reconocimiento de la energía asociada.",
+            "Identificación de algunas interrelaciones entre fenómenos eléctricos y magnéticos, tomando como ejemplo el electroimán."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Explicar algunos fenómenos físicos empleando las leyes de Newton.",
+          "aprendizajes": [
+            "Identificación de las leyes de Newton y su aplicación para explicar algunos fenómenos naturales.",
+            "Comprensión de que los fenómenos físicos pueden ser modelizados y descriptos a través de expresiones matemáticas, en particular en el planteamiento de las leyes de Newton.",
+            "Análisis e interpretación de la relación entre los modelos matemáticos y los fenómenos físicos mediante la utilización de simuladores virtuales, procesadores matemáticos y otros recursos digitales."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Interpretar distintos fenómenos físicos, reconociendo la transformación y conservación de la energía, así como el trabajo y el calor como transferencias de energía.",
+          "aprendizajes": [
+            "Conceptualización de la energía como generadora de cambios (físicos, biológicos y químicos), como propiedad de un sistema y como una magnitud física.",
+            "Identificación de la presencia de los procesos energéticos en la vida cotidiana, incluyendo los seres vivos y el ambiente, así como su importancia en los procesos naturales y artificiales.",
+            "Distinción de la energía potencial y cinética como formas en que se presenta la energía en la materia.",
+            "Caracterización del trabajo y del calor como formas de transferencia de energía."
+          ]
+        }
+      ]
+    },
+
+    {
+      "nombre": "En relación con la Tierra, el universo y sus cambios",
+      "contenidos": [
+        {
+          "anio": "1",
+          "saberes": "Comprender la estructura y dinámica de la Tierra y el Universo.",
+          "aprendizajes": [
+            "Caracterización del movimiento de materiales entre los subsistemas terrestres a causa de la energía proveniente del Sol, tomando por ej. el ciclo hidrológico.",
+            "Descripción de algunos efectos que experimenta la Tierra como integrante del Sistema Solar a causa de las interacciones gravitatorias, por ejemplo, las mareas."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Comprender la estructura y dinámica de la Tierra y el Universo.",
+          "aprendizajes": [
+            "Comparación desde un punto de vista histórico y mecánico de los modelos geocéntrico y heliocéntrico del Universo.",
+            "Aproximación a modelos explicativos y descriptivos sobre el origen del sistema solar y del Universo.",
+            "Explicación del tiempo geológico a través del análisis y comparación de la historia de la Tierra en escala geológica y humana.",
+            "Identificación de los mecanismos de generación de energía en las estrellas y evolución estelar."
+          ]
+        }
+      ]
+    }
+  ]
+}

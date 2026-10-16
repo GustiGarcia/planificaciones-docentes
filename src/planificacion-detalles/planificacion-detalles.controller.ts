@@ -1,8 +1,12 @@
-import { Controller, Get, Post, Body, Patch, Param, Delete } from '@nestjs/common';
+import { Controller, Get, Post, Body, Patch, Param, Delete, Query } from '@nestjs/common';
 import { PlanificacionDetallesService } from './planificacion-detalles.service';
 import { CreatePlanificacionDetalleDto } from './dto/create-planificacion-detalle.dto';
 import { UpdatePlanificacionDetalleDto } from './dto/update-planificacion-detalle.dto';
+import { ApiTags } from '@nestjs/swagger';
 
+// Era el único controller sin @ApiTags: en Swagger sus rutas
+// quedaban sueltas, fuera de los grupos.
+@ApiTags('CRUD planificacion-detalles')
 @Controller('planificacion-detalles')
 export class PlanificacionDetallesController {
   constructor(private readonly planificacionDetallesService: PlanificacionDetallesService) {}
@@ -12,9 +16,11 @@ export class PlanificacionDetallesController {
     return this.planificacionDetallesService.create(createPlanificacionDetalleDto);
   }
 
+  // ?planificacionId=3 → solo las filas de esa planificación.
+  // Sin el parámetro, todas. Mismo patrón que contenidos-curriculares.
   @Get()
-  findAll() {
-    return this.planificacionDetallesService.findAll();
+  findAll(@Query('planificacionId') planificacionId?: string) {
+    return this.planificacionDetallesService.findAll(planificacionId);
   }
 
   @Get(':id')

@@ -1,0 +1,73 @@
+{
+  "_fuente": "DCP Secundario Mendoza - Bachiller en Turismo. Prácticas Artísticas, Formación General - Ciclo Orientado (3° Año, páginas 200-202).",
+  "_nota": "En el Ciclo Orientado, Educación Artística (Artes Visuales, Música y Teatro del Básico) se integra en un único espacio: Prácticas Artísticas, 3° año, con dinámica de taller.",
+  "materia": {
+    "nombre": "Prácticas Artísticas",
+    "orientacion": "Bachiller en Turismo"
+  },
+  "ejes": [
+    {
+      "nombre": "En relación con las prácticas artísticas y su producción",
+      "contenidos": [
+        {
+          "anio": "3",
+          "saberes": "Indagar diversos modos de organización de los componentes de los lenguajes artísticos en producciones con sentido que permitan manifestar modos de comprender la realidad.",
+          "aprendizajes": [
+            "Exploración de las posibilidades expresivas de: materiales, herramientas, soportes, recursos, técnicas y procedimientos para la producción con sentido.",
+            "Reconocimiento experimental y creativo de las variables espacio-tiempo.",
+            "Producción integradora de las exploraciones realizadas.",
+            "Argumentación y debate como marco de análisis reflexivo colectivo sobre los procesos y resultados de la producción realizada."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Distinguir distintas poéticas, géneros, estilos, movimientos y manifestaciones artísticas contemporáneas.",
+          "aprendizajes": [
+            "Comprensión de las poéticas desde procesos exploratorios constructivos de selección y combinación de elementos para la producción con sentido.",
+            "Conceptualización a partir de las prácticas realizadas."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Producir en forma individual y/o colectiva manifestaciones artísticas con sentido poético, metafórico, simbólico que favorezcan la expresión de subjetividades.",
+          "aprendizajes": [
+            "Aplicación de recursos en complejidad creciente, pertinencia y grado de simbolización.",
+            "Experimentación de modos de organización compositivos que permitan seleccionar e integrar elementos, recursos, procedimientos explorados en función de la intencionalidad.",
+            "Identificación de categorías presentes en las producciones propias y de sus pares, relacionadas con componentes del/os lenguaje/s, rasgos poéticos y sentidos elaborados.",
+            "Identificación y aplicación de criterios de análisis y reflexión para evaluar el proceso realizado y los resultados alcanzados.",
+            "Identificación de estereotipos y convenciones estéticas propiciando la producción creativa.",
+            "Reconocimiento y utilización de los medios tecnológicos para abordar los nuevos modos de acceso, circulación, registro y consumo de las producciones artísticas contemporáneas."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "En relación con las prácticas artísticas y su contexto",
+      "contenidos": [
+        {
+          "anio": "3",
+          "saberes": "Analizar y contextualizar manifestaciones artísticas de distintos tipos y ámbitos (local, nacional, internacional) dentro y fuera de la escuela, en vivo y en diversos soportes.",
+          "aprendizajes": [
+            "Análisis contextualizado de producciones artísticas diversas aplicando los saberes construidos a través de la exploración y producción.",
+            "Reconocimiento del cuerpo como soporte y representación simbólica en distintas culturas y épocas.",
+            "Construcción de criterios de apreciación, valoración y fundamentación de opiniones.",
+            "Identificación de modos particulares de organización de los componentes de los lenguajes y de rasgos poéticos actuales.",
+            "Reconocimiento del impacto de las nuevas tecnologías en los procesos de producción, circulación y distribución de las manifestaciones artísticas.",
+            "Interpretación de los sentidos transmitidos en las producciones."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Conocer y valorar las producciones artísticas locales identificando creadores, producciones y los circuitos de circulación, exhibición y difusión.",
+          "aprendizajes": [
+            "Conocimiento de la oferta artística de la provincia a través de la participación en encuentros, muestras, espectáculos, festivales u otras manifestaciones que promueva el acceso a la cultura en los jóvenes.",
+            "Indagación en distintas fuentes (biografías, entrevistas, visitas) que permitan el conocimiento y vinculación con creadores referentes del ámbito artístico local, sus modos de producción, sus obras y lugares de trabajo.",
+            "Identificación de los circuitos de circulación y distribución de las manifestaciones artísticas locales.",
+            "Identificación de diferentes fuentes de información y difusión de la oferta artístico cultural local.",
+            "Rastreo, registro y selección de información en diversas fuentes y medios."
+          ]
+        }
+      ]
+    }
+  ]
+}

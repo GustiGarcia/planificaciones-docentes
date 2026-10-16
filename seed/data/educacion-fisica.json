@@ -1,0 +1,379 @@
+{
+  "_fuente": "Diseño Curricular Provincial - Educación Secundaria - Mendoza. Educación Física, Formación General (Ciclo Básico y Ciclo Orientado). Transcripción textual del PDF DCPSECUNDARIO.pdf, páginas 106 a 115.",
+  "_nota": "Los saberes y aprendizajes son del DCP y están transcriptos tal cual. Si tu escuela tiene otra orientación, cambiá 'orientacion' acá abajo: los saberes de Formación General son los mismos.",
+
+  "materia": {
+    "nombre": "Educación Física",
+    "orientacion": "Bachiller en Turismo"
+  },
+
+  "ejes": [
+    {
+      "nombre": "Disponibilidad de sí mismo",
+      "contenidos": [
+        {
+          "anio": "1",
+          "saberes": "Identificar y valorar los propios cambios corporales y posibilidades de movimiento, precisión y expresión en prácticas corporales variadas y combinadas.",
+          "aprendizajes": [
+            "Práctica y ajuste de distintas posibilidades en relación al espacio-tiempo y objeto en situaciones estables e inestables.",
+            "Experimentación y práctica diversificada de habilidades y destrezas que involucren las distintas capacidades coordinativas: acople, orientación, ritmo, adaptación, reacción, diferenciación, y equilibrio.",
+            "Percepción y adecuación del esquema e imagen corporal a variadas situaciones motrices."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Reconocer, valorar y aceptar los propios cambios corporales y posibilidades de movimiento en prácticas corporales variadas de creciente ajuste técnico coordinativo.",
+          "aprendizajes": [
+            "Práctica de habilidades específicas y compuestas –o combinadas- en función de la situación a resolver, con un ajuste progresivo en cuanto a su fluidez y economía.",
+            "Ajuste de habilidades y destrezas que involucren las capacidades coordinativas: acople, orientación, ritmo, adaptación, reacción, diferenciación y equilibrio en relación a objetivos motores variados y complejos.",
+            "Percepción y aceptación del esquema e imagen corporal a variadas situaciones motrices."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Identificar, expresar y valorar los propios sentimientos, emociones y modos de reaccionar, actuar e interactuar en prácticas corporales, ludomotrices, deportivas y expresivas.",
+          "aprendizajes": [
+            "Ajuste consciente de la postura corporal según los requerimientos y los desafíos que imponen las habilidades expresivas, imitativas y creativas.",
+            "Experimentación de la tensión y relajación muscular en situaciones de reposo, de esfuerzo y recuperación.",
+            "Práctica de respiración consciente en situaciones de reposo, esfuerzo y recuperación.",
+            "Práctica de estiramientos y movilidad articular."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Reconocer y valorar las formas positivas de sentir, expresar, reaccionar, actuar e interactuar en las prácticas corporales, ludomotrices, deportivas y expresivas.",
+          "aprendizajes": [
+            "Registro y valoración de los propios sentimientos y emociones en relación con las distintas posturas en las prácticas corporales y de la vida cotidiana.",
+            "Práctica de ejercicios que permitan soltar y relajar de manera secuenciada y progresiva varios músculos atendiendo a las sensaciones asociadas a la tensión y relajación.",
+            "Práctica de tipos de respiración pectoral, diafragmática, costal y completa.",
+            "Práctica de estiramientos y movilidad articular."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Identificar modos de vida activos y saludables en prácticas frecuentes y seguras, que permitan valorar y mejorar la propia condición corporal y motriz.",
+          "aprendizajes": [
+            "Experimentación de tareas que involucren distintas capacidades condicionales acordes a la edad, al sexo y a sus propias posibilidades.",
+            "Registro y valoración de la propia condición corporal y motriz y de las sensaciones del esfuerzo percibido.",
+            "Participación activa y diaria en prácticas corporales."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Reconocer modos de vida activos, saludables y seguros, que permitan valorar la propia condición corporal y motriz y las posibilidades de mejora de las mismas según los criterios que las regulan.",
+          "aprendizajes": [
+            "Identificación y práctica de tareas apropiadas para la mejora de las capacidades condicionales según los criterios que las regulan.",
+            "Registro, valoración y adecuación de las tareas a las posibilidades de sí mismo y a las circunstancias.",
+            "Identificación de modos de vida saludables orientados a la valoración de la salud como responsabilidad individual y colectiva."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Organizar y regular las propias posibilidades y limitaciones aceptando positivamente su imagen corporal a través de prácticas corporales variadas de creciente ajuste técnico coordinativo.",
+          "aprendizajes": [
+            "Utilización selectiva de habilidades motrices específicas y combinadas -o compuestas- acorde a los requerimientos de la situación.",
+            "Cambios en la ejecución de acciones motrices en situaciones de interferencias e incertidumbre.",
+            "Ajuste de su esquema e imagen corporal a las exigencias de variables espaciales, temporales y objetales."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Diferenciar sensaciones en relación a la propia postura corporal y los propios estados internos en diferentes prácticas corporales.",
+          "aprendizajes": [
+            "Adopción de diversas posturas tomando conciencia de la posición del cuerpo, la dirección del movimiento y el tono muscular.",
+            "Reconocimiento del estado interno del cuerpo a través de la aplicación de técnicas de tensión y relajación muscular.",
+            "Práctica de ejercicios de estiramientos y movilidad articular.",
+            "Práctica de tipos de respiración y visualización guiada."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Organizar sus propias acciones considerando estilos de vida activos, seguros y saludables adecuando los esfuerzos personales en proyectos con objetivos comunes.",
+          "aprendizajes": [
+            "Selección y ejecución de secuencias de tareas para la mejora de las capacidades motrices reconociendo criterios para su realización.",
+            "Interpretación de los propios datos obtenidos en el registro de los valores producto de la realización de tareas motrices.",
+            "Comparación de los estilos de vida que adoptan grupos de estudiantes de distintas culturas y sus consecuencias para la salud de la población."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Superar conscientemente las propias posibilidades de movimiento a través de prácticas corporales complejas de creciente ajuste técnico coordinativo.",
+          "aprendizajes": [
+            "Resolución de situaciones problemas que requieran transferir habilidades específicas a diferentes situaciones.",
+            "Resolución de situaciones motrices que presentan interferencias e incertidumbres con precisión en el logro de objetivos.",
+            "Análisis de los modelos corporales en relación a las modas o modismos impuestos por los grupos de pares y su comunidad."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Registrar y valorar la propia postura corporal, los estados de tensión y relajación y las formas de respiración adecuada que permitan transferirlos a las prácticas corporales.",
+          "aprendizajes": [
+            "Adecuación consciente de la postura corporal según los requerimientos y los desafíos que imponen las prácticas corporales, ludomotrices y deportivas.",
+            "Control y regulación de los propios estados de tensión y relajación en distintas prácticas corporales.",
+            "Aplicación de distintos tipos de respiraciones.",
+            "Aplicación de estiramientos y movilidad articular en diferentes tipos de práctica."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Adecuar sus propias acciones considerando estilos de vida activos, seguros y saludables en proyectos individuales y sociales con diferentes objetivos.",
+          "aprendizajes": [
+            "Construcción de secuencias de tareas para la mejora de las capacidades motrices reconociendo criterios y principios para su realización.",
+            "Registro a través de fichas de seguimiento para la evaluación de la propia condición corporal y motriz.",
+            "Análisis de los antagonismos que se presentan en los modos de hacer o negar las prácticas corporales para tomar decisiones de sus propias prácticas. (Por ejemplo, sedentarismo-vigorexia, prácticas seguras-prácticas riesgosas)."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Seleccionar, según las propias posibilidades, de prácticas corporales complejas que le permitan una secuencia de movimiento coordinada, fluida y precisa.",
+          "aprendizajes": [
+            "Utilización de habilidades motoras específicas, especializadas y complejas en función de una aplicación con fluidez y economía.",
+            "Toma de decisiones en situaciones motrices que presentan interferencias e incertidumbre.",
+            "Evaluación de la propia ejecución y sus resultados.",
+            "Asunción de una postura crítica de los modelos corporales que imponen los medios de comunicación, los mensajes publicitarios, para seleccionar en forma independiente y autónoma sus propias prácticas corporales."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Autorregular los modos de sentir, pensar, expresar y actuar a través de vivencias integradoras y de disfrute personal.",
+          "aprendizajes": [
+            "Adecuación consciente de la postura corporal según desafíos de mayor complejidad.",
+            "Análisis de los propios estados de estrés y de tensión.",
+            "Aplicación de técnicas de respiración y relajación muscular.",
+            "Discriminación de estiramientos y movilidad articular apropiados al tipo de práctica."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Autogestionar sus propios programas de prácticas corporales y estilos de vida activos tomando consciencia de los modos de vida de su comunidad.",
+          "aprendizajes": [
+            "Elaboración de un programa de mantenimiento y mejora de la condición física aplicando procedimientos seguros y saludables en forma autónoma y concordancia a su disponibilidad motriz.",
+            "Confección de fichas de evaluación y seguimiento de la propia condición corporal y motriz.",
+            "Análisis crítico de los intereses con que se imponen socialmente las prácticas deportivas y gimnásticas."
+          ]
+        }
+      ]
+    },
+
+    {
+      "nombre": "Interacción con los otros",
+      "contenidos": [
+        {
+          "anio": "1",
+          "saberes": "Reconocer pautas de trabajo colaborativo y cooperativo, de inclusión y disfrute de las prácticas corporales, ludomotrices y deportivas en grupos.",
+          "aprendizajes": [
+            "Práctica de juegos motores de lógica cooperativa, donde las metas colectivas prevalezcan sobre las metas individuales.",
+            "Utilización de juegos deportivos no convencionales con sentido recreacional.",
+            "Participación en juegos tradicionales, autóctonos y populares de la propia cultura."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Reconocer y valorar modos de comunicación y expresión que permitan desarrollar el sentido de colaboración y pertenencia al grupo, en prácticas corporales, ludomotrices y deportivas.",
+          "aprendizajes": [
+            "Práctica y creación de juegos motores con una lógica cooperativa, donde las metas colectivas prevalezcan sobre las metas individuales.",
+            "Indagación y práctica de juegos deportivos no convencionales propios de su comunidad.",
+            "Participación y recreación en los juegos tradicionales, autóctonos y populares de la propia cultura."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Jugar y actuar en prácticas ludomotrices y deportivas diversas variando sus formas, modos y sentidos de manera solidaria y compartida.",
+          "aprendizajes": [
+            "Participación en juegos modificados y juegos deportivos simplificados con diferentes lógicas y estructuras.",
+            "Resolución de situaciones tácticas-estratégicas a partir de la propia habilidad motriz con sentido solidario."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Jugar y actuar en prácticas ludomotrices y deportivas diversas, recreando su estructura de manera solidaria y compartida.",
+          "aprendizajes": [
+            "Participación en el deporte escolar modificando el juego en función de los problemas motores que no resuelva el grupo en conjunto.",
+            "Resolución de situaciones tácticas-estratégicas aplicando habilidades específicas según la lógica y estructura del juego."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Expresar corporalmente en acciones desinhibitorias utilizando los recursos expresivos de forma lúdica y creativa, comunicando sensaciones, emociones e ideas.",
+          "aprendizajes": [
+            "Exploración grupal de diferentes ritmos y bailes, a través de soportes musicales y percusiones.",
+            "Participación en juegos motores de imitación, escucha, inventiva y canciones que favorezcan la dinámica positiva del grupo y la desinhibición."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Expresar corporalmente en acciones desinhibitorias utilizando los recursos expresivos de forma estética y creativa, comunicando sensaciones, emociones e ideas.",
+          "aprendizajes": [
+            "Práctica de diferentes ritmos y bailes urbanos, a través de diferentes soportes.",
+            "Participación en juegos motores y prácticas urbanas que favorezcan la libre expresión."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Asumir y aceptar democráticamente papeles activos dentro del grupo para el logro de objetivos comunes en pos de superar desafíos motrices.",
+          "aprendizajes": [
+            "Construcción de estrategias grupales para la superación de desafíos, conflictos y obstáculos motrices en pos de alcanzar metas comunes y acordadas.",
+            "Práctica de juegos deportivos no convencionales de acuerdo a criterios acordados.",
+            "Elección de las formas de participación en juegos tradicionales, autóctonos y populares."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Comprender el sentido del juego y del deporte resolviendo colectivamente situaciones de incertidumbre en experiencias inclusivas e integradoras.",
+          "aprendizajes": [
+            "Participación en el deporte escolar adecuando las reglas y los compromisos técnicos que posibiliten la inclusión.",
+            "Intervención y análisis en acciones colectivas acordadas para la resolución de situaciones de juego en ataque o defensa."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Elaborar secuencias de movimiento con un objetivo específico expresándose libremente con distintos soportes musicales.",
+          "aprendizajes": [
+            "Construcción de secuencias rítmicas simples.",
+            "Improvisación de movimientos a partir de ritmos musicales, imágenes visuales, gestos en forma individual y grupal.",
+            "Expresión de sentimientos y emociones eligiendo soportes musicales acordes a las intenciones comunicativas."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Acordar democráticamente papeles activos dentro del grupo para el diseño y la gestión de propuestas de prácticas corporales innovadoras.",
+          "aprendizajes": [
+            "Aplicación y evaluación de estrategias grupales para la superación de desafíos, conflictos y obstáculos motrices en pos de alcanzar metas comunes y acordadas.",
+            "Elaboración de juegos deportivos no convencionales de acuerdo a las posibilidades grupales y materiales.",
+            "Recreación de juegos tradicionales, autóctonos y populares de culturas diferentes."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Comprender el sentido del juego y del deporte resolviendo colectivamente situaciones de incertidumbre y aceptando el resultado como consecuencia de un trabajo de equipo.",
+          "aprendizajes": [
+            "Participación en el deporte escolar aplicando los reglamentos oficiales sin discriminación de ningún tipo.",
+            "Selección de modos de resolución de situaciones de juego en ataque o defensa, considerando las propias posibilidades grupales en función de los desafíos que se presentan."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Producir secuencias coreográficas con apoyo de una estructura musical incluyendo los diferentes elementos: espacio, tiempo e intensidad.",
+          "aprendizajes": [
+            "Elaboración de secuencias rítmicas con apoyo de una estructura musical incluyendo los diferentes elementos: espacio, tiempo e intensidad.",
+            "Transformación de movimientos improvisados en movimientos armónicos, expresivos y estéticos con intencionalidad comunicativa."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Actuar y cooperar con el grupo para el diseño y la gestión de propuestas innovadoras ya sea en el ámbito escolar o comunitario.",
+          "aprendizajes": [
+            "Gestión grupal de juegos cooperativos, festejos escolares y comunitarios.",
+            "Elaboración de juegos deportivos no convencionales y confección de reglamentos, materiales y espacios que posibiliten su realización.",
+            "Organización de kermés con juegos tradicionales, autóctonos y populares en festejos que reúnan distintas generaciones."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Intervenir en el juego y el deporte resolviendo colectivamente situaciones de juego en ataque y defensa y reflexionando sobre el resultado obtenido.",
+          "aprendizajes": [
+            "Actuación autónoma en deportes con diferentes lógicas y estructuras en encuentros institucionales e interinstitucionales.",
+            "Aplicación de sistemas de juego básicos de ataque y defensa en deportes con distintas lógicas y estructuras internas."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Crear e interpretar mensajes corporales a través de representaciones, bailes o coreografías con intencionalidad comunicativa.",
+          "aprendizajes": [
+            "Creación de secuencias rítmicas con apoyo de una estructura musical incluyendo los diferentes elementos: espacio, tiempo e intensidad.",
+            "Diseño e interpretación de coreografías simples, con movimientos armónicos, expresivos y estéticos con intencionalidad comunicativa."
+          ]
+        }
+      ]
+    },
+
+    {
+      "nombre": "Interacción con el ambiente",
+      "contenidos": [
+        {
+          "anio": "1",
+          "saberes": "Reconocer en el ambiente natural problemáticas y riesgos a partir de la participación en prácticas corporales.",
+          "aprendizajes": [
+            "Identificación de riesgos y problemáticas ambientales a partir de la participación en salidas de corta duración, en distintos medios y/o lugares y preservando los distintos escenarios.",
+            "Análisis de los distintos conceptos relacionados con el tiempo libre y el ocio con sentido productivo y recreativo.",
+            "Selección de prácticas corporales que conserven el ambiente natural.",
+            "Participación en dinámicas y juegos ecológicos."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Desarrollar prácticas corporales en ambientes naturales y otros, en interacción respetuosa con los mismos, a partir de proyectos colaborativos.",
+          "aprendizajes": [
+            "Exploración y experimentación sensible de los distintos ambientes en salidas y excursiones de jornada completa cuidando y preservando los distintos escenarios.",
+            "Reconocimiento de acciones a realizar antes, durante y después de las salidas previniendo riesgos y cuidados del ambiente.",
+            "Participación y creación de dinámicas y juegos que estimulen la interacción, la comunicación y la resolución de conflictos en el ambiente natural."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Identificar criterios y normas de seguridad personal y grupal en prácticas corporales en ambientes naturales.",
+          "aprendizajes": [
+            "Comprensión de normas y medidas necesarias para la propia seguridad y la de los demás en las prácticas corporales, ludomotrices y deportivas en ambientes naturales con conciencia ecológica.",
+            "Análisis y práctica de técnicas y procedimientos de primeros auxilios relacionados a las prácticas corporales en distintos ambientes."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Reconocer acuerdos, normas y procedimientos adecuados para el cuidado de sí mismo y de los demás en el ambiente natural.",
+          "aprendizajes": [
+            "Diferenciación y aplicación de normas de interacción, higiene y seguridad en prácticas corporales, ludomotrices y deportivas en distintos ambientes con conciencia ecológica.",
+            "Experimentación de simulacros de primeros auxilios y emergencias en distintos ámbitos de actuación –ambiente natural, escuela, otros."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Organizar proyectos que incluyan prácticas corporales preservando el ambiente natural.",
+          "aprendizajes": [
+            "Exploración y experimentación sensible de ambientes naturales en actividades campamentiles de corta duración anticipando el conocimiento de su problemática y generando acciones de posible solución.",
+            "Participación y creación de dinámicas y juegos nocturnos que estimulen la percepción, la expresión y la sensibilización hacia el ambiente."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Inferir los posibles riesgos y soluciones que presentan las prácticas corporales en el ambiente natural.",
+          "aprendizajes": [
+            "Análisis de los impactos y consecuencias ambientales que genera el uso inadecuado de elementos, equipos y procedimientos en las prácticas corporales en diferentes ambientes.",
+            "Práctica de actividades de orientación y nociones básicas de rescate y supervivencia utilizando recursos naturales y previendo otros especializados para dichas prácticas."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Organizar proyectos que incluyan prácticas corporales abordando problemáticas ambientales propias de la región.",
+          "aprendizajes": [
+            "Organización de salidas y campamentos utilizando racional y cuidadosamente los elementos naturales y las formas específicas de su protección.",
+            "Análisis de las prácticas que se realizan en los ambientes naturales (rafting, rapel, escalada, etc.) considerando los riesgos que presentan las mismas."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Adecuar en forma eficaz y segura los procedimientos, elementos y equipos para disminuir posibles riesgos en el ambiente natural y otros.",
+          "aprendizajes": [
+            "Previsión y utilización eficaz y segura de los elementos, equipos y procedimientos adecuados para desenvolverse en prácticas corporales en diferentes ambientes.",
+            "Aplicación de técnicas de orientación y nociones básicas de rescate y supervivencia en salidas y/o campamentos utilizando recursos naturales y previendo otros especializados para dichas prácticas."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Gestionar proyectos que incluyan prácticas corporales en ambientes naturales y otros con conciencia ecológica.",
+          "aprendizajes": [
+            "Organización, ejecución y evaluación de campamentos y/o salidas utilizando racional y cuidadosamente los elementos naturales y las formas específicas de su protección.",
+            "Participación en juegos de aventura relacionados con el ambiente de montaña."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Alcanzar una conciencia crítica en relación con el impacto de las prácticas corporales en los ambientes naturales y las problemáticas que ellas originan.",
+          "aprendizajes": [
+            "Aplicación y transferencia eficaz y segura en la utilización de elementos, equipos y procedimientos específicos de las prácticas corporales en diferentes ambientes.",
+            "Análisis de los posibles y frecuentes riesgos de orientación, rescate y supervivencia que se pueden presentar en un escenario o ambiente de montaña."
+          ]
+        }
+      ]
+    }
+  ]
+}

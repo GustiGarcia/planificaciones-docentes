@@ -1,0 +1,82 @@
+{
+  "_fuente": "DCP Secundario Mendoza - Bachiller en Turismo. Biología, Formación General - Ciclo Orientado (3° Año, páginas 169-170).",
+  "_nota": "Materia de Ciclo Orientado. En el Orientado, Ciencias Naturales se divide en Biología (3°), Física (3°) y Química (4°). Transcripción literal del DCP.",
+  "materia": {
+    "nombre": "Biología",
+    "orientacion": "Bachiller en Turismo"
+  },
+  "ejes": [
+    {
+      "nombre": "El flujo de la información genética",
+      "contenidos": [
+        {
+          "anio": "3",
+          "saberes": "Reconocer al ADN como molécula portadora de información de los caracteres hereditarios, interpretando los mecanismos moleculares que posibilitan el flujo de la información genética.",
+          "aprendizajes": [
+            "Establecimiento de relaciones entre los conceptos: cromatina, cromosomas, genes y ADN.",
+            "Identificación de la ciencia como una construcción histórico-social, a través de la interpretación de preguntas y de los diversos desarrollos argumentativos, experimentales y teóricos, que dieron lugar a la postulación del modelo de doble hélice del ADN.",
+            "Distinción de la estructura molecular del ADN a partir de modelizaciones y/o recursos multimediales.",
+            "Descripción y comparación de los procesos de replicación y transcripción del ADN.",
+            "Caracterización de los tres tipos de ARN (mensajero, ribosomal y de transferencia) en vínculo con las funciones que desempeñan durante el proceso de traducción.",
+            "Explicación del proceso de traducción del código genético en la síntesis de proteínas."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Distinguir la mutación como el principal mecanismo generador de variabilidad genética en las poblaciones.",
+          "aprendizajes": [
+            "Vinculación de las mutaciones con los cambios en la información genética.",
+            "Diferenciación entre mutaciones génicas y cromosómicas identificando agentes mutagénicos y su impacto en la salud."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Conocer y comprender los procesos biotecnológicos vinculados a la manipulación de la información genética, valorando sus implicancias científicas, sociales y éticas.",
+          "aprendizajes": [
+            "Descripción básica de las principales técnicas destinadas a la manipulación genética de los organismos y sus aplicaciones, entre ellas: huella genética, organismos transgénicos, diagnósticos y terapia génica, clonación reproductiva y terapéutica, fertilización asistida, células troncales, proyecto genoma humano.",
+            "Reconocimiento de las implicancias personales y sociales asociadas a la manipulación genética y sus aplicaciones, entendiendo que estos desarrollos están sometidos a condicionamientos económicos, políticos, científicos, sociales, culturales y éticos."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Los procesos evolutivos",
+      "contenidos": [
+        {
+          "anio": "3",
+          "saberes": "Explicar los procesos del cambio evolutivo en los seres vivos a partir de la Teoría Sintética de la Evolución.",
+          "aprendizajes": [
+            "Definición y contrastación de los aportes científicos desarrollados a lo largo de la historia, particularmente los realizados por la Teoría Sintética de la Evolución.",
+            "Identificación de las poblaciones naturales como las unidades biológicas susceptibles de sufrir cambios evolutivos.",
+            "Delimitación del papel de la selección natural, las mutaciones, el flujo de genes y la deriva génica como agentes de cambio en la frecuencia de alelos en una población natural."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Interpretar las evidencias y teorías científicas de la evolución humana.",
+          "aprendizajes": [
+            "Identificación de las líneas principales de la evolución de los primates.",
+            "Caracterización del linaje de los homínidos.",
+            "Análisis y contrastación de información acerca de la diversidad en el género Homo en torno a las ideas de progreso unidireccional y determinismo biológico en el proceso evolutivo de los homínidos hasta culminar en el hombre moderno."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "El organismo humano y la salud",
+      "contenidos": [
+        {
+          "anio": "3",
+          "saberes": "Interpretar la función de relación, autorregulación y control, desde la comprensión del organismo humano como sistema abierto, integrado y complejo, para el desarrollo de acciones autónomas y responsables de cuidado de la salud personal y colectiva.",
+          "aprendizajes": [
+            "Conceptualización del concepto de homeostasis a través de modelos analógicos sencillos.",
+            "Diferenciación de las estructuras y comprensión del funcionamiento general del sistema nervioso central y periférico.",
+            "Identificación de las neuronas en su diversidad y comprensión de su funcionamiento en la transmisión del impulso nervioso.",
+            "Distinción y caracterización de las estructuras y funciones del sistema endocrino a partir de la interpretación de algunos procesos que impliquen regulación hormonal.",
+            "Valoración de la importancia de la prevención de adicciones, en el marco del conocimiento de los efectos del consumo de drogas (legales e ilegales) sobre el organismo humano y la salud."
+          ]
+        }
+      ]
+    }
+  ]
+}

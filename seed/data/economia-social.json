@@ -1,0 +1,75 @@
+{
+  "_fuente": "DCP Secundario Mendoza - Bachiller en Turismo. Economía Social, Formación General - Ciclo Orientado (5° Año).",
+  "_nota": "Materia de 5° año del Ciclo Orientado. Varios ejes del DCP agrupan objetivos con un bloque común de aprendizajes: esos se cargaron como un solo saber por eje.",
+  "materia": {
+    "nombre": "Economía Social",
+    "orientacion": "Bachiller en Turismo"
+  },
+  "ejes": [
+    {
+      "nombre": "Los actores de la Economía Social, sus prácticas económicas y asimetrías territoriales",
+      "contenidos": [
+        {
+          "anio": "5",
+          "saberes": "Identificar e interpretar principios y nuevas relaciones de producción, intercambio y consumo que generan movimientos sociales y la incorporación de territorios dedicados a forjar una Economía Social, en pos del 'bienestar común'.",
+          "aprendizajes": [
+            "Reconocimiento de los principios y valores que orientan las prácticas de los agentes que participan en la economía social.",
+            "Comprensión a través de la comparación entre la globalización en el marco neoliberal y globalización con relaciones sociales y territoriales más sustentables.",
+            "Reconocimiento de los actores que intervienen en la Economía Social y las organizaciones socio-productivas: cooperativas, mutuales, asociaciones sin fines de lucro, redes de emprendedores.",
+            "Análisis del rol que cumplen los nuevos actores y los movimientos sociales, por ejemplo: los Agricultores en red, Movimiento Internacional del Comercio Justo, entre otros, en la búsqueda de una Justicia Social y Territorial.",
+            "Análisis comparativo que permita la distinción de diversas fuentes de información: textos, artículos periodísticos, estudios de caso, entre otros, que faciliten el reconocimiento y la comprensión de los nuevos actores y movimientos sociales de la economía."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Reconocer y comprender el desarrollo desigual para promover compromiso frente a las problemáticas socio-territoriales, asociadas a la pobreza, exclusión y a la marginalidad.",
+          "aprendizajes": [
+            "Identificación de las causas del desarrollo desigual, a partir del análisis de las teorías del desarrollo y de indicadores como PBI (Producto Bruto Interno), IDH (Índice de Desarrollo Humano) e IPH (Índice de Pobreza Humana), para comprender las asimetrías de poder presentes en la sociedad.",
+            "Análisis por comparación de las tensiones entre los representantes de los intereses económicos y el poder político.",
+            "Comprensión del rol del Estado en su función redistributiva de la riqueza en búsqueda de la equidad y la inclusión social.",
+            "Resignificación integradora de la construcción de territorios sustentados en los principios de la Economía Social, a través del uso de nuevas tecnologías."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "El derecho por los recursos en una economía social",
+      "contenidos": [
+        {
+          "anio": "5",
+          "saberes": "Interpretar el modo de apropiación de los recursos naturales y sus implicancias sociales, económicas, tecnológicas y ambientales en el marco de la Economía Social, e identificar e interpretar los criterios que fundamentan los procesos económicos en emprendimientos comunitarios que promuevan el desarrollo sustentable.",
+          "aprendizajes": [
+            "Comprensión de la relación de criterios ecológicos y protección ambiental, presentes en las prácticas de la economía social y solidaria para valorar el desarrollo sustentable.",
+            "Identificación del rol que juegan las empresas transnacionales en la explotación de los recursos naturales y la marginación de los pequeños productores en el comercio mundial.",
+            "Comprensión del impacto económico, social y ambiental de la actividad económica referido a las relaciones entre 'empleabilidad', 'distribución del ingreso' y 'calidad de vida'.",
+            "Comprensión de la lucha que llevan a cabo los movimientos sociales, en la apropiación de los recursos naturales, mediante acciones coordinadas entre productores, organizaciones y consumidores dentro de una economía solidaria.",
+            "Reconocimiento de las relaciones entre sociedad y ambiente a través de la interpretación de fuentes diversas de información, cartografía, textos, artículos, imágenes satelitales entre otros.",
+            "Análisis y reflexión de los criterios de sostenibilidad y sustentabilidad en la realidad local, nacional y latinoamericana.",
+            "Análisis del contexto natural y socio-cultural que permita la valoración de los proyectos de emprendimientos socio-culturales comunitarios.",
+            "Comprensión del valor estratégico del recurso natural: agua, el acceso al mismo como un derecho humano y una apropiación responsable de la 'Ciudadanía del agua'.",
+            "Resignificación del aprovechamiento de los recursos naturales en una economía social, a través del uso de las nuevas tecnologías especialmente SIG (Sistemas de Información Geográfica), geolocalización y navegación virtual."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Procesos socio-económicos y desarrollo local en una economía social",
+      "contenidos": [
+        {
+          "anio": "5",
+          "saberes": "Identificar y analizar las dinámicas económicas que provocan segregaciones sociales y las alternativas que propone el enfoque de la Economía Social, y reconocer y participar como productores o consumidores en experiencias locales de la Economía Social, conociendo las problemáticas de la comunidad de la que se forma parte.",
+          "aprendizajes": [
+            "Análisis de las relaciones, de la estructura, la dinámica, las problemáticas de los mercados de trabajo y de las condiciones laborales en el marco de la Economía Social.",
+            "Reconocimiento de la centralidad del trabajo y de los procesos económicos de las diferentes organizaciones de la Economía Solidaria.",
+            "Identificación y análisis de los procesos globalizadores que generan o provocan una segregación, separación y marginación social progresiva.",
+            "Reconocimiento y valoración de la importancia de la intervención del Estado a través de políticas públicas para lograr un adecuado ordenamiento territorial y un genuino desarrollo local.",
+            "Reconocimiento de las relaciones entre las problemáticas del trabajo, segregación, marginalidad y ordenamiento territorial en una economía social, presentes en diversas fuentes de información: textos, artículos periodísticos, cartografía, imágenes satelitales entre otras.",
+            "Reflexión sobre algunas experiencias de la Economía Social y su repercusión sobre el sistema social.",
+            "Investigación y producción de proyectos en emprendimientos socio-productivos, adoptando un rol activo con criterio de responsabilidad social.",
+            "Resignificación de los procesos socioeconómicos de desarrollo local en una economía social a través del uso de las nuevas tecnologías especialmente SIG (Sistemas de Información Geográfica), geolocalización y navegación virtual."
+          ]
+        }
+      ]
+    }
+  ]
+}

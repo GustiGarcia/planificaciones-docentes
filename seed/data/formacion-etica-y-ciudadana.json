@@ -1,0 +1,65 @@
+{
+  "_fuente": "DCP Secundario Mendoza - Bachiller en Turismo. Formación Ética y Ciudadana, Formación General - Ciclo Orientado (5° Año).",
+  "_nota": "Materia de 5° año del Ciclo Orientado. Varios ejes del DCP agrupan objetivos con un bloque común de aprendizajes: esos se cargaron como un solo saber por eje.",
+  "materia": {
+    "nombre": "Formación Ética y Ciudadana",
+    "orientacion": "Bachiller en Turismo"
+  },
+  "ejes": [
+    {
+      "nombre": "En relación a la comprensión de los Derechos Humanos como resultado de una construcción histórico-social",
+      "contenidos": [
+        {
+          "anio": "5",
+          "saberes": "Reconocer la importancia fundamental que tienen los Derechos Humanos en la vida de las personas y de las sociedades, analizar los contextos socio históricos en los cuales surgen y se amplían los derechos, y reconocer las ventajas de vivir un gobierno democrático y con plena vigencia del Estado de Derecho.",
+          "aprendizajes": [
+            "Reconocimiento de los derechos humanos como construcción histórico-social.",
+            "Relación de los diferentes Derechos con los acontecimientos históricos que demandaron su aparición.",
+            "Identificación de organismos y mecanismos de protección y defensa de los Derechos Humanos.",
+            "Conocimiento de modos de participación y militancia social y política en pro de la protección y defensa de los Derechos Humanos en el mundo y en especial en Latinoamérica.",
+            "Indagación y análisis crítico de las normas constitucionales, las reformas constitucionales y las rupturas del orden constitucional en la historia argentina y sus consecuencias.",
+            "Caracterización y valoración del Estado de Derecho y el acceso a la justicia en un estado democrático.",
+            "Análisis, reflexión y crítica sobre la naturalización de ciertas formas de discriminación y estigmatización de individuos y grupos.",
+            "Reconocimiento de problemáticas sociales actuales relevantes.",
+            "Integración de las nuevas tecnologías al análisis de casos y planteo de nuevos desafíos en pos de una sociedad más justa y solidaria."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "En relación con los distintos procesos de construcción de ciudadanía y participación política",
+      "contenidos": [
+        {
+          "anio": "5",
+          "saberes": "Reconocer las claves de la participación ciudadana y política en la construcción de los valores del Estado democrático, analizar críticamente información relacionada con la construcción de poder y la crisis de estructuras hegemónicas, y distinguir y relacionar textos y documentos que contienen leyes, normas y reglamentaciones que organizan la dinámica social.",
+          "aprendizajes": [
+            "Conocimiento y análisis de diferentes concepciones de lo político y de los ámbitos de participación en relación a la incidencia en las decisiones que afectan la esfera pública.",
+            "Conocimiento y valoración del concepto de ciudadanía como construcción histórica.",
+            "Reconocimiento y análisis de diversas relaciones de poder, actores, intereses, valores y principios que las movilizan, en diferentes ámbitos y momentos históricos.",
+            "Análisis y comparación reflexiva de discursos, prácticas y símbolos ideológicos y políticos a fin de identificar construcciones hegemónicas y conflictos que éstas generan.",
+            "Análisis y utilización de diversos mecanismos y formas de participación no sólo las previstas en las Constituciones sino de aquellas que han surgido a partir de la ampliación de los medios de comunicación y de las nuevas tecnologías (redes sociales, etc.).",
+            "Comprensión del rol de organismos supraestatales (MERCOSUR, OEA, ONU, UNASUR) y su incidencia en las diferentes dimensiones sociales.",
+            "Conocimiento y distinción de normas y señales de tránsito en vistas a lograr una comunidad respetuosa del otro, y consciente del valor de la vida."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "En relación a la construcción de la identidad y el respeto de la diversidad",
+      "contenidos": [
+        {
+          "anio": "5",
+          "saberes": "Reconocer las distintas identidades respetando y valorando la diversidad y pluralidad en todos los ámbitos de la vida humana, comparar contextos en relación a los cambios en la vida de las diferentes sociedades a través del tiempo, interpretar la participación ciudadana como herramienta de transformación social y producir argumentos vinculados a propuestas de participación ciudadana-política.",
+          "aprendizajes": [
+            "Caracterización y distinción de las distintas representaciones étnicas, sociales y culturales en pos de la construcción de una sociedad plural y respetuosa de las identidades y las diferencias.",
+            "Identificación de procesos históricos caracterizados por déficit en el respeto de las diferencias y las identidades diversas a fin de contextualizar el análisis de casos (desde la conquista a la actualidad).",
+            "Análisis y reflexión acerca de la diversidad sexual y las distintas culturas adolescentes y juveniles de acuerdo con los contextos y sus modos de relacionarse.",
+            "Análisis crítico de los modelos sociales, éticos y estéticos difundidos por los medios masivos de comunicación relacionados a consumos problemáticos.",
+            "Argumentación y diálogo sobre situaciones problemáticas de la realidad nacional, latinoamericana y mundial, vinculados a dilemas éticos que implican respeto de opiniones diversas.",
+            "Diseño y elaboración de proyectos de alcance grupal, institucional y/o comunitario que permitan experimentar instancias de participación ciudadana y política."
+          ]
+        }
+      ]
+    }
+  ]
+}

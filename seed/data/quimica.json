@@ -1,0 +1,89 @@
+{
+  "_fuente": "DCP Secundario Mendoza - Bachiller en Turismo. Química, Formación General - Ciclo Orientado (4° Año, páginas 174-176).",
+  "_nota": "Materia de Ciclo Orientado. En el Orientado, Ciencias Naturales se divide en Biología (3°), Física (3°) y Química (4°). Transcripción literal del DCP.",
+  "materia": {
+    "nombre": "Química",
+    "orientacion": "Bachiller en Turismo"
+  },
+  "ejes": [
+    {
+      "nombre": "Propiedades, estructura y uso de los materiales",
+      "contenidos": [
+        {
+          "anio": "4",
+          "saberes": "Comprender e interpretar el modelo atómico mecánico-cuántico y su relación con los elementos químicos.",
+          "aprendizajes": [
+            "Identificación y descripción del modelo atómico actual: núcleo y nube electrónica.",
+            "Distinción de número atómico (Z), número másico (A), isótopos.",
+            "Reconocimiento de variedades alotrópicas de algunos elementos.",
+            "Identificación de los números cuánticos en relación a las configuraciones electrónicas de los átomos.",
+            "Aplicación de la Regla de Hund y el Principio de exclusión de Pauli en la elaboración de configuraciones electrónicas."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Reconocer los componentes y los criterios empleados en la construcción de la Tabla Periódica para interpretar correctamente su información.",
+          "aprendizajes": [
+            "Representación con símbolos de los elementos químicos como forma de expresión y comunicación en química.",
+            "Interpretación del ordenamiento de los elementos químicos por grupos, periodos y bloques a partir de su configuración electrónica.",
+            "Análisis de las variaciones de las propiedades periódicas de los elementos químicos en función de grupos y períodos de la Tabla Periódica.",
+            "Reconocimiento de las propiedades características de los metales, semimetales y no metales.",
+            "Identificación de las propiedades periódicas de los elementos: radio atómico, energía o potencial de ionización, afinidad electrónica y electronegatividad, considerando la ubicación de los elementos en la tabla periódica.",
+            "Indagación y contrastación de las propiedades físicas y/o químicas de los elementos según su ordenamiento periódico en experiencias en el laboratorio."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Explicar y predecir las propiedades de sustancias y materiales de interés en la vida diaria y/o de relevancia científica.",
+          "aprendizajes": [
+            "Descripción de los enlaces químicos, de la geometría molecular e interacciones intermoleculares que justifican el comportamiento de las diversas sustancias y materiales estudiados.",
+            "Elaboración y gestión de modelos científicos escolares para analizar la influencia de estas sustancias y materiales en la vida diaria, en el ambiente y en la sociedad y luego formular conclusiones."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Transformaciones químicas de los materiales",
+      "contenidos": [
+        {
+          "anio": "4",
+          "saberes": "Interpretar y caracterizar los distintos tipos de enlaces químicos (uniones iónicas, covalentes y metálicas) reconociendo las variables que intervienen en sus formaciones.",
+          "aprendizajes": [
+            "Reconocimiento de la importancia que presenta el último nivel de electrones en la naturaleza de las uniones químicas.",
+            "Caracterización de los distintos tipos de enlaces químicos: iónico, covalente y metálico.",
+            "Utilización de los símbolos y de las estructuras de Lewis para representar simbólicamente la formación de enlaces químicos.",
+            "Interpretación en un enlace iónico de la formación de iones y representación de las configuraciones electrónicas de cada uno de los iones formados.",
+            "Interpretación, representación, caracterización y clasificación del enlace covalente.",
+            "Reconocimiento del enlace metálico según el modelo de la nube electrónica.",
+            "Descripción de las interacciones intermoleculares, identificando su influencia sobre las propiedades físicas y químicas de las sustancias, en particular las fuerzas de Van der Waals-London, dipolo-dipolo y puente hidrógeno.",
+            "Análisis del tipo de enlace, de las características esperables y de la fórmula de diversas moléculas representativas de la vida diaria.",
+            "Utilización de editores moleculares para la recreación y apropiación creativa de la formación de enlaces químicos."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Reconocer la diversidad de compuestos químicos en función de sus propiedades características y distintivas: óxidos, hidróxidos, ácidos y sales, respetando las normas de formulación química establecidas por la IUPAC.",
+          "aprendizajes": [
+            "Formulación de compuestos inorgánicos teniendo en cuenta los números de oxidación de los elementos químicos: óxidos básicos y ácidos, hidruros, hidróxidos, ácidos oxigenados y no oxigenados y sales neutras, básicas y ácidas.",
+            "Aplicación de las nomenclaturas: tradicional, sistemática y de Stock para designar los compuestos químicos inorgánicos valorando las reglas establecidas por la IUPAC (Unión Internacional de la Química Pura Aplicada).",
+            "Representación gráfica de la estructura molecular de los compuestos químicos.",
+            "Interpretación de las reacciones químicas como un reordenamiento de átomos/iones utilizando las estructuras de Lewis para representar simbólicamente la formación de enlaces químicos.",
+            "Identificación, representación, igualación y diferenciación de reacciones de combinación, de descomposición, simple desplazamiento, doble desplazamiento y de oxidación-reducción.",
+            "Planteo y resolución de ecuaciones de formación e ionización de compuestos inorgánicos.",
+            "Distinción de sustancias ácidas, básicas y neutras usando indicadores y peachímetros a través de situaciones experimentales.",
+            "Descripción de las principales propiedades de elementos y compuestos químicos presentes en el ambiente, reconociendo su importancia, por ejemplo ozono, amoníaco, fósforo, oxígeno, carbonato de calcio, entre otros."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Analizar y aplicar conceptos estequiométricos asociados a transformaciones químicas vinculados a sustancias y materiales de interés en la vida diaria y/o de relevancia científica.",
+          "aprendizajes": [
+            "Manejo de la estequiometría utilizada en los cálculos de mol, masa molecular y número de Avogadro.",
+            "Preparación de soluciones de determinada concentración expresando los cálculos en las diferentes unidades de concentración de soluciones y sus correlaciones como por ejemplo: % m/m, % m/v, % v/v, molaridad, molalidad, normalidad, fracción molar, entre otras.",
+            "Análisis de pureza y rendimiento de las reacciones."
+          ]
+        }
+      ]
+    }
+  ]
+}

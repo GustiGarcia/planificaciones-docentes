@@ -7,13 +7,19 @@ async function bootstrap() {
   const app = await NestFactory.create(AppModule);
   app.useGlobalPipes(new ValidationPipe());
 
+  app.enableCors({
+    origin: 'http://localhost:5173',
+  });
+
   // 1) Armamos la configuración con DocumentBuilder.
   //    Es un "builder": cada método devuelve el mismo objeto con un dato más
   //    seteado, por eso podés encadenarlos con puntos. .build() cierra la
   //    cadena y te devuelve el objeto de configuración final.
   const config = new DocumentBuilder()
     .setTitle('Carpeta Docente API')
-    .setDescription('API para la gestión de planificaciones docentes según el DCP de Mendoza')
+    .setDescription(
+      'API para la gestión de planificaciones docentes según el DCP de Mendoza',
+    )
     .setVersion('1.0')
     .build();
 

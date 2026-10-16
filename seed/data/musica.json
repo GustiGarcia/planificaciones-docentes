@@ -1,0 +1,196 @@
+{
+  "_fuente": "DCP Secundario Mendoza - Bachiller en Turismo. Música, Formación General - Ciclo Básico.",
+  "_nota": "El encabezado del DCP dice '1° y/o 2° Año Ciclo Básico': una sola tabla de saberes para los dos años. Cada saber está cargado dos veces, como 1° y como 2°, para que aparezca elijas el año que elijas. No es una progresión: es el MISMO saber. Páginas 188 a 190 del PDF.",
+  "materia": {
+    "nombre": "Música",
+    "orientacion": "Bachiller en Turismo"
+  },
+  "ejes": [
+    {
+      "nombre": "En relación con las prácticas musicales y su producción",
+      "contenidos": [
+        {
+          "anio": "1",
+          "saberes": "Reconocer pautas de trabajo individual y cooperativo que acrecienten la confianza y el respeto.",
+          "aprendizajes": [
+            "Aplicación lúdica de recursos grupales con diferente complejidad y compromiso."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Reconocer pautas de trabajo individual y cooperativo que acrecienten la confianza y el respeto.",
+          "aprendizajes": [
+            "Aplicación lúdica de recursos grupales con diferente complejidad y compromiso."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Identificar los modos de organización de los elementos del Lenguaje Musical (ritmo, melodía, armonía, forma, textura, género, carácter, estilo) para construir significados poéticos, metafóricos y ficcionales.",
+          "aprendizajes": [
+            "Identificación de sonidos, ritmos, melodías, formas, armonías y características contextuales, orientada a fortalecer la audición conciente",
+            "Verbalización de respuestas afectivas y cognitivas más variadas.",
+            "Diferenciación y reconocimiento de los modos de organización de los elementos del Lenguaje Musical, en producciones propias y de referentes locales y latinoamericanos, contemporáneos.",
+            "Reconocimiento exploratorio y creación de claves rítmicas, melodías sencillas, esquemas armónicos y organizaciones formales.",
+            "Aplicación de ritmos, melodías, esquemas melódicos y formales en ejecuciones con complejidad creciente."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Identificar los modos de organización de los elementos del Lenguaje Musical (ritmo, melodía, armonía, forma, textura, género, carácter, estilo) para construir significados poéticos, metafóricos y ficcionales.",
+          "aprendizajes": [
+            "Identificación de sonidos, ritmos, melodías, formas, armonías y características contextuales, orientada a fortalecer la audición conciente",
+            "Verbalización de respuestas afectivas y cognitivas más variadas.",
+            "Diferenciación y reconocimiento de los modos de organización de los elementos del Lenguaje Musical, en producciones propias y de referentes locales y latinoamericanos, contemporáneos.",
+            "Reconocimiento exploratorio y creación de claves rítmicas, melodías sencillas, esquemas armónicos y organizaciones formales.",
+            "Aplicación de ritmos, melodías, esquemas melódicos y formales en ejecuciones con complejidad creciente."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Participar en propuestas de producción musical que pongan en valor el entorno musical para construir un repertorio variado situado en lo local, nacional y latinoamericano contemporáneos.",
+          "aprendizajes": [
+            "Desempeño participativo desde el canto y coordinación psicomotriz básica en el acompañamiento rítmico, melódico y armónico en producciones individuales y grupales.",
+            "Uso de estrategias compositivas que impliquen el uso de la repetición, reaparición, variación y cambio.",
+            "Aplicación de recursos técnicos vocales e instrumentales.",
+            "Conocimiento de las características de la voz y el cuidado de la voz.",
+            "Selección de variedad de instrumentos para la conformación de distintas agrupaciones.",
+            "Reconocimiento e interpretación de códigos orales, gestuales y escritos (tradicional, proporcional y/o analógico)."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Participar en propuestas de producción musical que pongan en valor el entorno musical para construir un repertorio variado situado en lo local, nacional y latinoamericano contemporáneos.",
+          "aprendizajes": [
+            "Desempeño participativo desde el canto y coordinación psicomotriz básica en el acompañamiento rítmico, melódico y armónico en producciones individuales y grupales.",
+            "Uso de estrategias compositivas que impliquen el uso de la repetición, reaparición, variación y cambio.",
+            "Aplicación de recursos técnicos vocales e instrumentales.",
+            "Conocimiento de las características de la voz y el cuidado de la voz.",
+            "Selección de variedad de instrumentos para la conformación de distintas agrupaciones.",
+            "Reconocimiento e interpretación de códigos orales, gestuales y escritos (tradicional, proporcional y/o analógico)."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Reconocer la tecnología como un nuevo modo de acceso, producción, circulación y consumo de las manifestaciones musicales.",
+          "aprendizajes": [
+            "Reconocimiento exploratorio de distintos dispositivos y medios tecnológicos en función de sus posibilidades para la producción musical con sentido.",
+            "Utilización de los medios tecnológicos para abordar los nuevos modos de acceso, circulación, difusión y consumo de las producciones musicales."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Reconocer la tecnología como un nuevo modo de acceso, producción, circulación y consumo de las manifestaciones musicales.",
+          "aprendizajes": [
+            "Reconocimiento exploratorio de distintos dispositivos y medios tecnológicos en función de sus posibilidades para la producción musical con sentido.",
+            "Utilización de los medios tecnológicos para abordar los nuevos modos de acceso, circulación, difusión y consumo de las producciones musicales."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Elaborar proyectos colectivos de producción en Música respetando la diversidad y la inclusión.",
+          "aprendizajes": [
+            "Identificación y diferenciación de diferentes roles orientados a la participación progresivamente activa y responsable.",
+            "Distinción de conceptos claves del trabajo cooperativo e inclusivo y la valoración de posibilidades creativas propias y de sus pares.",
+            "Experimentación a partir de la integración de la música con otros lenguajes."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Elaborar proyectos colectivos de producción en Música respetando la diversidad y la inclusión.",
+          "aprendizajes": [
+            "Identificación y diferenciación de diferentes roles orientados a la participación progresivamente activa y responsable.",
+            "Distinción de conceptos claves del trabajo cooperativo e inclusivo y la valoración de posibilidades creativas propias y de sus pares.",
+            "Experimentación a partir de la integración de la música con otros lenguajes."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Interpretar y apreciar las producciones propias, de los pares y de referentes.",
+          "aprendizajes": [
+            "Inferencia de diferentes criterios de valoración de los procesos y resultados obtenidos, individuales y grupales."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Interpretar y apreciar las producciones propias, de los pares y de referentes.",
+          "aprendizajes": [
+            "Inferencia de diferentes criterios de valoración de los procesos y resultados obtenidos, individuales y grupales."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "En relación con las prácticas musicales y su contexto",
+      "contenidos": [
+        {
+          "anio": "1",
+          "saberes": "Analizar y apreciar reflexivamente manifestaciones musicales, locales, nacionales y latinoamericanas.",
+          "aprendizajes": [
+            "Aproximación a categorías estéticas, movimientos y manifestaciones musicales.",
+            "Construcción de criterios de valoración y fundamentación de opiniones.",
+            "Relación entre músicas y contextos culturales orientados a la reflexión crítica.",
+            "Análisis de obras musicales y sus contextos históricos y sociales con una mirada relacional e integradora.",
+            "Diferenciación reflexiva acerca de los modos de producción, distribución y circulación de la música en la contemporaneidad."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Analizar y apreciar reflexivamente manifestaciones musicales, locales, nacionales y latinoamericanas.",
+          "aprendizajes": [
+            "Aproximación a categorías estéticas, movimientos y manifestaciones musicales.",
+            "Construcción de criterios de valoración y fundamentación de opiniones.",
+            "Relación entre músicas y contextos culturales orientados a la reflexión crítica.",
+            "Análisis de obras musicales y sus contextos históricos y sociales con una mirada relacional e integradora.",
+            "Diferenciación reflexiva acerca de los modos de producción, distribución y circulación de la música en la contemporaneidad."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Conocer y valorar las manifestaciones musicales que integran el patrimonio cultural.",
+          "aprendizajes": [
+            "Conocimiento de compositores, intérpretes, bandas y cantantes en base a experiencias auditivas públicas.",
+            "Identificación de salas y teatros de concierto."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Conocer y valorar las manifestaciones musicales que integran el patrimonio cultural.",
+          "aprendizajes": [
+            "Conocimiento de compositores, intérpretes, bandas y cantantes en base a experiencias auditivas públicas.",
+            "Identificación de salas y teatros de concierto."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Interpretar obras de arte en las que exista integración de lenguajes, identificando las vinculaciones con otras disciplinas artísticas.",
+          "aprendizajes": [
+            "Análisis y apreciación de producciones estéticas en diálogo inter-genérico.",
+            "Vinculación de la Música con otros lenguajes artísticos en sus diversos modos de relación y participación."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Interpretar obras de arte en las que exista integración de lenguajes, identificando las vinculaciones con otras disciplinas artísticas.",
+          "aprendizajes": [
+            "Análisis y apreciación de producciones estéticas en diálogo inter-genérico.",
+            "Vinculación de la Música con otros lenguajes artísticos en sus diversos modos de relación y participación."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Analizar la incidencia de las nuevas tecnologías en los distintos procesos de producción, distribución, circulación y consumo de música.",
+          "aprendizajes": [
+            "Identificación y análisis crítico del impacto que las nuevas tecnologías tienen en la producción musical, su circulación, su distribución y consumo."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Analizar la incidencia de las nuevas tecnologías en los distintos procesos de producción, distribución, circulación y consumo de música.",
+          "aprendizajes": [
+            "Identificación y análisis crítico del impacto que las nuevas tecnologías tienen en la producción musical, su circulación, su distribución y consumo."
+          ]
+        }
+      ]
+    }
+  ]
+}

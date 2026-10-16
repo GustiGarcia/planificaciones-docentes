@@ -1,0 +1,211 @@
+{
+  "_fuente": "DCP Secundario Mendoza - Bachiller en Turismo. Geografía, Formación General - Ciclo Básico (1°, páginas 124-126) y Ciclo Orientado (3° y 4°, páginas 132-139).",
+  "_nota": "Geografía va en 1° (Básico, mundo americano/argentino), 3° (Orientado, escala mundial) y 4° (Orientado, territorio argentino); el DCP no le asigna 2° ni 5°. En 3° algunos ejes agrupan varios objetivos con un bloque común de aprendizajes: esos se cargaron como un solo saber.",
+  "materia": {
+    "nombre": "Geografía",
+    "orientacion": "Bachiller en Turismo"
+  },
+  "ejes": [
+    {
+      "nombre": "La organización política y cultural de los territorios en América y Argentina",
+      "contenidos": [
+        {
+          "anio": "1",
+          "saberes": "Comprender los procesos que configuran la organización política de los territorios de América y Argentina.",
+          "aprendizajes": [
+            "Identificación y localización de las configuraciones territoriales de América y Argentina, a partir de las distintas formas de organización política: estados nacionales, colonias y dependencias.",
+            "Interpretación de diversas representaciones gráficas y cartográficas de los territorios, para el análisis de las problemáticas sociopolíticas y culturales de América y Argentina, incorporando el uso de las TIC.",
+            "Reconocimiento crítico acerca del rol del Estado Nacional en la construcción del espacio terrestre, marítimo, aéreo y cósmico de la República Argentina.",
+            "Caracterización de las fronteras como espacios de cooperación y separación mediante la problematización en torno a los conceptos de soberanía e identidad. Identificación de las fronteras argentinas y sus áreas de conflicto. Caso: Islas Malvinas, Georgias del Sur, Sandwich del Sur, los espacios marítimos circundantes.",
+            "Reconocimiento y análisis de la construcción del territorio argentino desde su proyección bicontinental. Caso: Antártida"
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Identificar y valorar la diversidad cultural, atendiendo a los múltiples sistemas de prácticas, costumbres, creencias y tradiciones de los distintos grupos humanos que construyen y simbolizan los territorios de América y Argentina.",
+          "aprendizajes": [
+            "Reconocimiento de los procesos de diferenciación y homogeneización de las sociedades para promover la reflexión crítica sobre la diversidad cultural y construir el concepto de pertenencia e identidad de los territorios de América y Argentina.",
+            "Análisis de distintas fuentes de información (textos, imágenes, medios audiovisuales) para identificar la realidad geográfica de las diferentes Américas y de la República Argentina.",
+            "Aplicación de las nuevas tecnologías a la resignificación de las nociones de construcción política y cultural del territorio americano y argentino."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "La relación entre las sociedades y el medio natural en los territorios de América y Argentina",
+      "contenidos": [
+        {
+          "anio": "1",
+          "saberes": "Reconocer la valoración que las sociedades hacen de las condiciones naturales de los grandes conjuntos ambientales a través del manejo y aprovechamiento de los recursos naturales en América y Argentina.",
+          "aprendizajes": [
+            "Establecimiento de relaciones entre los elementos que constituyen el marco natural y las actividades humanas.",
+            "Reconocimiento de la diversidad de ambientes de América y Argentina, identificando sus recursos naturales mediante el uso de los Sistemas de información geográfica para el estudio de la utilización de los mismos.",
+            "Caracterización de los distintos tipos de manejo y aprovechamiento de los recursos naturales en relación con las respectivas formas de trabajo y producción en el marco de un desarrollo sustentable.",
+            "Identificación y análisis de los principales problemas ambientales de América y Argentina resultantes de las actividades humanas."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Conocer y reflexionar acerca de la relación entre riesgo y vulnerabilidad frente a desastres y catástrofes, identificando el carácter social y político de la gestión ambiental en materia de prevención y mitigación en las distintas sociedades.",
+          "aprendizajes": [
+            "Reconocimiento y comprensión de los riesgos y la vulnerabilidad frente a desastres y catástrofes socio-ambientales y su incidencia en los asentamientos humanos de América y Argentina.",
+            "Resignificación de las problemáticas ambientales del territorio americano y argentino a través del uso de las nuevas tecnologías, especialmente SIG (Sistemas de Información Geográfica), geolocalización y navegación virtual."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "La población y los procesos productivos en espacios urbanos y rurales de América y Argentina",
+      "contenidos": [
+        {
+          "anio": "1",
+          "saberes": "Interpretar los procesos socio-demográficos de la estructura, dinámica y distribución de la población que explican los contrastes territoriales en América y Argentina.",
+          "aprendizajes": [
+            "Identificación de las características más relevantes de la población Americana y Argentina.",
+            "Comprensión de las principales problemáticas vinculadas con la distribución, estructura y dinámica de la población de América y Argentina.",
+            "Análisis de las problemáticas sociales relevantes en relación con la movilidad geográfica y las condiciones de vida y de trabajo de América y Argentina."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Comparar y explicar la organización de los espacios urbanos en América y Argentina, caracterizando las actividades económicas urbanas, en el marco de los procesos de reestructuración productiva y modernización tecnológica.",
+          "aprendizajes": [
+            "Explicación de los procesos de urbanización y las problemáticas vinculadas a las grandes aglomeraciones urbanas: metrópolis y megalópolis de América y en las principales ciudades de la Argentina.",
+            "Reconocimiento y explicación de las actividades económicas urbanas: industria, servicios, comercio, teniendo en cuenta los actores sociales implicados y el impacto diferencial de las tecnologías de producción, información y comunicación en las formas de organización territorial de América y Argentina."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Comparar y explicar la organización de los espacios rurales en América y Argentina, caracterizando las actividades económicas primarias y los circuitos productivos regionales, atendiendo especialmente a los distintos actores que en ellos participan.",
+          "aprendizajes": [
+            "Reconocimiento y explicación de las actividades económicas más significativas de los espacios rurales, con sus recientes transformaciones tecno-productivas y sus impactos diferenciales según el tipo de actividad involucrada en América y Argentina.",
+            "Identificación de los circuitos productivos regionales, el lugar que ocupan en la economía de la Argentina y en el mercado internacional.",
+            "Aplicación de las nuevas tecnologías para resignificar la construcción social y económica del territorio americano y argentino"
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "La organización política y cultural de los territorios en el mundo actual",
+      "contenidos": [
+        {
+          "anio": "3",
+          "saberes": "Comprender y explicar los procesos de transformación e integración que construyen la organización política y cultural de los territorios del mundo.",
+          "aprendizajes": [
+            "Identificación y localización de las nuevas configuraciones territoriales, la fragmentación e integración, la nueva configuración del mapa político mundial y sus permanentes transformaciones.",
+            "Interpretación de diversas representaciones gráficas y cartográficas de los territorios para el análisis de las problemáticas sociopolíticas y culturales del mundo, incorporando el uso de las TIC.",
+            "Comprensión del Estado como parte de la organización político-territorial del espacio mundial.",
+            "Identificación y valoración de la construcción del espacio terrestre, marítimo, aéreo y cósmico de cada Estado.",
+            "Interpretación y comparación de las tensiones entre nacionalismos, regionalismos y localismos en relación a los procesos de diferenciación y homogeneización cultural, que originan el sentido de pertenencia e identidad en sus territorios.",
+            "Aplicación de las nuevas tecnologías orientadas a la resignificación de la construcción política y cultural del espacio geográfico mundial."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "La dinámica poblacional: asimetrías territoriales en el mundo",
+      "contenidos": [
+        {
+          "anio": "3",
+          "saberes": "Interpretar y explicar los procesos demográficos de la estructura, dinámica y distribución de la población identificando contrastes; y comprender y explicar la organización de los espacios urbanos y rurales del mundo, identificando los procesos productivos y los actores sociales involucrados.",
+          "aprendizajes": [
+            "Identificación y análisis de la distribución espacial de la población y sus asimetrías territoriales en el mundo.",
+            "Análisis y explicación de las principales problemáticas sociales de la estructura de la población y movilidad geográfica en el mundo.",
+            "Interpretación de diversas representaciones gráficas y cartográficas para el análisis de la estructura, dinámica y distribución de la población mundial, incorporando el uso de las TIC.",
+            "Análisis y comparación de las transformaciones tecno-productivas recientes y sus impactos diferenciales según las distintas actividades y sectores, profundizando en el conocimiento de las nuevas configuraciones espaciales urbanas y rurales.",
+            "Aplicación de las nuevas tecnologías orientadas a la resignificación de la organización social y económica del espacio geográfico mundial."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "La relación ambiente y sociedad en el mundo",
+      "contenidos": [
+        {
+          "anio": "3",
+          "saberes": "Reconocer los problemas ambientales en relación a la necesidad de las sociedades de tomar decisiones a favor de la sustentabilidad ambiental; conocer y reflexionar sobre la relación entre riesgo y vulnerabilidad frente a eventos de desastres y catástrofes; e interpretar el carácter social y político de la gestión ambiental en materia de prevención en las distintas sociedades.",
+          "aprendizajes": [
+            "Comprensión e identificación de los problemas ambientales como manifestación de las tensiones entre componentes económicos, físico-naturales, sociales, políticos y culturales.",
+            "Profundización y reflexión sobre los dilemas políticos: control ciudadano del Estado y responsabilidad política en la actividad pública y dilemas éticos de sustentabilidad: en valores, creencias, sentimientos y saberes, a partir de la búsqueda de prácticas y consensos que hagan efectivo el derecho al ambiente como un bien social.",
+            "Reconocimiento y diferenciación de las situaciones de riesgo y vulnerabilidad a las que se encuentran expuestas las sociedades, como paso fundamental en la construcción de actitudes preventivas individuales y colectivas.",
+            "Identificación y análisis de los desastres naturales y catástrofes que afectan al mundo y el modo de prevención que cada sociedad adopta para mitigar sus consecuencias.",
+            "Aplicación de las nuevas tecnologías, especialmente los geonavegadores y los Sistemas de Información Geográfica, para resignificar el análisis de los desastres naturales que afectan al espacio geográfico mundial."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "La organización política y económica del territorio argentino",
+      "contenidos": [
+        {
+          "anio": "4",
+          "saberes": "Reconocer y analizar los procesos que construyen la organización política del territorio Argentino.",
+          "aprendizajes": [
+            "Análisis de la configuración territorial de Argentina a partir de la identificación de los procesos de construcción del territorio nacional.",
+            "Identificación y localización de la división político-administrativa y de los espacios: terrestre, aéreo y marítimo de Argentina a partir de la proyección bicontinental.",
+            "Interpretación de diferentes fuentes de información que con la asistencia de las TIC posibiliten crear entornos de conocimiento significativo."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Identificar y analizar los distintos procesos productivos y las asimetrías territoriales que caracterizan a las economías regionales de la Argentina.",
+          "aprendizajes": [
+            "Identificación de los principales actores sociales y sus roles a través de la explicación y comprensión de los circuitos productivos en el escenario económico argentino.",
+            "Análisis de los circuitos económicos con sus recientes transformaciones tecno-productivas, diferenciando impactos según el tipo de actividad en el territorio Argentino.",
+            "Análisis de la influencia de las políticas nacionales e internacionales en los espacios productivos argentinos, para comprender cambios y continuidades en la dinámica de las áreas urbanas, periurbanas y rurales.",
+            "Comparación y construcción de gráficos y mapas temáticos a partir de las estadísticas como insumos para la comprensión de diversas problemáticas urbanas-rurales y socio productivas en el territorio argentino.",
+            "Aplicación de las nuevas tecnologías, especialmente geonavegadores y los Sistemas de Información Geográfica, para la resignificación del análisis de la organización política y económica del territorio argentino."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "La dinámica poblacional argentina en relación con las economías regionales",
+      "contenidos": [
+        {
+          "anio": "4",
+          "saberes": "Interpretar y explicar los procesos socio-demográficos de la estructura, dinámica y distribución de la población argentina, identificando sus contrastes territoriales.",
+          "aprendizajes": [
+            "Comprensión y explicación del comportamiento demográfico argentino a partir de su distribución, estructura y dinámica poblacional.",
+            "Identificación de las problemáticas sociales en relación con la concentración urbana, movilidad geográfica y las condiciones de vida (acceso a la salud, a la educación, situación habitacional y laboral) de la población argentina.",
+            "Comprensión de la relación existente entre los diversos circuitos productivos y las problemáticas sociales que de ellos derivan.",
+            "Comparación y construcción de gráficos e indicadores a partir de las estadísticas como insumos para la comprensión de diversas problemáticas demográficas y socioculturales."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Comprender y explicar la organización de los espacios urbanos, periurbanos y rurales de Argentina, caracterizados por las actividades económicas, en el marco de los procesos de reestructuración productiva y modernización tecnológica.",
+          "aprendizajes": [
+            "Interpretación y comprensión del sistema urbano argentino con sus asimetrías en lo económico y social y sus problemáticas derivadas.",
+            "Reconocimiento y análisis de espacios periurbanos como áreas de transición en constante transformación económica y social.",
+            "Interpretación y comprensión de los espacios rurales argentinos a partir de diversas variables y su integración en la economía nacional y global.",
+            "Aplicación de las nuevas tecnologías, especialmente geonavegadores y los Sistemas de Información Geográfica para la resignificación de la organización poblacional argentina."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "La relación entre ambiente y sociedad en el territorio argentino vinculado a las economías regionales",
+      "contenidos": [
+        {
+          "anio": "4",
+          "saberes": "Interpretar los problemas ambientales como expresión de las tensiones entre componentes económicos, sociales, naturales, políticos y culturales, identificando al ambiente como un bien social.",
+          "aprendizajes": [
+            "Análisis y comprensión del impacto social, económico y ambiental, generado por las actividades productivas de las diversas economías regionales en el territorio argentino.",
+            "Comprensión y reflexión crítica del desarrollo sustentable para la preservación de los recursos naturales en el territorio argentino.",
+            "Comparación e interpretación de diversas fuentes de información: textos, artículos periodísticos, cartografía, imágenes satelitales entre otras, sobre la relación entre la sociedad y el ambiente."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Interpretar las representaciones y la valoración que las sociedades construyen de las condiciones ambientales, a través del análisis de criterios de utilización y aprovechamiento de los recursos naturales en el territorio argentino.",
+          "aprendizajes": [
+            "Identificación y explicación de los distintos tipos de manejo y aprovechamiento de los recursos naturales en relación con las respectivas formas de trabajo y producción, en el marco de un desarrollo sustentable.",
+            "Comprensión y conceptualización del desarrollo sustentable para la preservación de los recursos naturales a nivel local, a través de la creación de áreas protegidas.",
+            "Aplicación de las nuevas tecnologías, especialmente geonavegadores y los sistemas de Información Geográfica, para la resignificación del análisis de las problemáticas ambientales del territorio argentino."
+          ]
+        }
+      ]
+    }
+  ]
+}

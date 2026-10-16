@@ -1,0 +1,44 @@
+{
+  "_fuente": "DCP Secundario Mendoza - Bachiller en Turismo. Formación para la Vida y el Trabajo, Formación General - Ciclo Orientado (5° Año).",
+  "_nota": "Materia de 5° año del Ciclo Orientado. Varios ejes del DCP agrupan objetivos con un bloque común de aprendizajes: esos se cargaron como un solo saber por eje.",
+  "materia": {
+    "nombre": "Formación para la Vida y el Trabajo",
+    "orientacion": "Bachiller en Turismo"
+  },
+  "ejes": [
+    {
+      "nombre": "Resignificación del sujeto y su proyecto de vida en contextos actuales",
+      "contenidos": [
+        {
+          "anio": "5",
+          "saberes": "Reconocer, comprender y valorar la importancia del autoconocimiento y la aceptación de sí mismo así como de los otros para el desarrollo de relaciones y vínculos positivos; analizar y discutir grandes problemáticas filosóficas y sus implicancias sociológicas y psicológicas; y analizar críticamente y contrastar sus trayectorias vitales y sus oportunidades de desarrollo en contexto.",
+          "aprendizajes": [
+            "Reconocimiento de las cualidades y potencialidades personales sin perder de vista los condicionamientos de los contextos.",
+            "Exploración de los diferentes modos de organización personal y grupal del trabajo, del ocio y del estudio.",
+            "Reflexión e inferencia sobre experiencias tales como la vida, la muerte, el amor, la felicidad, la amistad, la alteridad, la nada, y otros, a través del debate apoyado en distintos referentes de la historia del pensamiento en vista a la construcción de un proyecto de vida personal.",
+            "Reconocimiento de las posibilidades subjetivas de tomar decisiones de vida a partir del conocimiento de factores histórico sociales que condicionan la constitución de los sujetos y sus prácticas, desde distintos enfoques filosóficos, sociológicos y psicológicos: esencialismo, naturalismo, evolucionismo, existencialismo, estructuralismo, culturalismo y humanismo, entre otros.",
+            "Indagación de alternativas de estudio y trabajo en distintos ámbitos para elaborar una organización de perspectivas."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Resignificación del sujeto y su inserción en el mundo a través de diversas actividades en contextos actuales",
+      "contenidos": [
+        {
+          "anio": "5",
+          "saberes": "Comprender y comparar la incidencia del trabajo, del estudio y la cultura ciudadana en el desarrollo de la identidad personal y social; analizar las relaciones entre el Estado y las múltiples instituciones y espacios en los cuales se puede insertar el sujeto; reconocer y analizar críticamente los discursos y representaciones sociales que atraviesan las actividades del sujeto; y resolver situaciones hipotéticas en relación a las actividades en las que se ve involucrado como actor social.",
+          "aprendizajes": [
+            "Reconocimiento y caracterización del proceso histórico que conduce al surgimiento de los derechos sociales, sus etapas de demanda, positivación (leyes y normas), efectivización y regresión.",
+            "Identificación y reflexión sobre la dinámica entre los intereses y conflictos de los distintos actores involucrados en el proceso de demanda de los derechos: por ejemplo entre instituciones como el Estado, los sindicatos, las empresas; los medios de comunicación, universidades y otros emergentes.",
+            "Caracterización e interpretación de los discursos hegemónicos vinculados a ámbitos como el laboral (recursos, empleo/trabajo, reconversión, flexibilización, trabajo decente, desempleo, pleno empleo, etc.), el académico, el político en los que participa el sujeto, y su influencia en las representaciones sociales en relación con las ocupaciones y profesiones actuales.",
+            "Integración de saberes para la discusión y comprensión de los problemas del mundo del trabajo, en relación al concepto de dignidad humana, por ejemplo: trabajo esclavo, trabajo infantil, el trabajo de los menores.",
+            "Análisis y reflexión crítica sobre las distintas normativas del campo laboral y los principios filosóficos y sociológicos que las sustentan.",
+            "Identificación y utilización de instrumentos diversos que le permiten al sujeto su inserción en distintos campos sociales, por ejemplo, la construcción de su CV, distintas formas de presentación en entrevistas, a través de cartas, recomendaciones, etc.",
+            "Participación en experiencias formativas, por ejemplo: salidas de campo, visitas, entrevistas, entre otras."
+          ]
+        }
+      ]
+    }
+  ]
+}

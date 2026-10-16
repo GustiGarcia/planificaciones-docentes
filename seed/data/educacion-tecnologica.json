@@ -1,0 +1,132 @@
+{
+  "_fuente": "DCP Secundario Mendoza - Bachiller en Turismo. Educación Tecnológica, Formación General - Ciclo Básico (páginas 213 a 216 del PDF).",
+  "_nota": "El DCP ubica Educación Tecnológica SOLO en 2° año del Ciclo Básico. Por eso todos los contenidos tienen anio = 2. El espacio se dicta con dinámica de taller y evaluación por Taller de Producción Trimestral Obligatorio.",
+
+  "materia": {
+    "nombre": "Educación Tecnológica",
+    "orientacion": "Bachiller en Turismo"
+  },
+
+  "ejes": [
+    {
+      "nombre": "Procesos tecnológicos",
+      "contenidos": [
+        {
+          "anio": "2",
+          "saberes": "Reconocer que el accionar tecnológico concebido por el ser humano se orienta a satisfacer necesidades de la sociedad.",
+          "aprendizajes": [
+            "Identificación de necesidades y demandas sociales contextualizadas que se pueden resolver a través de la intervención tecnológica mediante bienes, procesos y servicios.",
+            "Análisis e interpretación de la influencia de la ciencia y la técnica en el accionar tecnológico."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Comprender en los procesos tecnológicos regionales transformaciones de materia, energía e información.",
+          "aprendizajes": [
+            "Análisis y representación de procesos de producción industriales regionales.",
+            "Desarrollo de productos tecnológicos mediante la transformación de: Materiales: identificando propiedades, tipos de operaciones técnicas y productos obtenidos; Información: transmisión, retransmisión y almacenamiento, con el fin de retroalimentar el sistema o su consideración como materia prima dentro de un proceso; Energía: identificando fuentes, formas posibilidades y limitaciones en términos de eficiencia, rendimiento e impacto ambiental."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Interpretar los modos en que se organizan y controlan diferentes procesos tecnológicos priorizando los regionales.",
+          "aprendizajes": [
+            "Análisis de procesos de producción reconociendo variables tales como: tipos de materias primas utilizadas, características, cantidad, variedad y destino de los productos obtenidos.",
+            "Caracterización de los procesos (artesanal, industrial, mixtos) y de su organización: flexible, por proyecto, intermitente, por lotes, continuos.",
+            "Identificación las tareas y el modo en que éstas se organizan en el tiempo, estableciendo las “rutas críticas” y el análisis de la influencia de los cambios en las “tareas críticas” sobre la duración total de los procesos.",
+            "Identificación de sistemas de control con automatización de diversa complejidad."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Reconocer las tareas que realizan las personas en los procesos tecnológicos.",
+          "aprendizajes": [
+            "Identificación de las tareas que desempeñan las personas en el tratamiento de materia, energía o información.",
+            "Caracterización del rol de las personas en: el desarrollo de procesos automatizados, diferenciando entre tareas de programación y tareas de supervisión de los sistemas; el control de “calidad total” desde una visión sistémica."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Analizar y aplicar las diferentes maneras de comunicar la información técnica correspondiente a un proceso.",
+          "aprendizajes": [
+            "Selección y utilización adecuada de los medios que ofrecen las tecnologías de la información y la comunicación para buscar, representar y presentar información (esquemas, planos, gráficos).",
+            "Interpretación y uso de códigos normalizados para representar la secuencia de operaciones de un proceso."
+          ]
+        }
+      ]
+    },
+
+    {
+      "nombre": "Medios tecnológicos",
+      "contenidos": [
+        {
+          "anio": "2",
+          "saberes": "Identificar las secuencias de actividades y tareas delegadas en los artefactos.",
+          "aprendizajes": [
+            "Reconocimiento y caracterización la secuencia de operaciones realizadas por los artefactos, producto de la delegación de acciones humanas en ellos (en artefactos de control manual, semiautomático, automático)."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Reconocer las relaciones entre los componentes de un sistema, sus propiedades, las funciones que cumplen y su funcionamiento.",
+          "aprendizajes": [
+            "Análisis de: similitudes y diferencias entre artefactos que transforman materia, energía e información, para la manufactura de productos tangibles e intangibles, mediante su análisis estructural, funcional y de funcionamiento, así como de las relaciones con el usuario. Los referidos productos pueden ser de control manual, semiautomático y automático; los flujos de energía, materia e información reconociendo las características de los equipos involucrados.",
+            "Utilización de herramientas gráficas que permitan visualizar las relaciones entre los componentes del sistema.",
+            "Resolución de problemas de diseño de artefactos sencillos para controlar tiempo, temperatura, caudal.",
+            "Resolución de problemas de diseño de procesos tecnológicos sobre la base de los medios que lo integran."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Seleccionar y evaluar alternativas de solución a problemas que impliquen procesos de diseño.",
+          "aprendizajes": [
+            "Planificación e implementación de procesos de producción a escala escolar, tomando decisiones respecto a la organización de los mismos.",
+            "Resolución de problemas de diseño de productos y/o procesos analizando la organización fabril, las variables y relaciones a medir y seleccionando instrumentos específicos.",
+            "Resolución de problemas de gestión de proyectos aplicando diagramas de planificación de tiempos, tareas, costos."
+          ]
+        }
+      ]
+    },
+
+    {
+      "nombre": "Reflexión sobre la tecnología como proceso sociocultural: diversidad, cambios y continuidades",
+      "contenidos": [
+        {
+          "anio": "2",
+          "saberes": "Comprender las interacciones entre procesos tecnológicos, actores y tecnologías en la constitución de redes y sistemas.",
+          "aprendizajes": [
+            "Análisis y representación de las interacciones entre procesos tecnológicos, actores y tecnologías que configuran un sistema socio-técnico en distintos momentos históricos, utilizando esquemas. Por ejemplo, el sistema de producción de la “revolución industrial”, la industria contemporánea.",
+            "Análisis crítico y descripción del fenómeno socio-técnico conocido como “convergencia de modos o de medios”, por el cual los procesos tecnológicos que operaban sobre tecnologías de diferentes clases tienden a realizarse sobre un soporte común (por ejemplo: dibujo, cálculo, fotografía, escritura, comunicaciones, sobre el soporte informático).",
+            "Interpretación de la relación entre la ciencia aplicada, el desarrollo tecnológico y el impacto social, así como sus implicancias para la investigación e innovación."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Interpretar la continuidad y los cambios que experimentan las tecnologías a través del tiempo.",
+          "aprendizajes": [
+            "Análisis y caracterización de los diferentes momentos históricos del desarrollo tecnológico de procesos, donde se conservan las operaciones más allá de los medios utilizados. Se pueden comparar tiempos de producción, variedad, calidad y cantidad de productos, tecnologías empleadas, niveles de automatización así como sus impactos en los contextos social, laboral y natural.",
+            "Reflexión sobre la importancia de seleccionar tecnologías por su valor social y sustentabilidad ambiental, analizando las consecuencias de su uso acrítico, identificando prácticas de consumo y responsabilizándose mediante el tratamiento de los residuos obtenidos en los procesos (por ej.: identificar los grados de reciclabilidad de los materiales descartables y las ventajas del uso de materiales reutilizables: pañales, máquinas de afeitar, pilas, biromes, envases, accesorios para el hogar).",
+            "Reconocimiento de la oportunidad y conveniencia de incorporar productos sustentables en sustitución de aquellos perjudiciales para la calidad de vida de las personas."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Identificar la coexistencia de tecnologías diferentes en una misma sociedad o en culturas específicas.",
+          "aprendizajes": [
+            "Reconocimiento de la coexistencia del uso de recursos renovables y no renovables, su adecuación y disponibilidad/uso en distintos grupos en una misma sociedad.",
+            "Comparación de escalas de producción, características y costos de los productos terminados, modos de gestión y excedentes económicos, energías involucradas.",
+            "Análisis de la evolución histórica de las TIC desde el enfoque de la construcción de la sociedad del conocimiento, y el impacto en nuestro país sobre el desarrollo tecnológico e industrial."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Reconocer la creciente potencialidad de innovación de las tecnologías disponibles.",
+          "aprendizajes": [
+            "Identificación de los propósitos y actividades de algunas de las principales instituciones del estado que participan del Sistema Nacional de Innovación (INTI, INVAP, CONAE, CNEA, INTA, ANMAT, INPI, etc.) y de otras a nivel jurisdiccional y/o local (universidades, empresas, complejos de desarrollo).",
+            "Reflexión sobre el impacto en los procesos de desarrollo económico e industrial, a partir de enfoques de Investigación y Desarrollo (I+D) e innovación."
+          ]
+        }
+      ]
+    }
+  ]
+}

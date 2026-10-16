@@ -1,0 +1,753 @@
+{
+  "_fuente": "DCP Secundario Mendoza - Bachiller en Turismo. Lengua (Ciclo Básico, páginas 35 a 40) y Lengua y Literatura (Ciclo Orientado, páginas 41 a 57).",
+  "_nota": "Transcripción literal del DCP. En Ciclo Básico el espacio se llama 'Lengua' y en Ciclo Orientado 'Lengua y Literatura': es el mismo espacio curricular, por eso va en una sola materia con los cinco años. Los EJES cambian entre ciclos, así que vas a ver unos para 1°/2° y otros para 3° a 5°. En Ciclo Básico cada saber aparece dos veces (1° y 2°); en Orientado cada año tiene saberes propios.",
+  "materia": {
+    "nombre": "Lengua",
+    "orientacion": "Bachiller en Turismo"
+  },
+  "ejes": [
+    {
+      "nombre": "Comprensión y producción oral",
+      "contenidos": [
+        {
+          "anio": "1",
+          "saberes": "Reconocer la información central de los textos orales e identificar detalles y relaciones lógicas.",
+          "aprendizajes": [
+            "Identificación en narraciones, descripciones, exposiciones y conversaciones: el tema, subtema, o los sucesos, las personas o personajes, el tiempo y el espacio, las relaciones, temporales, causales, lugares objetos, hechos y procesos."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Reconocer la información central de los textos orales e identificar detalles y relaciones lógicas.",
+          "aprendizajes": [
+            "Identificación en discusiones y debates: el tema, hechos y opiniones, la tesis y los argumentos y las expresiones para manifestar acuerdos, desacuerdos y valoraciones subjetivas, reteniendo la información relevante."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Producir narraciones, renarraciones y exposiciones orales.",
+          "aprendizajes": [
+            "Distinción en narraciones y renarraciones de sus componentes: el tiempo y el espacio en los que ocurren los hechos, el orden de las acciones y las relaciones causales que se establecen entre ellas."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Producir narraciones, renarraciones y exposiciones orales.",
+          "aprendizajes": [
+            "Reconocimiento en narraciones y renarraciones sus componentes: el tiempo y el espacio en los que ocurren los hechos, el orden de las acciones y las relaciones causales que se establecen entre ellas, incluyendo estilo directo e indirecto y empleando adecuadamente los verbos de decir y los tiempos verbales."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Participar en conversaciones.",
+          "aprendizajes": [
+            "Formulación en exposiciones de: el tema, el desarrollo y el cierre y las relaciones entre los diversos subtemas.",
+            "Sostenimiento del tema realizando aportes, que se ajusten al contenido y al propósito."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Participar en conversaciones.",
+          "aprendizajes": [
+            "Formulación en exposiciones de: el tema, el desarrollo y el cierre y las relaciones entre los diversos subtemas con la utilización de ejemplos, definiciones, comparaciones, paráfrasis, recapitulaciones, ilustraciones, esquemas con soporte papel y/o digital.",
+            "Sostenimiento del tema realizando aportes, que se ajusten al contenido y al propósito, utilizando recursos adecuados y fundamentando opiniones."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Lectura y producción escrita",
+      "contenidos": [
+        {
+          "anio": "1",
+          "saberes": "Leer textos con propósitos diversos (informarse, construir opinión, compartir, confrontar datos).",
+          "aprendizajes": [
+            "Lectura de textos en diferentes soportes (papel, multimediales, hipermediales, etc.), aplicando diversas estrategias adecuadas al género y al propósito: consulta a los elementos del paratexto, reconocimiento de la intencionalidad, relación entre la información del texto y sus conocimientos, identificación de la información relevante, relación del texto con el contexto de producción."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Leer textos con propósitos diversos (informarse, construir opinión, compartir, confrontar datos).",
+          "aprendizajes": [
+            "Lectura de textos en diferentes soportes (papel, multimediales, hipermediales, etc.), aplicando diversas estrategias adecuadas al género y al propósito de lectura: lectura de textos con consulta a los elementos del paratexto, reconocimiento de la intencionalidad, relación entre la información del texto y sus conocimientos, identificación de la información relevante, relación del texto con el contexto de producción, monitoreo de los propios procesos de comprensión, recuperando lo que se entiende y mejorando la comprensión a través de la relectura, la interacción con el docente, con los pares y la consulta a otras fuentes."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Releer y registrar la información relevante.",
+          "aprendizajes": [
+            "Identificación de lo relevante.",
+            "Agrupamiento de las ideas respetando el orden lógico y distinguiendo información de opinión a partir de la validación de recursos tradicionales y digitales."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Releer y registrar la información relevante.",
+          "aprendizajes": [
+            "Reconocimiento de lo relevante.",
+            "Agrupamiento de las ideas respetando el orden lógico y distinguiendo información de opinión.",
+            "Manejo de estrategias y criterios para la validación de información en sitios web.",
+            "Síntesis de la información utilizando las potencialidades de los recursos digitales (procesadores de textos, mapa conceptuales digitales, etc.) elaborando fichas bibliográficas, diagramas, esquemas, cuadros u otros modos de organizar la información."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Construir valoraciones mediante la socialización de lo leído.",
+          "aprendizajes": [
+            "Construcción de significados en el intercambio sistemático de opiniones con el docente, con sus pares y con otros miembros de la comunidad."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Construir valoraciones mediante la socialización de lo leído.",
+          "aprendizajes": [
+            "Construcción de significados en el intercambio sistemático de opiniones con el docente, con sus pares y con otros miembros de la comunidad."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Leer con fluidez frente a un auditorio, en situaciones que den sentido a la práctica.",
+          "aprendizajes": [
+            "Lectura para informar, comunicar un dato, confrontar opiniones utilizando recursos tradicionales y audiovisuales."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Leer con fluidez frente a un auditorio, en situaciones que den sentido a la práctica.",
+          "aprendizajes": [
+            "Lectura para informar, comunicar un dato, confrontar opiniones, divulgar temas de todas las áreas y del mundo de la cultura.",
+            "Lectura de acuerdos y desacuerdos adoptando una posición personal o grupal fundamentada, compartiendo la comprensión de lo leído."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Aplicar de manera sistemática el proceso de escritura.",
+          "aprendizajes": [
+            "Generación de ideas, corrección y reescritura de textos utilizando estrategias de planificación, ejecución y control del escrito teniendo en cuenta género, destinatarios, desarrollo del tema, organización de ideas e intencionalidad, empleando correctamente procedimientos de cohesión y respetando la normativa ortográfica y de puntuación."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Aplicar de manera sistemática el proceso de escritura.",
+          "aprendizajes": [
+            "Generación de ideas más complejas, corrección y reescritura de textos y utilización de estrategias de planificación, ejecución y control del escrito teniendo en cuenta género, destinatarios, desarrollo del tema, organización de ideas e intencionalidad, empleando correctamente procedimientos de cohesión y respetando la normativa ortográfica y de puntuación.",
+            "Sistematización de los procedimientos de escritura.",
+            "Uso crítico y adecuado del procesador de texto."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Redactar textos de diverso tipo combinando soportes y medios digitales y tradicionales.",
+          "aprendizajes": [
+            "Presentación del tema/problema y del desarrollo de la información, en textos narrativos (con o sin descripción) y explicativos.",
+            "Establecimiento de relaciones entre diferentes subtemas, respetando: orden temporal y causal de las acciones, en textos narrativos (con o sin descripción) y explicativos.",
+            "Determinación del propósito comunicativo, usando el registro adecuado, en cartas formales, mails, blog, redes sociales.",
+            "Aplicación de recursos digitales para la producción, publicación y socialización de textos en distintos soportes (procesadores de texto, espacios virtuales de aprendizaje y socialización)."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Redactar textos de diverso tipo combinando soportes y medios digitales y tradicionales.",
+          "aprendizajes": [
+            "Presentación del tema/problema y del desarrollo de la información, en textos narrativos (con o sin descripción), explicativos y de opinión.",
+            "Establecimiento de las relaciones entre los diferentes subtemas respetando el orden temporal y casual de las acciones y diferenciando hechos y opiniones.",
+            "Sistematización de los procesos de escritura con propósito comunicativo, en cartas formales, mails, blog, redes sociales.",
+            "Aplicación crítica de recursos digitales para la producción, publicación y socialización de textos en distintos soportes (procesadores de texto, espacios virtuales de aprendizaje y socialización)."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Literatura",
+      "contenidos": [
+        {
+          "anio": "1",
+          "saberes": "Escuchar y leer textos literarios regionales, nacionales y universales en diferentes soportes (papel, digital, etc.).",
+          "aprendizajes": [
+            "Incorporación paulatina de los procedimientos del discurso literario y de las reglas de los distintos géneros para ampliar su comprensión, disfrutar, definir sus preferencias, recomendar y armar su propio itinerario de lectura.",
+            "Establecimiento de relaciones entre los textos literarios y otras producciones artísticas (música, pintura), digitales (hipertexto y multimedia) y audiovisuales (televisión, cine, radio)."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Escuchar y leer textos literarios regionales, nacionales y universales en diferentes soportes (papel, digital, etc.).",
+          "aprendizajes": [
+            "Sistematización de los procedimientos del discurso literario y de las reglas de los distintos géneros para ampliar su comprensión, disfrutar, confrontar con otros su opinión y continuar un itinerario personal de lectura.",
+            "Contrastación de textos literarios con versiones de producciones artísticas (música, pintura, cine), digitales (hipertexto y multimedia) y audiovisuales (televisión, cine, radio)."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Producir textos de invención.",
+          "aprendizajes": [
+            "Elaboración de textos de invención que pongan en juego convenciones propias de los géneros literarios de las obras leídas para posibilitar experiencias de pensamiento, de interpretación y de escritura."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Producir textos de invención.",
+          "aprendizajes": [
+            "Profundización y sistematización en la elaboración de textos de invención que pongan en juego convenciones propias de los géneros literarios de obras leídas para posibilitar experiencias de pensamiento, de interpretación y de escritura."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Reflexión sobre el lenguaje",
+      "contenidos": [
+        {
+          "anio": "1",
+          "saberes": "Reconocer clases de palabras.",
+          "aprendizajes": [
+            "Diferenciación entre sustantivos, adjetivos, verbos, tiempos verbales, preposiciones, adverbios, pronombres (personales, posesivos, demostrativos e interrogativos y exclamativos) propios de cada texto.",
+            "Identificación de categorías morfológicas nominales (género y número) y verbales (tiempo, modo y persona), concordancia, la construcción sustantiva y verbal (núcleo y modificadores) y funciones sintácticas en la oración simple."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Reconocer clases de palabras.",
+          "aprendizajes": [
+            "Diferenciación entre sustantivos, adjetivos, preposiciones, adverbios, conjunciones coordinantes y pronombres; palabras variables e invariables, categorías morfológicas nominales (género y número) y verbales (tiempo, modo y persona); verbos: formas conjugadas y no conjugadas; identificando algunas formas de verbos regulares e irregulares en las que suele cometerse errores.",
+            "Reconocimiento de concordancia, funciones sintácticas básicas y tipos de oraciones: simple y compuesta."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Reconocer las relaciones de significado entre las palabras.",
+          "aprendizajes": [
+            "Identificación de: sinónimos, antónimos, hiperónimos, hipónimos, para ampliar el vocabulario y para inferir el significado de las palabras desconocidas."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Reconocer las relaciones de significado entre las palabras.",
+          "aprendizajes": [
+            "Utilización de: sinónimos, antónimos, hiperónimos, hipónimos, para ampliar el vocabulario y para inferir el significado de las palabras desconocidas; como procedimiento de cohesión y como recurso de estilo."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Conocer la correcta escritura de las palabras.",
+          "aprendizajes": [
+            "Identificación y uso de las reglas ortográficas y signos de puntuación, diferenciando el uso de los mismos y la ortografía correspondiente al vocabulario cotidiano y escolar."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Conocer la correcta escritura de las palabras.",
+          "aprendizajes": [
+            "Aplicación de las reglas ortográficas principales y de la ortografía correspondiente al vocabulario cotidiano y escolar.",
+            "Reflexión acerca de los usos correctos y del sentido de algunos signos de puntuación."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Reconocer la morfología de las palabras.",
+          "aprendizajes": [
+            "Identificación de la formación de palabras: sufijación, prefijación, composición y algunos casos de etimología para la ampliación del vocabulario."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Reconocer la morfología de las palabras.",
+          "aprendizajes": [
+            "Inferencia del significado o la ortografía de las palabras aplicando los criterios para la formación de palabras: sufijación, prefijación, composición, y algunos casos de etimología para la ampliación del vocabulario."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Diferenciar las variedades lingüísticas.",
+          "aprendizajes": [
+            "Identificación y valoración de las lenguas y variedades lingüísticas presentes en la comunidad en textos y medios de comunicación audiovisuales para construir las nociones de dialecto (geográfico y social) y registro."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Diferenciar las variedades lingüísticas.",
+          "aprendizajes": [
+            "Contrastación entre las variedades lingüísticas propias de distintos registros y dialectos (geográficos y sociales) para sistematizar dichas nociones y analizar las razones del prestigio o desprestigio de los dialectos y las lenguas."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Identificar las variaciones de sentido en las reformulaciones.",
+          "aprendizajes": [
+            "Distinción del cambio del orden de los elementos, sustituciones de palabras o expresiones por otras sinónimas, eliminación, expansión."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Identificar las variaciones de sentido en las reformulaciones.",
+          "aprendizajes": [
+            "Sistematización del procedimiento de cambio del orden de los elementos, sustituciones de palabras o expresiones por otras sinónimas, eliminación, expansión."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Reconocer los componentes de la oración simple y compuesta.",
+          "aprendizajes": [
+            "Diferenciación de los constituyentes de las oraciones a través de pruebas (cambio de orden, sustitución, interrogación); y la construcción sustantiva y verbal (núcleo y modificadores) en la oración simple."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Reconocer los componentes de la oración simple y compuesta.",
+          "aprendizajes": [
+            "Reflexión acerca de las funciones sintácticas básicas y tipos de oraciones: simple y compuesta.",
+            "Sistematización de procedimientos y análisis en función de la comprensión de textos."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Conocer el origen y el proceso de constitución del español como lengua romance.",
+          "aprendizajes": [
+            "Identificación de los diversos procesos lingüísticos e históricos relacionados con la constitución del español como lengua romance: aportes del latín y otras lenguas europeas así como los americanismos."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Diferenciar las unidades y relaciones gramaticales y textuales.",
+          "aprendizajes": [
+            "Diferenciación de las unidades y las relaciones gramaticales y textuales y de los procedimientos de cohesión gramatical y lexical.",
+            "Sistematización de los saberes sobre diferentes unidades y relaciones gramaticales y textuales en función de la comprensión y producción de textos -tanto orales como escritos- y de la apropiación del metalenguaje correspondiente."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Reconocer en las oraciones las subordinadas, sus funciones sintácticas y el modo en que aportan, completan y especifican información en la comprensión y producción de textos.",
+          "aprendizajes": [
+            "Identificación y clasificación de las proposiciones subordinadas, sus funciones sintácticas, del modo en que aportan, completan y especifican información.",
+            "Utilización de las proposiciones subordinadas adjetivas en descripciones de objetos o sujetos; y de las sustantivas en la transformación de diálogos en relatos en la escritura de textos.",
+            "Aplicación adecuada de proposiciones subordinadas adverbiales (causales, concesivas y condicionales) para la comprensión y producción de textos de opinión según el modo en que aportan, completan y especifican información, argumentos u opinión."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Utilizar adecuadamente los signos de puntuación y las reglas ortográficas en función de la comprensión y producción de textos.",
+          "aprendizajes": [
+            "Identificación y uso adecuado de los signos de puntuación.",
+            "Reconocimiento y aplicación de las reglas ortográficas durante el proceso de escritura de textos literarios y no literarios."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Conocer las lenguas de los pueblos indígenas latinoamericanos antes de la conquista.",
+          "aprendizajes": [
+            "Identificación de las lenguas de los pueblos indígenas antes de la conquista.",
+            "Análisis de las relaciones de las lenguas de los pueblos indígenas con el castellano y sus variedades."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Comprender los procedimientos propios del discurso literario y su incidencia en la producción de sentidos utilizados en la literatura latinoamericana.",
+          "aprendizajes": [
+            "Reconocimiento y aplicación de procedimientos para expresar la defensa de un punto de vista personal acerca de un determinado tópico o problema.",
+            "Diferenciación de las formas de incluir la palabra y el pensamiento de otro.",
+            "Distinción de los procedimientos para relatar la historia: elección del narrador, orden temporal y alternancia de puntos de vistas.",
+            "Identificación del género ensayístico, de sus variedades y su incorporación en el campo de la literatura."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Reconocer los usos de los signos de puntuación en la construcción de sentido del texto escrito.",
+          "aprendizajes": [
+            "Aplicación de las reglas de uso de los diferentes signos de puntuación como demarcadores textuales: punto y aparte, punto seguido, coma, punto y coma, guión, paréntesis, comillas, dos puntos, raya de diálogo, signos de interrogación y de exclamación."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Aplicar con fundamento las reglas ortográficas en la producción escrita.",
+          "aprendizajes": [
+            "Elección del vocabulario y léxico adecuado.",
+            "Utilización de las reglas ortográficas en la escritura de textos.",
+            "Consulta a distintas fuentes tanto impresas como virtuales para resolver las dudas ortográficas que puedan ofrecer algunas palabras."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Reconocer las relaciones de las lenguas de los pueblos indígenas de América, en particular de Argentina, con el español.",
+          "aprendizajes": [
+            "Reflexión crítica sobre las relaciones entre el español y las lenguas habladas por los pueblos indígenas en el contexto socio-histórico de la conquista de América.",
+            "Reconocimiento de las relaciones de poder: imposición del español y uso de lenguas nativas en contextos reducidos."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Analizar y sistematizar los procedimientos propios del discurso literario y su incidencia en la producción de sentidos en diversos textos.",
+          "aprendizajes": [
+            "Reconocimiento de estrategias del discurso literario, así como algunos géneros periodísticos (la noticia, el perfil, entre otros) que relatan sucesos reales desde una perspectiva personal.",
+            "Identificación de las estrategias del discurso literario en el género ensayo.",
+            "Aplicación de los procedimientos argumentativos para expresar la defensa de un punto de vista personal acerca de un determinado tópico o problema y para sostener el pacto de lectura (coloquialismo, apelaciones al lector, confesiones entre otros)."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Sistematizar el uso de las reglas ortográficas en la escritura.",
+          "aprendizajes": [
+            "Aplicación autónoma de las reglas ortográficas durante el proceso de escritura.",
+            "Exploración y análisis de las particularidades de los modos de hibridación y mixtura de las formas de oralidad y escritura en los nuevos soportes, medios y lenguajes digitales (mensajes de textos, chat/chat de voz, teleconferencias, foros, redes sociales)."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Discriminar los usos de los signos de puntuación para la comprensión y escritura de textos.",
+          "aprendizajes": [
+            "Identificación del uso de los signos de puntuación en la construcción de sentido del texto escrito teniendo en cuenta sus funciones (organizar la información, delimitar la oración y el párrafo, citar las palabras de otros, evidenciar intenciones del autor, entre otras).",
+            "Comprensión de los usos estilísticos de la puntuación en los textos literarios y su incidencia en la comprensión de los mismos."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Lectura y escritura de textos literarios",
+      "contenidos": [
+        {
+          "anio": "3",
+          "saberes": "Comprender una amplia variedad de textos literarios (narración, poesía y teatro), pertenecientes a la literatura universal.",
+          "aprendizajes": [
+            "Lectura y comprensión de textos literarios: narración, poesía y teatro.",
+            "Identificación de las características propias de narraciones, poesías y obras de teatro, pertenecientes a la literatura universal."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Interpretar el discurso literario a partir de sus características distintivas y de sus relaciones con otros discursos.",
+          "aprendizajes": [
+            "Definición de la literatura como discurso y descripción de obras literarias representativas de cada época y cultura",
+            "Intervención en discusiones en torno a temáticas referidas a un determinado recorrido de lecturas que permitan la interpretación de la literatura como discurso.",
+            "Indagación, identificación y análisis de las vinculaciones existentes entre el discurso literario con otros discursos (históricos, sociológicos, políticos, antropológicos, etc.) y con otras prácticas y lenguajes artísticos en el contexto de la cultura universal."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Caracterizar los géneros literarios a partir de la lectura de obras narrativas, dramáticas y líricas pertenecientes a la literatura universal.",
+          "aprendizajes": [
+            "Identificación y análisis del sentido y de las múltiples significaciones de las nociones propias del género lírico.",
+            "Caracterización de los distintos elementos narrativos: organización temporal, puntos de vista del narrador, recurrencias temáticas, variaciones en la construcción y en la evolución de los personajes, relaciones con el espacio y la intertextualidad.",
+            "Reconocimiento y profundización de las formas propias de la estructura dramática en tragedia, comedia y drama.",
+            "Distinción entre protagonista antagonista y coprotagonista.",
+            "Caracterización del texto escénico."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Escribir textos ficcionales que se adecuen a las convenciones de los géneros literarios.",
+          "aprendizajes": [
+            "Producción escrita y sostenida de textos ficcionales (de invención) que permitan explorar las potencialidades del lenguaje en sus relaciones entre forma y significación.",
+            "Escritura de textos ficcionales en los que se ponen en juego las reglas y convenciones de los géneros literarios.",
+            "Reelaboración de textos narrativos a partir de transformaciones en la trama, incorporando nuevos personajes y episodios, lugar y tiempo en donde transcurren las historias, punto de vista del narrador, etc.",
+            "Transformación de narraciones en textos dramáticos, cambios de género y de lenguaje.",
+            "Escritura colaborativa de textos ficcionales en blogs y redes virtuales, en diarios y revistas escolares y comunitarias, entre otras."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Comprender una amplia variedad de textos literarios (narración, poesía y teatro) pertenecientes a la literatura latinoamericana.",
+          "aprendizajes": [
+            "Lectura y comprensión de textos literarios latinoamericanos -narración, poesía y teatro- de mayor complejidad en cuanto a registro, temática, extensión, entre otros aspectos.",
+            "Identificación de las características propias de literaturas americanas (latinoamericana, norteamericana y del Caribe) con la inclusión de la literatura de los pueblos indígenas de esos territorios.",
+            "Análisis de la conformación de la identidad americana en la selección y en el abordaje de las obras literarias propuestas."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Reconocer las características propias del discurso literario y las formas y propiedades de los géneros a partir de la lectura de textos de literatura latinoamericana.",
+          "aprendizajes": [
+            "Sistematización de las nociones propias del lenguaje poético referidas al sentido y las múltiples significaciones expresadas en la literatura latinoamericana.",
+            "Profundización de las distintas estructuras narrativas en el cuento y la novela con mayor complejidad en cuanto a la organización temporal, puntos de vista del narrador, recurrencias temáticas, variaciones en la construcción y en la evolución de los personajes, las relaciones con el espacio, la intertextualidad, la polifonía, la focalización, entre otros aspectos.",
+            "Reconocimiento de las formas propias de la estructura dramática de acuerdo con los distintos subgéneros existentes: tragedia, comedia, tragicomedia, sainete, absurdo, grotesco.",
+            "Diferenciación de protagonista-antagonista, tipos, estereotipos y arquetipos propios y constitutivos de los subgéneros teatrales.",
+            "Distinción del texto teatral y del texto escénico."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Relacionar el discurso literario latinoamericano con otros discursos y otras prácticas y lenguajes artísticos pertenecientes a la cultura universal y de América Latina.",
+          "aprendizajes": [
+            "Sistematización de las variadas relaciones entre el discurso literario latinoamericano con otros discursos (históricos, sociológicos, políticos, antropológicos y filosóficos) en el contexto de la cultura universal y, en particular, de la cultura latinoamericana.",
+            "Interpretación de las diversas relaciones entre el discurso literario con otras prácticas y lenguajes artísticos (artes visuales, música, danza, teatro, cine) en el contexto de la cultura universal y, en particular, de la cultura latinoamericana.",
+            "Implementación en el análisis de textos literarios de diversos modos de abordar la literatura latinoamericana a partir de sus vinculaciones contextuales, sociales, entre otros aspectos."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Escribir en forma sostenida textos ficcionales (de invención) a partir de la interpretación de obras latinoamericanas, respetando las convenciones de los géneros literarios.",
+          "aprendizajes": [
+            "Producción de textos ficcionales (de invención) que permitan identificar las potencialidades del lenguaje en sus relaciones entre forma y significación.",
+            "Escritura de textos ficcionales con empleo de las reglas y las convenciones propias de los géneros literarios a partir de la lectura de varias obras latinoamericanas.",
+            "Elaboración y re-escritura, individual y grupal, de diversos textos literarios narrativos a partir de la interpretación de obras literarias latinoamericanas que implique transformaciones en la trama: incorporación de personajes, modificaciones del narrador, interpolación de relatos, modificaciones en el tiempo, espacio, entre otros aspectos.",
+            "Transformación de textos dramáticos y líricos de la literatura latinoamericana, de forma individual y grupal, aplicando recursos propios de los géneros literarios."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Escribir en forma sostenida textos literarios no ficcionales a partir de la interpretación de obras literarias latinoamericanas.",
+          "aprendizajes": [
+            "Producción de textos no ficcionales (reseñas, informes, editoriales, prólogos, epílogos, textos de opinión) en torno a una amplia variedad de temáticas presentes en las obras literarias latinoamericanas abordadas.",
+            "Escritura de textos no literarios en blogs, redes sociales y otros soportes vinculados a temáticas controversiales pertenecientes a la idiosincrasia latinoamericana: sistemas de creencias, ideologías, construcción de ciudadanía, derechos, entre otros."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Comprender y analizar en forma crítica una amplia variedad de textos literarios nacionales, regionales y de los pueblos indígenas.",
+          "aprendizajes": [
+            "Lectura y análisis crítico de textos literarios -narración, poesía, teatro y ensayo- nacionales y regionales, con mayor complejidad en cuanto a registro, temática, extensión, entre otros aspectos.",
+            "Reconocimiento y sistematización de las características distintivas de la literatura argentina, con la inclusión de la literatura de los pueblos indígenas y la literatura regional.",
+            "Identificación y sistematización de las ideas que permitan visualizar la conformación de la identidad argentina y regional en las obras literarias propuestas."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Analizar en obras pertenecientes a la literatura argentina las características distintivas de los géneros literarios (narrativa, lírica y dramática).",
+          "aprendizajes": [
+            "Determinación de criterios para organizar las nociones propias de la poesía, la narrativa y la dramática de la literatura argentina, regional y de los pueblos indígenas.",
+            "Sistematización de estrategias de análisis de obras literarias pertenecientes a la literatura argentina."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Conocer las características propias del ensayo y de la literatura non fiction (cruce entre literatura y periodismo: relato documental, testimonial y biográfico).",
+          "aprendizajes": [
+            "Identificación de las características propias del ensayo como género de ideas y la literatura “non fiction” en la literatura argentina.",
+            "Reconocimiento de las vinculaciones entre la literatura y el periodismo en cuanto a temáticas, procedimientos, recursos y estrategias entre otros aspectos."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Relacionar el discurso literario argentino con otros discursos y otras prácticas y lenguajes artísticos pertenecientes a la cultura universal.",
+          "aprendizajes": [
+            "Análisis y organización de las variadas relaciones entre la literatura argentina (narrativa, poética, dramática y, en particular del ensayo -literatura de ideas-) con otros discursos: históricos, sociológicos, políticos, antropológicos y filosóficos.",
+            "Interrelación de la literatura argentina con otras prácticas y lenguajes artísticos: artes visuales, danza, música, cine, entre otros.",
+            "Reconocimiento de las múltiples representaciones culturales y sociales de la literatura argentina, regional y de los pueblos indígenas.",
+            "Identificación en las múltiples representaciones culturales y sociales de la literatura argentina, regional y de los pueblos indígenas los diferentes posicionamientos ideológicos y políticos."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Escribir en forma autónoma textos ficcionales (de invención) a partir de la interpretación de obras literarias argentinas, regionales y de los pueblos indígenas.",
+          "aprendizajes": [
+            "Escritura de textos ficcionales (de invención) a partir de la interpretación de obras literarias argentinas, regionales y de los pueblos indígenas.",
+            "Elaboración y re-escritura de diversos textos individuales y grupales de mayor complejidad en cuanto a las temáticas que se abordan y a la extensión, con transformación de géneros y de puntos de vista, a partir de la interpretación de obras literarias argentinas seleccionadas.",
+            "Producción escrita de textos literarios non fiction, ensayos, vinculados a problemáticas pertenecientes a la idiosincrasia argentina y regional, referidos al espectro político, económico, social y cultural en blogs, redes sociales y otros soportes."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Lectura y escritura de textos no literarios",
+      "contenidos": [
+        {
+          "anio": "3",
+          "saberes": "Comprender diversos textos no literarios de complejidad creciente con diversos propósitos.",
+          "aprendizajes": [
+            "Lectura reflexiva de textos no literarios con complejidad creciente en cuanto a estilo, estructura y tema, referidos a temas específicos del área, de la Orientación y del campo de la cultura en diálogo con la literatura, en distintos soportes (impresos y digitales), con diversos propósitos (informarse, documentarse para escribir, confrontar datos, construir opinión, compartir con otros lo leído, entre otros).",
+            "Participación en discusiones de diversas temáticas a partir de recorridos de lecturas de textos no literarios que involucren temáticas que interpelen a los estudiantes por su complejidad, su propósito, sus temas, entre otros aspectos.",
+            "Aplicación de estrategias de lectura que permiten detectar información relevante, hacer anticipaciones, establecer relaciones textuales, intertextuales y contextuales, reconocer intencionalidad, entre otros aspectos.",
+            "Aproximación a estrategias de comprensión lectora como la relectura y la consulta a otros textos impresos y digitales con la colaboración del docente y los pares, a fin de promover autonomía en la comprensión.",
+            "Identificación de estrategias de búsquedas bibliográficas impresas y digitales y reconocimiento de su confiabilidad."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Discriminar las particularidades de los textos no literarios en cuanto a propósito, formato, recursos, entre otros.",
+          "aprendizajes": [
+            "Reconocimiento de los procedimientos propios de explicaciones y argumentaciones, tales como analogías, ejemplificaciones, reformulaciones, entre otras.",
+            "Diferenciación del propósito y el sentido del uso de los recursos explicativos y argumentativos a partir de indagaciones propias y/o grupales."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Escribir una amplia variedad de textos no literarios que se adecuen a la intencionalidad, soporte y formato.",
+          "aprendizajes": [
+            "Escritura, con la colaboración del docente, de textos que articulan lectura y escritura (resumen, toma de notas, diarios de lector, informes de lectura, entre otros) para registrar y reelaborar la información en el marco de proyectos de estudio.",
+            "Producción escrita -individual y grupal- de textos no literarios, con secuencias explicativas y argumentativas, (carta del lector, artículos de opinión, entre otros) atendiendo a la intencionalidad, los rasgos específicos de cada género, los destinatarios, los ámbitos de circulación y los soportes elegidos.",
+            "Escritura colaborativa en blogs y en otras redes virtuales, en diarios y revistas escolares y comunitarias, entre otras."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Utilizar adecuadamente los recursos discursivos en la escritura de diversos textos no literarios.",
+          "aprendizajes": [
+            "Conocimiento de diversos recursos discursivos adecuados al género, al propósito, al tema, al destinatario del texto escrito entre otros aspectos.",
+            "Aplicación reflexiva de recursos apropiados para la expresión de la opinión personal o para el planteamiento de un tema.",
+            "Utilización adecuada de distintos recursos para sintetizar la información como diagramas, esquemas, cuadros y listas, entre otros.",
+            "Análisis reflexivo del proceso de escritura y re-escritura en los diversos proyectos de escritura desarrollados para potenciar estrategias, recursos, entre otros aspectos."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Comprender diversos textos no literarios con secuencias argumentativas y explicativas de complejidad creciente, con diferentes propósitos.",
+          "aprendizajes": [
+            "Lectura reflexiva de textos no literarios con complejidad creciente en cuanto a estilo, estructura y tema, que expliquen y argumenten temas específicos vinculados al área y al campo de la cultura en diálogo con la literatura, en distintos soportes (impresos y digitales).",
+            "Análisis crítico de textos no literarios con diversos propósitos tales como ampliar conocimientos sobre un tema que se está estudiando, obtener información en el marco de una investigación, indagar diferentes enfoques de un mismo tema, cuestionar las respuestas obtenidas y generar nuevos interrogantes, documentarse para escribir o para intervenir en discusiones o para realizar una exposición oral.",
+            "Lectura reflexiva de discursos que involucren problemáticas del ámbito político, sociocultural y artístico donde se aborden temáticas relacionadas con la participación ciudadana, la construcción de la memoria, los derechos humanos, las problemáticas de género, la sexualidad, la convivencia intercultural, entre otros.",
+            "Abordaje crítico de diversos discursos sociales (editoriales, críticas, cartas abiertas, entre otros) a fin de analizar posturas, identificar supuestos y tomar posicionamientos personales.",
+            "Aplicación de estrategias de lectura autónoma que permiten detectar información relevante, hacer anticipaciones, establecer relaciones textuales, intertextuales y contextuales, reconocer intencionalidad, identificación de elementos paratextuales, imágenes, entre otros aspectos.",
+            "Implementación de estrategias de búsquedas bibliográficas, impresas y digitales con la utilización de criterios que permitan determinar su confiabilidad para resolver indagaciones personales o colectivas."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Caracterizar textos con secuencias argumentativas y explicativas, en cuanto a formato y aspectos discursivos diferenciadores.",
+          "aprendizajes": [
+            "Sistematización de estructuras y de recursos propios de explicaciones y argumentaciones y aplicación en textos de mayor complejidad (informes, artículos de divulgación, investigaciones, entre otros) en relación con el propósito y la intencionalidad.",
+            "Reconocimiento de temas, subtemas a partir de la lectura de textos con secuencias explicativas y argumentativas.",
+            "Identificación de marcas lingüísticas que indiquen apreciaciones, valoraciones personales y modalizadores a fin de reconocer propósitos, efectos persuasivos y otras marcas en el discurso."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Escribir en forma sostenida una amplia variedad de textos no literarios que incluyan explicación y argumentación, con diversos formatos, que respeten la intencionalidad y el soporte.",
+          "aprendizajes": [
+            "Producción escrita con autonomía creciente, de textos que articulan lectura y escritura (resumen, toma de notas, diarios de lector, informes de lectura, entre otros), para registrar y reelaborar la información en el marco de proyectos de estudio.",
+            "Escritura de una amplia variedad de textos no literarios en torno a diversas temáticas, en los que predominen las secuencias argumentativas y/o explicativas (monografías, informes) atendiendo a la intencionalidad, los rasgos específicos de cada género, los destinatarios, los ámbitos de circulación y los soportes elegidos.",
+            "Aplicación de diversos recursos adecuados para expresar opiniones personales e incluir otras voces en la escritura de textos.",
+            "Escritura colaborativa e individual, en blogs, redes virtuales, diarios, revistas escolares y otros soportes, con diversos propósitos y sobre diversas temáticas controversiales de la condición humana, de los derechos, de las creencias, de la ciudadanía, de la identidad, etc."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Producir textos de opinión con diferentes formatos y propósitos en los que se utilicen adecuadamente los diversos recursos discursivos.",
+          "aprendizajes": [
+            "Planificación de la escritura de textos argumentativos que considere los propósitos, los soportes, los formatos y los destinatarios entre otros aspectos.",
+            "Análisis crítico y reflexivo del proceso de escritura en cada planificación tanto grupal como individual.",
+            "Selección de figuras retóricas pertinentes que sostengan opinión, aporten puntos de vista, refuten oposiciones, entre otros aspectos.",
+            "Aplicación de diversos recursos que permiten la escritura de textos que cumplan con las propiedades discursivas.",
+            "Implementación de estrategias que permiten la inclusión del estilo directo e indirecto a fin de reflejar las voces que aportan diversos puntos de vista.",
+            "Sistematización del uso de diversos recursos gráficos, digitales o en papel que permitan sintetizar información (esquemas, diagramas, cuadros, entre otros)."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Comprender y analizar en forma crítica textos no literarios de complejidad creciente, con diferentes intencionalidades (explicar, argumentar) y con diversos propósitos.",
+          "aprendizajes": [
+            "Lectura reflexiva de textos no literarios de complejidad creciente en cuanto a estilo, estructura y tema.",
+            "Análisis crítico de textos no literarios que expliquen y argumenten sobre temas específicos vinculados al área y al campo de la cultura en diálogo con la literatura, del ámbito académico en relación con el discurso periodístico, en distintos soportes (impresos y digitales) con diversos propósitos (ampliar conocimientos sobre un tema que se está estudiando, obtener información en el marco de una investigación, indagar diferentes enfoques de un mismo tema, documentarse para escribir, para intervenir en discusiones y debates o realizar una exposición oral, cuestionar las respuestas obtenidas y generar nuevos interrogantes, entre otros) en el marco de indagaciones personales y colectivas.",
+            "Sistematización de estrategias personales de comprensión de temas, de relaciones entre temas y de proyecciones temáticas.",
+            "Aplicación de estrategias de lectura autónoma que faciliten detectar información relevante, hacer anticipaciones, establecer relaciones textuales, intertextuales y contextuales, reconocer intencionalidades, identificar elementos paratextuales, imágenes, entre otros aspectos e interpretar sentidos."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Identificar y analizar los distintos discursos que involucran problemáticas del ámbito político, sociocultural y artístico.",
+          "aprendizajes": [
+            "Interpretación de discursos del ámbito político, sociocultural y artístico con temáticas relacionadas con la participación ciudadana, la construcción de la memoria, los derechos humanos, las problemáticas de género, la sexualidad, la convivencia intercultural, la incidencia de los medios, el uso de las redes sociales, entre otros.",
+            "Identificación de temas y contenidos recurrentes silenciados en la prensa gráfica, radial y televisiva, y en los espacios virtuales.",
+            "Reconocimiento de expresiones que indican apreciaciones y valoraciones personales, de algunos procedimientos del discurso político, la modalización y las marcas ideológicas en el discurso."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Escribir en forma autónoma una amplia variedad de textos no literarios de opinión.",
+          "aprendizajes": [
+            "Reconocimiento del propósito y la intencionalidad en los textos de opinión, a partir de indagaciones propias y/o grupales.",
+            "Aplicación de estrategias de análisis de textos de opinión para visualizar las ideas, la intencionalidad y su valor e incidencia en el contexto mediático, académico, entre otro; presentados en diversos soportes.",
+            "Sistematización de la estructura y de los recursos retóricos propios de argumentaciones.",
+            "Desarrollo de situaciones de escritura autónoma, de una amplia variedad de textos no literarios, predominantemente argumentativos (ensayos no ficcionales, discursos políticos, entre otros), atendiendo a la intencionalidad, los rasgos específicos de cada género, los destinatarios, los ámbitos de circulación y los soportes elegidos.",
+            "Implementación de proyectos de escritura individual, en blogs, redes virtuales, diarios y revistas escolares con diversos propósitos y sobre diversas temáticas controversiales de la condición humana, de los derechos, de las creencias, de la ciudadanía, de la identidad, etc."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Utilizar en forma adecuada los diversos recursos discursivos propios de los textos de opinión.",
+          "aprendizajes": [
+            "Escritura individual de textos ensayísticos no literarios en diversos soportes (papel o digital) atendiendo a diversas temáticas controversiales de la condición humana, sistemas de creencias, ciudadanía, identidad, entre otras.",
+            "Organización y sistematización de distintos procedimientos que permiten la escritura con autonomía creciente, la reescritura, la defensa de puntos de vista y opiniones, la incorporación de otras voces y la socialización de textos en el marco de proyectos escolares o de otros ámbitos en los que se escriban textos de circulación social (cartas, informes técnicos, entre otros), tanto individuales como colectivos."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Comprensión y producción de textos orales",
+      "contenidos": [
+        {
+          "anio": "3",
+          "saberes": "Desarrollar situaciones comunicativas orales en torno a variados temas.",
+          "aprendizajes": [
+            "Participación en asiduas y variadas experiencias de interacción oral en diversas situaciones comunicativas con registro adecuado.",
+            "Socialización de interpretaciones acerca de los textos literarios y no literarios que se leen y que se escriben."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Reconocer las variedades lingüísticas en la lengua oral.",
+          "aprendizajes": [
+            "Identificación de la diversidad lingüística (lenguas primeras y segundas: variedades regionales del español, lenguas indígenas, de inmigración y de contacto).",
+            "Participación en situaciones que habiliten el reconocimiento y respeto por la diversidad lingüística."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Comprender y producir exposiciones orales de acuerdo con la situación comunicativa.",
+          "aprendizajes": [
+            "Planificación de la exposición donde se evidencie la toma de decisiones atendiendo a la audiencia y al ámbito donde se realizará la exposición.",
+            "Aplicación de recursos paraverbales y no verbales como refuerzo de la oralidad.",
+            "Identificación de distintas estrategias (explicativas, argumentativas) y procedimientos de acuerdo a variadas intenciones (convencer, explicar, divulgar, concientizar, socializar, etc.) en los discursos orales.",
+            "Reconocimiento de la construcción de la información en los medios masivos de comunicación: programas radiales y televisivos."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Desarrollar diferentes situaciones en las que se planteen diálogos y debates en torno a temáticas variadas relativas a la literatura y otros temas de interés programadas o espontáneas.",
+          "aprendizajes": [
+            "Argumentación en diversos espacios de conversación y debate en torno a temas y problemas vinculados al campo literario referidos a la literatura latinoamericana y a otras temáticas propias del ámbito escolar.",
+            "Participación en debates con conocimiento del tema/problema y construcción de diversos tipos de argumentos con utilización de las estrategias argumentativas que se consideren convenientes.",
+            "Diseño de entrevistas en función de los propósitos del entrevistador y las potencialidades del entrevistado.",
+            "Formulación de preguntas adecuadas a diversos recorridos y que considere las posibilidades de la repregunta.",
+            "Implementación de estrategias de registro y toma de notas para sistematizar la información y elaborar preguntas que favorezcan el posterior intercambio."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Producir exposiciones orales en forma sostenida a partir de investigaciones individuales o grupales sobre diversos temas y con múltiples propósitos.",
+          "aprendizajes": [
+            "Selección, registro, confrontación, organización y reelaboración de información y opiniones provenientes de diversas fuentes de diferentes soportes y con autonomía creciente.",
+            "Diseño de exposiciones orales considerando: definición y delimitación del tema/problema sobre el que se expondrá, en función del análisis del perfil de la audiencia prevista y de los propios conocimientos, intereses y capacidades.",
+            "Empleo de distintos recursos verbales, paraverbales, y soportes de apoyo adecuados para atraer a la audiencia y reforzar la exposición."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Escuchar comprensiva y críticamente diferentes discursos orales que aborden temáticas del ámbito público y social.",
+          "aprendizajes": [
+            "Identificación de los modos en que los discursos de los medios de comunicación -inclusive en los espacios virtuales- construyen/reconstruyen los acontecimientos de la realidad social, política, cultural, ciudadana y generan y difunden representaciones sobre sujetos y colectivos sociales.",
+            "Distinción de la función, las estrategias y los modos de impacto del discurso publicitario para confrontar las intencionalidades y los efectos.",
+            "Identificación de temas y contenidos recurrentes, silenciados y/o explícitos en situaciones de oralidad en el marco de jornadas o en el desarrollo de proyectos dentro del ámbito escolar o en otros ámbitos.",
+            "Reconocimiento de expresiones utilizadas en exposiciones y debates que indican apreciaciones, valoraciones personales y otros recursos persuasivos.",
+            "Análisis del efecto que diversas estrategias persuasivas producen en el público, en el marco de situaciones de oralidad como debates y exposiciones."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Debatir con sólidas argumentaciones en torno a la lectura de los textos literarios y no literarios.",
+          "aprendizajes": [
+            "Argumentación en diversos espacios de conversación y debate sobre temas y problemas vinculados a la literatura argentina, regional y de los pueblos originarios que motivan la expresión de opiniones, refutaciones, acuerdos y desacuerdos.",
+            "Producción de diversos tipos de argumentos para definir el posicionamiento y defender una postura, en situaciones de debate.",
+            "Producción de contraargumentos, organización y reorganización del propio discurso.",
+            "Lectura crítica de textos en conversaciones literarias (tertulias, ferias, talleres, cafés literarios, cine-debate, visitas de autores, narradores, directores de teatro y cine, entre otras posibilidades)."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Desarrollar situaciones de diálogo con autonomía creciente sobre temáticas de interés social y cultural.",
+          "aprendizajes": [
+            "Utilización de estrategias de registro y toma de notas en soportes tecnológicos (grabadores, telefonía móvil, netbook, entre otros) para organizar la información y elaborar preguntas que favorezcan el posterior intercambio.",
+            "Discriminación de argumentos válidos y no válidos en intervenciones propias y de otros.",
+            "Socialización de temáticas, intereses, puntos de vista entre otros aspectos, en variadas situaciones de diálogo con autonomía creciente."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Producir exposiciones orales de forma autónoma a partir de temas vinculados a diversos discursos: literario, periodístico, vida ciudadana, científico, entre otros.",
+          "aprendizajes": [
+            "Exposiciones orales sobre temáticas de mayor complejidad referida a distintos ámbitos tales como literario, periodístico, científico, laboral, vida ciudadana, académica, entre otros.",
+            "Aplicación adecuada de estrategias argumentativas que se consideren convenientes.",
+            "Reformulación del plan previo en atención a las respuestas que se perciben de la audiencia.",
+            "Uso eficiente de diversos soportes (digitales y papel) en las exposiciones.",
+            "Empleo adecuado de los aspectos no verbales tales como gestos, tonos, movimientos corporales, entre otros en las exposiciones."
+          ]
+        }
+      ]
+    }
+  ]
+}

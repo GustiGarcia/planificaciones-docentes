@@ -20,9 +20,23 @@ export class ContenidosCurricularesService {
     });
   }
 
+  // Trae el contenido CON sus aprendizajes específicos.
+  //
+  // Por qué pasó de findOneBy a findOne: findOneBy solo recibe
+  // condiciones de búsqueda, no acepta "relations". findOne sí, pero
+  // entonces la condición va adentro de "where".
+  //
+  // "aprendizajes" es el nombre de la propiedad declarada en
+  // contenido-curricular.entity.ts (@OneToMany ... aprendizajes).
+  // Tiene que coincidir con esa propiedad, no con el nombre de la tabla.
+  //
+  // Ojo: esto NO va en findAll. Ahí se listan los saberes de un eje
+  // entero y solo se muestra su texto; traer los aprendizajes de los
+  // 40 saberes sería un JOIN grande para datos que nadie mira.
   async findOne(id: number) {
-    const contenido = await this.contenidoCurricularRepository.findOneBy({
-      id,
+    const contenido = await this.contenidoCurricularRepository.findOne({
+      where: { id },
+      relations: { aprendizajes: true },
     });
     if (!contenido) {
       throw new NotFoundException('Contenido no encontrado');

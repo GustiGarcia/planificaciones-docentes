@@ -1,0 +1,364 @@
+{
+  "_fuente": "DCP Secundario Mendoza - Bachiller en Turismo. Matemática, Formación General - Ciclo Básico (páginas 63 a 68) y Ciclo Orientado (páginas 69 a 75).",
+  "_nota": "Transcripción literal del DCP. En Ciclo Básico (1° y 2°) cada saber aparece en ambos años; en Ciclo Orientado (3° a 5°) cada año tiene saberes propios. Los ejes del Orientado se llaman 'Número y álgebra' y 'Funciones y álgebra' (nuevos) más 'Geometría y medida' y 'Estadística y probabilidad' (continúan los del Básico).",
+  "materia": {
+    "nombre": "Matemática",
+    "orientacion": "Bachiller en Turismo"
+  },
+  "ejes": [
+    {
+      "nombre": "Números y operaciones",
+      "contenidos": [
+        {
+          "anio": "1",
+          "saberes": "Resolver problemas en diversos contextos mediante el uso de números de distintos conjuntos numéricos.",
+          "aprendizajes": [
+            "Registro, comparación e interpretación de números enteros.",
+            "Selección y justificación en distintos contextos de fracciones, entre ellos la fracción como medida, como relación parte todo, en contextos de la proporcionalidad.",
+            "Interpretación y uso del número racional como cociente de dos números enteros.",
+            "Reconocimiento de diferentes representaciones de un número racional: expresión fraccionaria, decimal, punto de la recta.",
+            "Exploración y análisis de diferencias y similitudes de las propiedades de los conjuntos numéricos Z y Q."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Resolver problemas en diversos contextos mediante el uso de números de distintos conjuntos numéricos.",
+          "aprendizajes": [
+            "Registro, comparación e interpretación de números racionales.",
+            "Reconocimiento de la insuficiencia de los números racionales para expresar relaciones de medida.",
+            "Uso de diferentes representaciones de un número racional: expresión fraccionaria, decimal, notación científica y punto de la recta.",
+            "Exploración, explicación y utilización de propiedades de los conjuntos numéricos Z y Q, estableciendo relaciones de inclusión entre ellos."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Interpretar situaciones en las que sea necesario elegir la operación a resolver y buscar resultados utilizando propiedades pertinentes al problema planteado.",
+          "aprendizajes": [
+            "Explicitación y análisis de las operaciones en Z y sus propiedades como extensión de las elaboradas en N.",
+            "Selección y justificación del uso del tipo cálculo (mental, escrito exacto, escrito aproximado, asistido con calculadora) y de la forma de expresar los números involucrados, evaluando la razonabilidad del resultado de acuerdo a la necesidad que impone el problema.",
+            "Utilización de las propiedades de las operaciones en Z en la elaboración e interpretación de cálculos.",
+            "Producción de argumentaciones de la validez de las propiedades ligadas a la divisibilidad de números naturales."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Interpretar situaciones en las que sea necesario elegir la operación a resolver y buscar resultados utilizando propiedades pertinentes al problema planteado.",
+          "aprendizajes": [
+            "Explicitación y análisis de las operaciones en Q y sus propiedades como extensión de las elaboradas en N y Z.",
+            "Selección y justificación del uso del tipo de cálculo (mental, escrito exacto, escrito aproximado, asistido con calculadora) y de la forma de expresar los números involucrados, evaluando la razonabilidad del resultado de acuerdo a la necesidad que impone el problema.",
+            "Utilización de las propiedades de las operaciones en Q en la elaboración e interpretación de cálculos.",
+            "Producción de argumentaciones de la validez de las propiedades ligadas a la divisibilidad de números naturales."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Álgebra y funciones",
+      "contenidos": [
+        {
+          "anio": "1",
+          "saberes": "Analizar problemas en diferentes contextos, que involucren la interpretación de las relaciones entre variables.",
+          "aprendizajes": [
+            "Interpretación de relaciones entre variables en tablas, gráficos y fórmulas para resolver problemas de diversos contextos.",
+            "Análisis de variaciones y selección de la representación más adecuada de acuerdo al problema.",
+            "Elaboración y comparación de fórmulas para analizar las variaciones de perímetros, áreas y volúmenes en función de la variación de diferentes dimensiones de figuras y cuerpos.",
+            "Utilización de programas graficadores para resignificar análisis del comportamiento de relaciones variables."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Analizar problemas en diferentes contextos, que involucren la interpretación de las relaciones entre variables.",
+          "aprendizajes": [
+            "Explicitación y análisis de propiedades de funciones de proporcionalidad directa e inversa.",
+            "Análisis de las variaciones lineales expresadas mediante gráficos y fórmulas e interpretación de parámetros.",
+            "Interpretación de gráficos y fórmulas que representen variables lineales y no lineales, incluida la función cuadrática, de acuerdo al problema a resolver.",
+            "Utilización de programas graficadores para resignificar análisis del comportamiento de las funciones."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Resolver problemas en los que se formulen modelos que involucren ecuaciones y expresiones algebraicas.",
+          "aprendizajes": [
+            "Elaboración y análisis de expresiones simbólicas para comunicar y validar afirmaciones.",
+            "Construcción y comparación de fórmulas para expresar procedimientos y cálculos con expresiones algebraicas sencillas en problemas que las requieran.",
+            "Introducción de la noción de ecuación e inecuación en Z.",
+            "Construcción de ecuaciones lineales con una variable para resolver problemas analizando soluciones."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Resolver problemas en los que se formulen modelos que involucren ecuaciones y expresiones algebraicas.",
+          "aprendizajes": [
+            "Obtención de expresiones algebraicas equivalentes acudiendo a propiedades para resolver situaciones que requieran el uso de ecuaciones de primer grado.",
+            "Reconocimiento de expresiones equivalentes en distintos contextos a través de la extracción de factor común, desarrollando cuadrados y cubos de un binomio, diferencias de cuadrados.",
+            "Utilización de ecuaciones e inecuaciones en Q para generalizar y construir modelos transferibles a distintos contextos.",
+            "Utilización de ecuaciones lineales con una o dos variables interpretando y analizando el significado del conjunto solución.",
+            "Análisis del vínculo de las relaciones entre dos rectas con el conjunto de soluciones de los correspondientes sistemas de ecuaciones.",
+            "Construcción y utilización de ecuaciones de segundo grado para resolver problemas."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Geometría y medida",
+      "contenidos": [
+        {
+          "anio": "1",
+          "saberes": "Analizar, a través de la resolución de problemas, las relaciones de propiedades en la construcción de figuras.",
+          "aprendizajes": [
+            "Análisis de polígonos construidos con regla no graduada y compás o software matemático adecuado, acudiendo a argumentos basados en propiedades de las figuras en juego.",
+            "Producción de argumentaciones basadas en propiedades para determinar las condiciones que deben cumplir los puntos referidas a distancias; construcción de mediatrices, bisectrices, triángulos, circunferencias y círculos como lugares geométricos.",
+            "Elaboración de argumentaciones sobre las condiciones necesarias y suficientes para la congruencia de triángulos construidos.",
+            "Análisis reflexivo de procedimientos empleados para construir figuras a partir de diferentes informaciones, utilizando distintos instrumentos de geometría y programas informáticos.",
+            "Producción de argumentaciones acerca de la validez de las propiedades de ángulos determinados por rectas paralelas cortadas por una transversal, justificando la resolución de problemas.",
+            "Análisis de las relaciones entre los lados de triángulos cuyas medidas sean ternas pitagóricas.",
+            "Interpretación de algunas demostraciones del Teorema de Pitágoras para aplicar en diversas situaciones."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Analizar, a través de la resolución de problemas, las relaciones de propiedades en la construcción de figuras.",
+          "aprendizajes": [
+            "Producción de argumentaciones basadas en propiedades para justificar construcciones de rectas paralelas y perpendiculares, circunferencia que pasa por tres puntos, entre otras, como lugares geométricos.",
+            "Análisis de las condiciones necesarias y suficientes para la construcción de figuras semejantes, utilizando distintos instrumentos de geometría y programas informáticos.",
+            "Introducción de conceptos de la geometría dinámica para potenciar procesos de resolución de problemas.",
+            "Producción de argumentaciones acerca de la validez de las propiedades de figuras semejantes a partir de informaciones.",
+            "Interpretación de circunstancias de aplicabilidad del Teorema de Thales.",
+            "Uso de la relación pitagórica para triángulos rectángulos."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Analizar situaciones problemáticas en diversos contextos, estimando y calculando medidas, reconociendo y expresando distintos tipos de relaciones.",
+          "aprendizajes": [
+            "Exploración de situaciones en las que hay que estimar y calcular medidas, eligiendo la unidad más conveniente (SIMELA).",
+            "Reconocimiento de problemas extramatemáticos en cuya resolución sea necesario estimar la medida sin acudir al cálculo.",
+            "Reconocimiento de la inexactitud de la medida."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Analizar situaciones problemáticas en diversos contextos, estimando y calculando medidas, reconociendo y expresando distintos tipos de relaciones.",
+          "aprendizajes": [
+            "Utilización de razones trigonométricas para resolver problemas con triángulos rectángulos.",
+            "Reconocimiento y formulación de situaciones en las que hay que estimar y calcular medidas, eligiendo unidades (SIMELA) y formas de expresarlas más convenientes (notación científica)."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Resolver problemas que involucren figuras semejantes, utilizando diferentes tipos de información.",
+          "aprendizajes": [
+            "Exploración y formulación de conjeturas acerca de figuras inscriptas en una circunferencia, construidas con recursos tecnológicos, y su validación mediante las propiedades de los objetos geométricos."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Resolver situaciones problemáticas empleando cónicas y seleccionando la representación más adecuada.",
+          "aprendizajes": [
+            "Construcción de cónicas: circunferencia, elipse, parábola e hipérbola, usando la noción de lugar geométrico, empleando recursos tecnológicos para construir gráficos.",
+            "Análisis y determinación de las intersecciones entre rectas y curvas, y curvas entre sí, en términos analíticos y gráficos, según lo demande el problema planteado.",
+            "Determinación y análisis de la ecuación de las cónicas de acuerdo con la necesidad que impone el problema."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Resolver situaciones problemáticas que demanden el uso de razones trigonométricas.",
+          "aprendizajes": [
+            "Análisis de las relaciones trigonométricas de cualquier tipo de ángulo, acudiendo a la circunferencia trigonométrica.",
+            "Resolución de problemas que involucren triángulos rectángulos y demande el uso de las razones trigonométricas seno, coseno y tangente y sus relaciones.",
+            "Utilización del teorema del seno y del coseno en la resolución de problemas que involucren triángulos oblicuángulos."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Estadística y probabilidad",
+      "contenidos": [
+        {
+          "anio": "1",
+          "saberes": "Interpretar situaciones problemáticas que impliquen el análisis y el uso de nociones básicas de Estadística.",
+          "aprendizajes": [
+            "Identificación de variables cuantitativas y cualitativas.",
+            "Interpretación de la información presentada en tablas y gráficos estadísticos para organizar conjuntos de datos discretos, analizando la información que se desea comunicar.",
+            "Construcción de gráficos estadísticos de acuerdo al tipo de variable tratada.",
+            "Interpretación del significado de las variables de posición (media aritmética y modo) para describir datos en estudio.",
+            "Utilización de programas informáticos para la construcción de gráficos estadísticos y la interpretación de las medidas de posición."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Interpretar situaciones problemáticas que impliquen el análisis y el uso de nociones básicas de Estadística.",
+          "aprendizajes": [
+            "Identificación de variables cuantitativas (discretas y continuas) y cualitativas.",
+            "Interpretación de la información presentada en tablas y gráficos estadísticos, incluida la organización de datos en intervalos.",
+            "Construcción de gráficos estadísticos de acuerdo al tipo de variable tratada, inclusive gráficos con datos agrupados.",
+            "Interpretación del significado de las medidas de posición (media aritmética, mediana y modo) para describir datos en estudio incluyendo datos agrupados.",
+            "Utilización de programas informáticos para la construcción de gráficos estadísticos y la interpretación de las medidas de posición para datos agrupados."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Resolver situaciones problemáticas que impliquen el uso de la Probabilidad como un modo de cuantificar la incertidumbre.",
+          "aprendizajes": [
+            "Comparación de las probabilidades de diferentes sucesos incluyendo casos que involucren un conteo ordenado sin necesidad de usar fórmulas.",
+            "Determinación de la frecuencia relativa de un suceso mediante la experimentación real o simulada, comparándola con la probabilidad teórica.",
+            "Utilización de programas informáticos para cálculo de probabilidades y simulaciones de casos."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Resolver situaciones problemáticas que impliquen el uso de la Probabilidad como un modo de cuantificar la incertidumbre.",
+          "aprendizajes": [
+            "Exploración, producción y utilización de fórmulas sencillas de combinatoria para calcular probabilidades.",
+            "Estimación de la probabilidad a partir de la Estadística.",
+            "Utilización de programas informáticos para cálculo y análisis de probabilidades a partir de la simulación de casos."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Resolver situaciones problemáticas analizando información estadística.",
+          "aprendizajes": [
+            "Análisis de datos para el estudio de fenómenos y toma de decisiones teniendo en cuenta la representatividad de la muestra, con el empleo de distintas representaciones gráficas a través de recursos tecnológicos.",
+            "Identificación e interpretación de las medidas de posición que mejor describan la situación en estudio."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Resolver situaciones problemáticas utilizando la Probabilidad para analizar la incertidumbre y la toma de decisiones.",
+          "aprendizajes": [
+            "Resolución de problemas que involucren el cálculo de probabilidades determinando la conveniencia de la utilización de la fórmula de Laplace o de forma empírica.",
+            "Determinación de la probabilidad de sucesos en contextos variados, como geométricos, situaciones de juego, utilizando fórmulas para el conteo de los casos favorables y los casos posibles."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Analizar en el estudio de casos la insuficiencia de las medidas de posición.",
+          "aprendizajes": [
+            "Análisis de casos en los que se evidencien los límites de las medidas de posición para la resolución de problemáticas específicas y la toma de decisiones.",
+            "Identificación e interpretación de medidas de dispersión y su significado a partir de gráficos en situaciones extramatemáticas."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Resolver situaciones problemáticas caracterizando distintos tipos de sucesos.",
+          "aprendizajes": [
+            "Caracterización de diferentes sucesos excluyentes, no excluyentes, independientes, dependientes, para seleccionar estrategias en la determinación de probabilidades en problemas extramatemáticos.",
+            "Elaboración de fórmulas para calcular probabilidades condicionales, totales y de pruebas repetidas, teniendo en cuenta las características de los sucesos que intervienen."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Resolver situaciones problemáticas interpretando y determinando información estadística que involucre más de una variable.",
+          "aprendizajes": [
+            "Indagación de la asociación de valores en situaciones problemáticas con más de una variable, que permitan definir tendencias entre ellas a través de la correlación lineal.",
+            "Análisis del comportamiento simultáneo de dos variables aleatorias en situaciones extramatemáticas, considerando gráficos de dispersión o nube de puntos, interpretando el significado de la recta de regresión, como modelo aproximado del caso en estudio."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Resolver situaciones problemáticas evaluando probabilidades en distintos sucesos para la toma de decisiones.",
+          "aprendizajes": [
+            "Evaluación de la probabilidad de un suceso para la toma de decisiones al analizar el funcionamiento de situaciones intramatemáticas y extramatemáticas como las vinculadas con juegos de azar y distintas temáticas referidas a la orientación del bachiller."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Número y álgebra",
+      "contenidos": [
+        {
+          "anio": "3",
+          "saberes": "Resolver situaciones problemáticas utilizando números reales, operaciones y sus propiedades.",
+          "aprendizajes": [
+            "Uso y reconocimiento de los números reales en distintas representaciones.",
+            "Exploración y análisis de la validez de las propiedades de los distintos conjuntos numéricos, estableciendo relaciones de inclusión entre ellos.",
+            "Búsqueda y elección de operaciones y estrategias de cálculo en el conjunto de los números reales, validando desde sus propiedades la significación en las situaciones que las demanden.",
+            "Reconocimiento de la insuficiencia de los números reales para expresar todas las soluciones de ecuaciones vinculadas a distintos problemas."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Resolver situaciones problemáticas que involucren el uso de números complejos.",
+          "aprendizajes": [
+            "Reconocimiento de la insuficiencia de los números reales para resolver situaciones problemáticas, como ecuaciones cuadráticas cuyas soluciones sean números complejos.",
+            "Identificación de distintas situaciones problemáticas que involucren los números complejos en sus distintas representaciones: en el plano, como pares ordenados y en forma binómica."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Analizar situaciones problemáticas utilizando cálculos de logaritmos.",
+          "aprendizajes": [
+            "Interpretación de la noción de logaritmo de un número y la aplicación de sus propiedades en la resolución de problemas en diversos contextos."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Analizar situaciones problemáticas que involucren sucesiones aritméticas y geométricas.",
+          "aprendizajes": [
+            "Interpretación de los procesos de cambio que se ponen en juego en sucesiones aritméticas y geométricas y la producción de términos generales para representar regularidades."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Funciones y álgebra",
+      "contenidos": [
+        {
+          "anio": "3",
+          "saberes": "Analizar a través de situaciones problemáticas los modelos de funciones afines y cuadráticas.",
+          "aprendizajes": [
+            "Aplicación de las nociones de dependencia y variabilidad como herramientas para modelizar fenómenos de cambio que representan variaciones lineales y no lineales.",
+            "Análisis del comportamiento de funciones afines desde sus representaciones en gráficos y fórmulas incluyendo interpretación de parámetros, análisis de ceros, crecimientos y decrecimientos, para dar sentido a los problemas que resuelve.",
+            "Análisis del comportamiento de funciones cuadráticas desde sus representaciones en gráficos y fórmulas incluyendo interpretación de parámetros, análisis de ceros, máximos, mínimos, intervalos de crecimientos y de decrecimientos, para dar sentido a los problemas que resuelven.",
+            "Utilización de programas graficadores para facilitar en el análisis del comportamiento de las funciones, la resolución de diversos problemas."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Resolver situaciones problemáticas utilizando ecuaciones y otras expresiones algebraicas.",
+          "aprendizajes": [
+            "Empleo de las diferentes ecuaciones de la recta: explícita, general o implícita, segmentaria, de acuerdo a la necesidad que impone el problema.",
+            "Vinculación de funciones afines con los sistemas de ecuaciones lineales en sus diferentes representaciones.",
+            "Modelización de situaciones extramatemáticas e intramatemáticas mediante el uso de inecuaciones lineales con una variable y el análisis de su conjunto solución.",
+            "Uso de sistemas de ecuaciones lineales en distintas representaciones y sistemas de inecuaciones en forma gráfica para resolver problemas de distintos contextos.",
+            "Interpretación de diferentes escrituras de las fórmulas de las funciones cuadráticas y su transformación mediante las propiedades de las operaciones: factor común, cuadrado de un binomio, diferencia de cuadrados, si la situación lo requiere.",
+            "Resolución de problemas extramatemáticos a través de expresiones algebraicas, en sus formas polinómicas o factorizadas."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Aplicar en situaciones problemáticas las nociones de dependencia y variabilidad como herramienta para modelizar fenómenos de cambio.",
+          "aprendizajes": [
+            "Uso de las nociones de dependencia y variabilidad para modelizar fenómenos de cambio que representen variaciones polinómicas, racionales, exponenciales y logarítmicas en la interpretación de situaciones planteadas.",
+            "Modelización y análisis de variaciones polinómicas, racionales, exponenciales y logarítmicas expresadas mediante gráficos, fórmulas, interpretando sus parámetros: análisis de ceros, máximos y mínimos, intervalos de crecimiento y de decrecimiento, reconociendo desde el gráfico el dominio e imagen de funciones, para dar sentido al problema planteado.",
+            "Aplicación de las funciones polinómicas, racionales, exponenciales y logarítmicas como modelos matemáticos para resolver problemas entre los que se incluyan temáticas referidas según la orientación."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Resolver problemas a partir de modelos de ecuaciones polinómicas, logarítmicas y exponenciales.",
+          "aprendizajes": [
+            "Utilización de ecuaciones polinómicas, racionales, logarítmicas y exponenciales como modelos matemáticos para resolver problemas, analizando los conjuntos de soluciones."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Resolver situaciones problemáticas a través de modelos de funciones trigonométricas.",
+          "aprendizajes": [
+            "Interpretación de gráficos y fórmulas de funciones trigonométricas de cualquier ángulo, acudiendo a la circunferencia trigonométrica, mediante la utilización de programas graficadores para facilitar el análisis del problema planteado.",
+            "Análisis de funciones trigonométricas expresadas mediante gráficos y fórmulas interpretando sus parámetros según la necesidad que imponga el problema.",
+            "Reconocimiento del dominio e imagen de funciones trigonométricas; propiedades de crecimiento y de decrecimiento; periodicidad, máximos y mínimos; su importancia en el análisis de los problemas que resuelven."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Utilizar en situaciones problemáticas ecuaciones y otras expresiones algebraicas como modelos de resolución.",
+          "aprendizajes": [
+            "Resolución de ecuaciones trigonométricas utilizando propiedades en la búsqueda de soluciones de los problemas propuestos.",
+            "Uso de fórmulas e identidades, de acuerdo a la necesidad que impone el problema."
+          ]
+        }
+      ]
+    }
+  ]
+}

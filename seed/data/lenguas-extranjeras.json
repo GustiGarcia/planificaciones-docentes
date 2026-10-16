@@ -1,0 +1,509 @@
+{
+  "_fuente": "DCP Secundario Mendoza - Bachiller en Turismo. Lenguas Extranjeras, Formación General - Ciclo Básico (páginas 83 a 87) y Ciclo Orientado (páginas 88 a 97).",
+  "_nota": "Transcripción literal del DCP. Cada año tiene saberes propios; el saber cambia de redacción entre años (por ejemplo 'Reconocer' en 3°, 'Discriminar y contrastar' en 4°), así que no hay saberes repetidos. Los ejes son los mismos en Básico y Orientado.",
+  "materia": {
+    "nombre": "Lenguas Extranjeras",
+    "orientacion": "Bachiller en Turismo"
+  },
+  "ejes": [
+    {
+      "nombre": "Comprensión y producción oral",
+      "contenidos": [
+        {
+          "anio": "1",
+          "saberes": "Identificar aspectos fonéticos y fonológicos de la lengua extranjera.",
+          "aprendizajes": [
+            "Apreciación de la musicalidad, el ritmo y entonación de la lengua extranjera.",
+            "Identificación de similitudes y diferencias con la lengua propia."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Reconocer aspectos fonéticos y fonológicos de la lengua extranjera.",
+          "aprendizajes": [
+            "Identificación de la entonación y el ritmo.",
+            "Análisis de significados a partir de la entonación y el ritmo."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Inferir el sentido global del texto escuchado.",
+          "aprendizajes": [
+            "Formulación de anticipaciones e hipótesis sobre el sentido de los textos escuchados a partir de palabras o expresiones relacionados con el tema y el tono de voz.",
+            "Identificación de elementos del contexto de enunciación, tales como las personas que toman parte en la conversación, el tema abordado y la intención comunicativa."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Inferir el sentido global y específico del texto escuchado.",
+          "aprendizajes": [
+            "Formulación de anticipaciones e hipótesis sobre el sentido de los textos escuchados a partir de palabras o expresiones relacionados con el tema, del tono de voz y otras pistas temáticas, lingüístico-discursivas y paraverbales.",
+            "Identificación de elementos del contexto de enunciación, tales como las personas que toman parte en la conversación, el tema abordado, es decir, el contexto situacional.",
+            "Expresar el sentido global y específico del texto."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Diseñar textos orales simples para la resolución de tareas comunicativas, a partir de un modelo, con respeto e interés por las diversas intervenciones.",
+          "aprendizajes": [
+            "Identificación de fórmulas de apertura y cierre en intercambios formales e informales diversos.",
+            "Participación asidua en intercambios comunicativos sobre temas tratados en el aula, respetando la toma de turnos y la producción de los pares."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Construir textos orales simples para la resolución de tareas comunicativas, manifestando respeto e interés por las producciones propias y de los pares.",
+          "aprendizajes": [
+            "Utilización de fórmulas de apertura y cierre en intercambios formales e informales diversos.",
+            "Participación asidua en intercambios comunicativos sobre temas propuestos en el aula, adecuando el vocabulario, manteniendo el tema, resolviendo tareas comunicativas, en producciones individuales y/o grupales."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Relatar textos orales simples utilizando algunos recursos lingüísticos y no lingüísticos.",
+          "aprendizajes": [
+            "Utilización de estrategias de preparación, planificación y presentación de textos orales simples, a partir de un modelo.",
+            "Elaboración de textos orales simples, a partir de un modelo, para intercambiar información personal, relatar rutinas, expresar posesión, pedidos, entre otros."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Producir textos orales simples aplicando recursos lingüísticos y no lingüísticos.",
+          "aprendizajes": [
+            "Utilización de estrategias de consulta, modificación y reformulación de los textos producidos.",
+            "Elaboración de textos orales simples que hagan referencia al tiempo y al espacio en los que ocurren los hechos, presentando a las personas, las relaciones entre ellas, el ordenamiento de las acciones y sus relaciones."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Reconocer aspectos fonéticos y fonológicos de la lengua extranjera.",
+          "aprendizajes": [
+            "Distinción de la acentuación, entonación y ritmo y su importancia para revelar significados.",
+            "Identificación de patrones fonológicos que expresan la actitud de los interlocutores, tales como énfasis, certezas, hesitación."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Discriminar información global y específica del texto escuchado.",
+          "aprendizajes": [
+            "Formulación y confirmación o modificación de hipótesis y anticipaciones realizadas sobre el sentido de los textos escuchados a partir de palabras o expresiones relacionadas con el tema, del tono de voz y otras pistas temáticas, lingüístico-discursivas y paraverbales.",
+            "Identificación del propósito de la escucha.",
+            "Diferenciación de elementos del contexto de enunciación, tales como referencia temporal y espacial, los interlocutores, su actitud, el tema abordado."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Intervenir en situaciones comunicativas variadas formales e informales, con respeto e interés por la interacción comunicativa.",
+          "aprendizajes": [
+            "Identificación y uso de fórmulas sociales formales e informales en intercambios diversos.",
+            "Desarrollo de intercambios comunicativos sobre temas personales y propuestos en el aula, emitiendo opinión personal.",
+            "Planteo de pensamientos y sentimientos que manifieste su posicionamiento frente a temas específicos."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Producir textos orales sencillos descriptivos, narrativos, instructivos, expositivos, utilizando recursos lingüísticos y no lingüísticos con estructura y pronunciación adecuada.",
+          "aprendizajes": [
+            "Selección del vocabulario preciso para la elaboración de mensajes orales, en función de la temática, del propósito y de la audiencia.",
+            "Modificación y reformulación de la producción con cierta autonomía empleando diversas estrategias de consulta.",
+            "Elaboración de textos orales de diversos géneros discursivos, para relatar eventos o hechos en relación al presente y/o al pasado, para formular instrucciones, predicciones, planes y/o intenciones futuras, respetando las instancias de preparación y planificación para su presentación."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Discriminar y contrastar aspectos fonéticos y fonológicos de la lengua extranjera.",
+          "aprendizajes": [
+            "Contrastación de rasgos distintivos en relación a la acentuación y entonación en textos orales en lengua extranjera.",
+            "Interpretación de patrones fonológicos que expresan la actitud de los interlocutores, tales como énfasis, certezas, hesitación, acuerdos y desacuerdos entre los participantes."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Reconocer información nuclear y periférica del texto escuchado.",
+          "aprendizajes": [
+            "Verificación o reformulación de las hipótesis predictivas.",
+            "Reorganización de la información del texto escuchado para su reproducción.",
+            "Reconocimiento del propósito del texto escuchado, relacionado con la propia experiencia, o con temas de otros espacios curriculares.",
+            "Diferenciación de elementos del contexto de enunciación, tales como referencia temporal y espacial, los interlocutores, las opiniones, los hechos, el tema abordado.",
+            "Diferenciación de tipos de textos: descriptivo, narrativo, expositivo, instructivo y argumentativo."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Expresar puntos de vista propios mediante la interacción en situaciones comunicativas variadas formales e informales, realizando aportes que se ajusten al destinatario, al tema y al propósito comunicativo.",
+          "aprendizajes": [
+            "Selección del registro adecuado acorde a la situación comunicativa.",
+            "Intervención en intercambios comunicativos sobre temas de interés del estudiante o de otros espacios curriculares, desempeñando distintos roles.",
+            "Argumentación de las propias aseveraciones."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Implementar estructuras adecuadas, recursos lingüísticos, no lingüísticos y pronunciación inteligible que reflejen un posicionamiento personal, integrando los textos argumentativos a las tipologías textuales abordadas en la producción oral de textos.",
+          "aprendizajes": [
+            "Selección de la información de dos o más fuentes bibliográficas para elaborar mensajes orales, en función de la temática a desarrollar, del propósito y de la audiencia.",
+            "Selección de estrategias de consulta, para la modificación y reformulación de la producción.",
+            "Elaboración de textos orales descriptivos, narrativos, instructivos, expositivos y argumentativos.",
+            "Elaboración de textos para expresar relatos sobre eventos o hechos en relación al presente, al pasado y/o al futuro, sobre predicciones, experiencias personales, siguiendo instancias de preparación y planificación para su presentación."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Analizar aspectos fonéticos y fonológicos de la lengua extranjera.",
+          "aprendizajes": [
+            "Reconocimiento y análisis de rasgos distintivos en relación a la acentuación y entonación en textos orales en lengua extranjera.",
+            "Análisis de patrones fonológicos que expresan la actitud de los interlocutores, tales como énfasis, certezas, hesitación, acuerdos y desacuerdos, a través de las argumentaciones de los participantes."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Reconocer y analizar información nuclear y periférica del texto escuchado.",
+          "aprendizajes": [
+            "Verificación y/o reformulación de las hipótesis predictivas para la elaboración de conclusiones.",
+            "Reorganización y análisis de la información del texto escuchado para su reproducción.",
+            "Deducción y análisis del propósito del texto escuchado, referido a la propia experiencia o a temas de otros espacios curriculares o a propios de la orientación.",
+            "Diferenciación entre hechos, opiniones y juicios.",
+            "Distinción de elementos del contexto de enunciación, tales como referencia temporal y espacial, roles de los interlocutores, estados de ánimo, las opiniones, fundamentaciones, los hechos, el tema abordado y la posición asumida por el enunciador.",
+            "Análisis del tipo de texto: descriptivo, narrativo, expositivo, instructivo y argumentativo, teniendo en cuenta la organización y distribución de la información."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Argumentar y refutar distintos puntos de vista mediante la intervención en situaciones comunicativas variadas formales e informales, aportando información obtenida a través de la investigación.",
+          "aprendizajes": [
+            "Selección del registro adecuado acorde a la situación comunicativa.",
+            "Argumentación de las propias aseveraciones y contraargumentación, refutando el posicionamiento de los interlocutores.",
+            "Desempeño de distintos roles en intercambios comunicativos sobre temas de interés del estudiante, de otros espacios curriculares, relacionados al mundo del trabajo y estudios superiores."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Seleccionar las estructuras textuales y el campo lexical adecuado para la producción oral de textos de diferentes géneros discursivos.",
+          "aprendizajes": [
+            "Validación del material seleccionado en relación con el contexto de producción, para la elaboración de mensajes orales, en función de la temática a desarrollar, del propósito y de la audiencia.",
+            "Jerarquización y sistematización de estrategias de consulta, modificación y reformulación de la producción en forma autónoma.",
+            "Empleo de diversas tipologías textuales en la elaboración de textos orales descriptivos, narrativos, instructivos, expositivos y argumentativos.",
+            "Elaboración de textos orales de diversos géneros discursivos para expresar relatos sobre eventos o hechos en relación al presente, al pasado y/o al futuro, descripción de procesos, hechos hipotéticos, relación causa-consecuencia, siguiendo instancias de preparación y planificación para su presentación."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Comprensión y producción escrita",
+      "contenidos": [
+        {
+          "anio": "1",
+          "saberes": "Inferir el sentido global e información específica mediante la lectura de textos escritos.",
+          "aprendizajes": [
+            "Observación y exploración de textos variados relacionados con temas tratados en el aula, en soporte físico y/o digital y con diversos propósitos: informarse, buscar datos, entre otros.",
+            "Identificación del sentido global del texto y de información explícita."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Identificar el sentido global, información específica y tipología textual en la lectura de textos escritos.",
+          "aprendizajes": [
+            "Observación y lectura selectiva de materiales escritos variados, en soporte físico y/o digital, relacionados con temas tratados en el aula, interpretando el sentido global e identificando la información explícita (quién, qué, cómo, dónde, por qué, etc.)",
+            "Identificación de la tipología textual, a partir del paratexto y la superestructura u organización de la información del texto."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Identificar estrategias de comprensión lectora.",
+          "aprendizajes": [
+            "Formulación de anticipaciones y/o predicciones.",
+            "Inferencia del significado de las palabras desconocidas basándose en la asociación de imágenes y la información lingüística.",
+            "Relectura del texto escrito abordado con intervención del docente y los pares."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Aplicar estrategias de comprensión lectora.",
+          "aprendizajes": [
+            "Formulación de anticipaciones y/o predicciones y su posterior confirmación.",
+            "Inferencia del significado de las palabras desconocidas basándose en el contexto.",
+            "Relectura del texto escrito abordado.",
+            "Resolución de dificultades en la comprensión del texto escrito por medio del intercambio con el docente y con los pares empleando las estrategias propias."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Escribir textos descriptivos simples, a partir de un modelo empleando estrategias de producción escrita.",
+          "aprendizajes": [
+            "Selección de información, vocabulario básico y estructuras para la elaboración de un texto escrito simple sobre temas desarrollados en el aula, con la ayuda del docente.",
+            "Edición y reescritura de versiones finales, a partir de borradores mejorados a través de la orientación del docente sobre el uso apropiado de vocabulario, estructuras, ortografía y puntuación."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Elaborar textos escritos descriptivos simples, con el uso de estrategias de producción escrita.",
+          "aprendizajes": [
+            "Selección y organización de la información para la elaboración de un texto escrito simple sobre temas desarrollados en el aula.",
+            "Identificación de estrategias para la producción escrita.",
+            "Edición y reescritura de versiones finales a partir de borradores mejorados en base a devoluciones del docente."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Comprender información global y específica mediante la lectura de textos escritos.",
+          "aprendizajes": [
+            "Lectura comprensiva de variados materiales escritos en soporte físico y/o digital, relacionados con temáticas cotidianas del interés de los estudiantes y referidas a otros espacios curriculares.",
+            "Búsqueda y selección de información pertinente a una temática específica, a través de la lectura en Internet, enciclopedias, documentos, libros de consulta, entre otros."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Reconocer estrategias de comprensión lectora.",
+          "aprendizajes": [
+            "Identificación de la organización textual, de la información general y específica y del propósito de la lectura.",
+            "Generación y confirmación o modificación de hipótesis y anticipaciones realizadas sobre el sentido de los textos leídos antes y durante el proceso de lectura, a partir de marcas lingüísticas y paralingüísticas, en soporte escrito y/o digital."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Elaborar textos descriptivos, narrativos, instructivos y expositivos utilizando estrategias de producción escrita.",
+          "aprendizajes": [
+            "Organización de ideas y selección de vocabulario adecuado para la redacción coherente y cohesionada de un texto.",
+            "Desarrollo de estrategias para la producción de textos escritos acorde al contexto de enunciación, destinatarios y los propósitos.",
+            "Producción de textos escritos descriptivos, narrativos, instructivos y/o expositivos con variados propósitos, haciendo uso contextualizado de campos semánticos y aspectos gramaticales relevantes.",
+            "Reescritura y edición de versiones finales mejoradas en base a devoluciones del docente, de sus pares y de su autocorrección.",
+            "Aproximación a la escritura en entornos virtuales, tales como blogs, foros de discusión, salas de chat y correo electrónico."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Analizar y jerarquizar la información acorde a la tarea a resolver, a través de la lectura de textos escritos.",
+          "aprendizajes": [
+            "Lectura analítica de variados materiales escritos en soporte físico y/o digital, relacionados con temáticas del interés de los estudiantes y de otros espacios curriculares.",
+            "Organización de información pertinente seleccionada a través de la lectura en Internet, enciclopedias, documentos, libros de consulta, entre otros, en función de los propósitos y condiciones de la tarea requerida."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Emplear estrategias de comprensión lectora.",
+          "aprendizajes": [
+            "Reconocimiento de la organización textual, de la información general y específica y del propósito de la lectura.",
+            "Verificación y/o reformulación de las hipótesis predictivas sobre el sentido de los textos leídos, a partir de marcas lingüísticas y paralingüísticas, en soporte escrito y/o digital antes y durante el proceso de lectura."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Implementar estrategias específicas de producción escrita para la elaboración de textos descriptivos, narrativos, instructivos, expositivos y argumentativos.",
+          "aprendizajes": [
+            "Jerarquización de ideas y selección de vocabulario y estructuras morfosintácticas adecuadas para la redacción coherente y cohesionada de un texto.",
+            "Empleo de estrategias para la producción de textos escritos, tales como la utilización adecuada de la correlación verbal, sustitución, selección de léxico adecuado y preciso vinculado con temáticas de interés de los estudiantes y/o relacionadas con otros espacios curriculares, acorde al contexto de enunciación, destinatarios y los propósitos.",
+            "Elaboración de textos escritos descriptivos, narrativos, expositivos, instructivos y argumentativos, con variados propósitos, haciendo uso contextualizado de campos semánticos y aspectos gramaticales relevantes.",
+            "Diseño y elaboración de versiones finales mejoradas de textos escritos de forma individual y/o colaborativa.",
+            "Participación en entornos virtuales, tales como blogs, foros de discusión, salas de chat, correo electrónico."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Interpretar y organizar la información acorde a la tarea requerida a través de la lectura de textos escritos.",
+          "aprendizajes": [
+            "Integración significativa de la información, textual, contextual y paratextual.",
+            "Lectura comprensiva de variados materiales escritos en soporte físico y/o digital, relacionados con temáticas de interés de los estudiantes, del mundo del trabajo y estudios superiores.",
+            "Jerarquización de la información seleccionada, a través de la lectura en Internet, enciclopedias, documentos, libros de consulta, entre otros, identificando la naturaleza de la información."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Elaborar conclusiones sobre el sentido explícito e implícito de textos escritos mediante el uso de estrategias específicas de comprensión.",
+          "aprendizajes": [
+            "Reconocimiento de la organización textual, de la información general y específica, explícita e implícita y del propósito de la lectura.",
+            "Verificación y/o reformulación de las hipótesis predictivas sobre el sentido de los textos leídos, a partir de marcas lingüísticas y paralingüísticas, en soporte escrito y/o digital antes y durante el proceso de lectura, para la elaboración de conclusiones."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Producir textos descriptivos, narrativos, instructivos, expositivos y argumentativos con estrategias propias para la producción escrita de cada uno de ellos.",
+          "aprendizajes": [
+            "Jerarquización de ideas y selección de vocabulario preciso y estructuras morfosintácticas adecuadas, ampliando o sustituyendo información, para la redacción coherente y cohesionada de un texto.",
+            "Sistematización de estrategias para la producción de textos escritos, tales como reducción, sustitución, paráfrasis, en función de la coherencia y la cohesión del texto.",
+            "Elaboración de textos de diversos géneros discursivos, relacionados a otros espacios curriculares, al mundo del trabajo y a estudios superiores, haciendo uso contextualizado de campos semánticos y aspectos gramaticales relevantes.",
+            "Diseño y elaboración de versiones definitivas de textos escritos de forma individual y/o colaborativa.",
+            "Intervención en entornos virtuales, tales como blogs, foros de discusión, salas de chat, correo electrónico."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Reflexión sobre la lengua",
+      "contenidos": [
+        {
+          "anio": "1",
+          "saberes": "Diferenciar elementos fonéticos y fonológicos de la lengua extranjera que favorezcan la comprensión y construcción de sentidos del texto oral.",
+          "aprendizajes": [
+            "Identificación de la entonación como portadora de sentido.",
+            "Discriminación de aspectos relacionados a la pronunciación en lengua extranjera en contraste con la lengua propia.",
+            "Identificación de la relación entre grafía y pronunciación."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Comprender la importancia de una entonación y pronunciación adecuada para la producción y comprensión de mensajes.",
+          "aprendizajes": [
+            "Reconocimiento de la entonación como portadora de sentido.",
+            "Valoración de la importancia de una pronunciación inteligible en la producción y comprensión de mensajes."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Reconocer el trabajo cooperativo como potenciador de los aprendizajes y de las relaciones interpersonales.",
+          "aprendizajes": [
+            "Participación en intercambios comunicativos para favorecer la interacción y el respeto por sus pares.",
+            "Experimentación del trabajo cooperativo como facilitador de aprendizajes en lengua extranjera."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Desarrollar trabajos cooperativos para potenciar los aprendizajes y las relaciones interpersonales.",
+          "aprendizajes": [
+            "Participación en intercambios comunicativos entre sus pares y el docente.",
+            "Valoración de la producción propia y la de los pares en trabajos colaborativos."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Reconocer las pautas para la producción de un texto en lengua extranjera.",
+          "aprendizajes": [
+            "Identificación de la importancia y la necesidad de los signos de puntuación y ortografía para la comprensión de la producción escrita.",
+            "Identificación de la relevancia del orden de las palabras en la oración.",
+            "Distinción de aspectos morfológicos de la lengua extranjera (inflexión de sustantivos, verbos, pronombres, adjetivos en cuanto a distinción de género y número)"
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Sistematizar las pautas para la producción de un texto en lengua extranjera.",
+          "aprendizajes": [
+            "Diferenciación de las etapas en la planificación del proceso de escritura de un texto: elaboración de borrador, revisión (con la guía del docente y/o pares), reescritura y edición final de textos escritos y orales coherentes y cohesionados.",
+            "Utilización correcta de los signos de puntuación en la producción escrita.",
+            "Reconocimiento de la importancia del orden de las palabras en la oración.",
+            "Reconocimiento y diferenciación de aspectos morfológicos de la lengua extranjera (inflexión de sustantivos, pronombres, adjetivos, verbos en cuanto a distinción de género y número)",
+            "Reflexión sobre la significación del uso de los tiempos y modos verbales."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Relacionar los elementos fonéticos y fonológicos de la lengua extranjera.",
+          "aprendizajes": [
+            "Contrastación de semejanzas y diferencias en relación a la acentuación, la entonación y el ritmo, como portadores de sentido, entre la lengua de escolarización y la lengua extranjera."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Analizar el trabajo cooperativo y colaborativo como potenciador de los aprendizajes y de las relaciones interpersonales.",
+          "aprendizajes": [
+            "Participación en intercambios comunicativos, manifestando interés por las opiniones personales propias y de sus pares.",
+            "Identificación de las potencialidades de los recursos tecnológicos como herramientas facilitadoras del trabajo colaborativo."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Organizar la producción de un texto en lengua extranjera.",
+          "aprendizajes": [
+            "Reconocimiento de nexos coordinantes y subordinantes necesarios para la comunicación de mensajes coherentes.",
+            "Reflexión sobre el uso de vocabulario apropiado según el registro empleado y en función del tema, de los interlocutores y del propósito en la producción de textos orales y escritos.",
+            "Análisis de la importancia de la organización textual, para la redacción de textos coherentes y cohesionados.",
+            "Reconocimiento de la importancia del uso de los distintos tiempos verbales para una comunicación efectiva."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Reconocer los aspectos fonéticos y fonológicos en la lengua extranjera.",
+          "aprendizajes": [
+            "Apreciación de la relevancia de la entonación, la acentuación y el ritmo como portadores de sentido y la pronunciación correcta en un registro formal en la producción de textos orales."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Implementar los recursos tecnológicos como potenciadores de los aprendizajes y de las relaciones interpersonales en el trabajo cooperativo y colaborativo.",
+          "aprendizajes": [
+            "Reflexión de la importancia del posicionamiento propio y del ajeno respecto de una temática determinada.",
+            "Análisis de las potencialidades y limitaciones en el uso de recursos tecnológicos como herramientas de trabajo colaborativo."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Sistematizar la producción de un texto en lengua extranjera.",
+          "aprendizajes": [
+            "Identificación y uso fluido de las diferentes inflexiones.",
+            "Asociación de cada tipo de texto con sus rasgos morfosintácticos característicos.",
+            "Apreciación de la importancia de la organización textual, para la redacción de textos coherentes y cohesionados.",
+            "Reflexión sobre la importancia de una planificación colectiva y/o individual de narraciones, descripciones, instrucciones, exposiciones y argumentaciones."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Interpretar el valor de los elementos fonéticos y fonológicos de la lengua extranjera en un registro formal.",
+          "aprendizajes": [
+            "Valoración de la relevancia de la entonación, acentuación y ritmo como portadores de sentido y la pronunciación correcta en un registro formal en la producción de textos orales."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Reconocer la importancia de los recursos tecnológicos en el trabajo colaborativo para mejorar la calidad de los aprendizajes y de las relaciones interpersonales.",
+          "aprendizajes": [
+            "Reflexión sobre el proceso de interacción llevado a cabo en distintas situaciones de comunicación.",
+            "Reflexión de la importancia del posicionamiento propio y del ajeno respecto de una temática determinada.",
+            "Análisis de recursos tecnológicos según sus potencialidades y limitaciones para el trabajo colaborativo."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Analizar los modos de organización para la producción de un texto en lengua extranjera.",
+          "aprendizajes": [
+            "Reflexión sistemática de los diferentes matices de sentido que pueden expresarse a través de la construcción sintáctica y la selección léxica.",
+            "Valoración de la importancia de una adecuada planificación colectiva y/o individual de narraciones, descripciones, instrucciones, exposiciones y argumentaciones."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Reflexión intercultural",
+      "contenidos": [
+        {
+          "anio": "1",
+          "saberes": "Reconocer aspectos socio-culturales de la lengua extranjera en la realidad contemporánea.",
+          "aprendizajes": [
+            "Identificación, en los materiales trabajados, de elementos socioculturales relevantes de la lengua cultura que se aprende.",
+            "Análisis de los elementos identificados en vinculación con el contexto."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Comprender la realidad contemporánea a la luz de los elementos socioculturales de la lengua extranjera.",
+          "aprendizajes": [
+            "Reconocimiento de los elementos socioculturales de la lengua extranjera y la propia.",
+            "Contrastación de aspectos comunes y diferentes de elementos socioculturales de la lengua extranjera y la propia."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Identificar el conocimiento sobre las lenguas como facilitador de la comprensión de la realidad contemporánea y la valoración de la propia cultura.",
+          "aprendizajes": [
+            "Análisis de las relaciones entre elementos socioculturales de la lengua extranjera y la lengua de escolarización.",
+            "Exploración de las convenciones sociales de la lengua cultura que se aprende, tales como reglas de cortesía, el sentido de los gestos, aspectos relacionados con la distancia física entre los interlocutores.",
+            "Valoración de los elementos socioculturales de la lengua extranjera como aspectos de enriquecimiento personal."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Reconocer el valor de las lenguas culturas en distintas manifestaciones sociales y culturales.",
+          "aprendizajes": [
+            "Reconocimiento de aspectos propios de las distintas lenguas culturas y el valor de las mismas en la construcción de conocimiento y valores.",
+            "Reconocimiento de las convenciones sociales de la lengua cultura que se aprende, tales como reglas de cortesía, formas de tratamiento, modos de expresar sugerencias y emociones, entre otros."
+          ]
+        },
+        {
+          "anio": "5",
+          "saberes": "Valorar el conocimiento sobre las lenguas como facilitador del desarrollo del juicio crítico, a partir de la identificación de las relaciones entre las lenguas culturas.",
+          "aprendizajes": [
+            "Reconocimiento y análisis de prácticas socioculturales en relación al ámbito comunitario y laboral, respetando la pluralidad cultural y ampliando los horizontes socioculturales.",
+            "Valoración de los rasgos socioculturales de la lengua que se aprende, para el fortalecimiento de la participación ciudadana y el diálogo intercultural."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "_nota": "OJO: esto NO sale del DCP. El diseño curricular define saberes y aprendizajes, no estrategias ni actividades: esa es la parte que aporta cada docente. Esta lista es solo un punto de partida para que la app no arranque vacía. Borrá, cambiá y agregá lo que uses de verdad — desde la app, con el botón '+ Agregar'.",
+
+  "estrategias": [
+    "Trabajo en estaciones",
+    "Resolución de problemas motores",
+    "Demostración y práctica guiada",
+    "Aprendizaje cooperativo",
+    "Descubrimiento guiado",
+    "Asignación de tareas",
+    "Enseñanza recíproca entre pares",
+    "Microenseñanza"
+  ],
+
+  "actividades": [
+    "Entrada en calor general y específica",
+    "Circuito de habilidades motrices",
+    "Juegos reducidos",
+    "Juegos cooperativos",
+    "Juegos predeportivos",
+    "Deporte escolar",
+    "Secuencia rítmica grupal",
+    "Trabajo de capacidades condicionales",
+    "Elongación y vuelta a la calma",
+    "Salida al ambiente natural"
+  ],
+
+  "metodosEvaluacion": [
+    "Observación directa con lista de cotejo",
+    "Observación con rúbrica",
+    "Registro de progreso individual",
+    "Autoevaluación",
+    "Coevaluación entre pares",
+    "Trabajo práctico grupal",
+    "Ficha de seguimiento de la condición corporal y motriz",
+    "Participación y compromiso en clase"
+  ],
+
+  "temas": [
+    "Vida saludable",
+    "Convivencia escolar",
+    "Ambiente y territorio",
+    "Educación Sexual Integral",
+    "Primeros auxilios",
+    "Juegos tradicionales de Mendoza"
+  ]
+}

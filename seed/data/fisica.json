@@ -1,0 +1,77 @@
+{
+  "_fuente": "DCP Secundario Mendoza - Bachiller en Turismo. Física, Formación General - Ciclo Orientado (3° Año, páginas 171-173).",
+  "_nota": "Materia de Ciclo Orientado. En el Orientado, Ciencias Naturales se divide en Biología (3°), Física (3°) y Química (4°). Transcripción literal del DCP.",
+  "materia": {
+    "nombre": "Física",
+    "orientacion": "Bachiller en Turismo"
+  },
+  "ejes": [
+    {
+      "nombre": "La energía generadora de cambios",
+      "contenidos": [
+        {
+          "anio": "3",
+          "saberes": "Reconocer la energía en su carácter sistémico.",
+          "aprendizajes": [
+            "Conceptualización de energía como la capacidad de un sistema de producir transformaciones y cambios.",
+            "Identificación de las diferentes formas de energía (Energía Cinética, Energía Potencial y Energía Radiante o Luminosa) reconociéndolas en situaciones concretas."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Interpretar los procesos de transporte, almacenamiento, transformación, conservación y degradación de la energía, y de aspectos relacionados con su preservación y consumo.",
+          "aprendizajes": [
+            "Análisis de la naturaleza de los cambios físicos, el control de los mismos, y la causa de dichos cambios.",
+            "Descripción de los procesos de conservación, transformación y degradación de la energía considerando sus consecuencias prácticas.",
+            "Establecimiento de relaciones entre las nociones de cambio, energía, trabajo, fuerza y sistema.",
+            "Análisis de las formas de energía asociadas a la materia ordinaria, es decir, la energía cinética, relacionada con el movimiento, y la energía potencial relacionada con interacciones entre cuerpos o partículas (energía potencial gravitatoria, electromagnética y nuclear).",
+            "Interpretación de la capacidad transformadora de la electricidad en experiencias que evidencien algunos efectos de la corriente eléctrica, como los luminosos, magnéticos y mecánicos.",
+            "Caracterización y diferenciación de materiales aisladores, conductores, semiconductores y superconductores.",
+            "Identificación e interpretación del origen, características y propiedades del magnetismo.",
+            "Análisis de las aplicaciones del magnetismo en la vida cotidiana, por ejemplo brújulas, timbres y parlantes entre otros.",
+            "Comprensión y aplicación de modelos matemáticos en la resolución de problemas de electricidad y magnetismo.",
+            "Diferenciación entre trabajo, calor y radiación para comprender los mecanismos de transferencia de energía.",
+            "Reconocimiento del calor como agente productor de cambio.",
+            "Delimitación de los factores que influyen en la variación de la temperatura, la dilatación y el cambio de estado de agregación de la materia.",
+            "Análisis y resolución de situaciones problemáticas referidas a la transferencia de energía, utilizando los modelos matemáticos correspondientes."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Comprender diversos fenómenos naturales – terrestres y celestes – y las aplicaciones tecnológicas – micro y macroscópicas – a partir del análisis y utilización de modelos físicos, diferenciando y articulando las nociones de partícula, onda y campo.",
+          "aprendizajes": [
+            "Conceptualización de ondas, los elementos que las caracterizan y la clasificación según el medio donde se producen.",
+            "Reconocimiento de las ondas sonoras como consecuencia de la vibración producida por un objeto.",
+            "Identificación de las ondas electromagnéticas como una relación entre los campos eléctrico y magnético.",
+            "Reconocimiento de las aplicaciones de las ondas luminosas: su reflexión, refracción, en dispositivos tecnológicos: hornos a microondas, GPS, tomógrafos, lector de cd, entre otros.",
+            "Análisis de la energía electromagnética que emiten los cuerpos celestes, para identificar diversas características de los mismos, por ejemplo, sus composiciones químicas, su temperatura, su estado evolutivo."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Energía para un mundo mejor",
+      "contenidos": [
+        {
+          "anio": "3",
+          "saberes": "Comprender los fenómenos físicos que tienen lugar en la obtención de energía de distintas fuentes actuales y futuras, teniendo en cuenta los recursos involucrados, renovables o no.",
+          "aprendizajes": [
+            "Descripción de las formas de producción de energía no convencionales, en uso o en etapa de experimentación.",
+            "Identificación de las formas de producción de energía más extendidas a escala mundial, tales como combustibles fósiles, la fuerza del agua pasando a través de un desnivel artificial (represa), el calor generado por la fisión de núcleos de átomos de materiales radiactivos."
+          ]
+        },
+        {
+          "anio": "3",
+          "saberes": "Reconocer y valorar la evolución de los modelos explicativos de la Física y de sus vínculos con otros campos científicos (matemática, computación, etc.) y las nuevas ciencias a las que su fusión con otras disciplinas dio origen (astrofísica, biofísica, fisicoquímica, geofísica, etc.).",
+          "aprendizajes": [
+            "Valoración del desarrollo de diferentes máquinas que la humanidad ha desarrollado para producir cambios que solucionen sus múltiples necesidades.",
+            "Análisis de las interacciones entre ciencia, tecnología, sociedad y medio ambiente, reflexionando, por ejemplo, sobre las implicaciones que tuvo la invención de la máquina a vapor o que en la actualidad tienen las nuevas tecnologías.",
+            "Comprensión de diversos fenómenos del campo de la astrofísica, por ejemplo, el movimiento planetario, la estructura del cosmos y su origen.",
+            "Análisis de fenómenos relacionados con la estructura, condiciones físicas e historia evolutiva de la Tierra, por ejemplo, sismología y vulcanismo, entre otros.",
+            "Reconocimiento de la relación entre la Biología y la Física, considerando que la Biofísica aporta conocimientos a la Biología, pero no a la Física, sin embargo, le ofrece a la Física evidencia experimental que permite corroborar teorías."
+          ]
+        }
+      ]
+    }
+  ]
+}

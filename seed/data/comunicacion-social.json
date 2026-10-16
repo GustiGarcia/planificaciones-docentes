@@ -1,0 +1,185 @@
+{
+  "_fuente": "DCP Secundario Mendoza - Bachiller en Turismo. Comunicación Social, Formación General - Ciclo Básico (páginas 206 a 208 del PDF).",
+  "_nota": "El encabezado del DCP dice '1° o 2° Año del Ciclo Básico': es un espacio que la escuela ubica en uno u otro año, con una sola tabla de saberes. Para que aparezcan elijas el año que elijas, cada saber está cargado dos veces, como 1° y como 2°. No es una progresión: es el MISMO saber.",
+
+  "materia": {
+    "nombre": "Comunicación Social",
+    "orientacion": "Bachiller en Turismo"
+  },
+
+  "ejes": [
+    {
+      "nombre": "La comunicación como práctica social",
+      "contenidos": [
+        {
+          "anio": "1",
+          "saberes": "Reconocer, diferenciar y resignificar modelos del proceso comunicativo: Clásico y Semiótico y los elementos que los componen.",
+          "aprendizajes": [
+            "Reconocimiento de diversos procesos de comunicación, autoritarios dialógicos, democráticos y otros.",
+            "Relación entre el nuevo conocimiento -modelo semiótico- con sus ideas previas -modelo clásico-.",
+            "Descripción y análisis del proceso comunicacional desde un enfoque semiótico."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Reconocer, diferenciar y resignificar modelos del proceso comunicativo: Clásico y Semiótico y los elementos que los componen.",
+          "aprendizajes": [
+            "Reconocimiento de diversos procesos de comunicación, autoritarios dialógicos, democráticos y otros.",
+            "Relación entre el nuevo conocimiento -modelo semiótico- con sus ideas previas -modelo clásico-.",
+            "Descripción y análisis del proceso comunicacional desde un enfoque semiótico."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Analizar diferentes situaciones comunicativas y reconocer los diversos tipos de comunicación, teniendo en cuenta su contexto de producción.",
+          "aprendizajes": [
+            "Identificación de los elementos del modelo comunicativo.",
+            "Reconocimiento de las categorías utilizadas para clasificar tipos de comunicación.",
+            "Descripción del contexto en las situaciones comunicativas analizadas.",
+            "Identificación de los vínculos que se establecen en la construcción de mensajes, relaciones autoritarias, de igualdad, de colaboración, etc."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Analizar diferentes situaciones comunicativas y reconocer los diversos tipos de comunicación, teniendo en cuenta su contexto de producción.",
+          "aprendizajes": [
+            "Identificación de los elementos del modelo comunicativo.",
+            "Reconocimiento de las categorías utilizadas para clasificar tipos de comunicación.",
+            "Descripción del contexto en las situaciones comunicativas analizadas.",
+            "Identificación de los vínculos que se establecen en la construcción de mensajes, relaciones autoritarias, de igualdad, de colaboración, etc."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Producir, modificar y criticar mensajes de manera consciente y pertinente utilizando recursos y técnicas variadas.",
+          "aprendizajes": [
+            "Manejo de los diversos tipos de comunicación y sus lenguajes para poder comprender y producir mensajes.",
+            "Ampliación y estructuración del vocabulario a partir de las situaciones de comprensión y producción de mensajes.",
+            "Utilización de diferentes soportes de comunicación para la construcción de mensajes en su contexto, teniendo en cuenta el acceso generalizado a las nuevas tecnologías de comunicación.",
+            "Producción de mensajes utilizando las redes sociales en los entornos virtuales, aplicando criterios éticos."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Producir, modificar y criticar mensajes de manera consciente y pertinente utilizando recursos y técnicas variadas.",
+          "aprendizajes": [
+            "Manejo de los diversos tipos de comunicación y sus lenguajes para poder comprender y producir mensajes.",
+            "Ampliación y estructuración del vocabulario a partir de las situaciones de comprensión y producción de mensajes.",
+            "Utilización de diferentes soportes de comunicación para la construcción de mensajes en su contexto, teniendo en cuenta el acceso generalizado a las nuevas tecnologías de comunicación.",
+            "Producción de mensajes utilizando las redes sociales en los entornos virtuales, aplicando criterios éticos."
+          ]
+        }
+      ]
+    },
+
+    {
+      "nombre": "La comunicación y los medios masivos",
+      "contenidos": [
+        {
+          "anio": "1",
+          "saberes": "Comprender la historia de los medios masivos, desde sus inicios hasta la aparición de los medios electrónicos y los digitales.",
+          "aprendizajes": [
+            "Contrastación e interpretación de diferentes discursos mediáticos.",
+            "Reconstrucción de la historia de los medios masivos en el contexto global, regional y local."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Comprender la historia de los medios masivos, desde sus inicios hasta la aparición de los medios electrónicos y los digitales.",
+          "aprendizajes": [
+            "Contrastación e interpretación de diferentes discursos mediáticos.",
+            "Reconstrucción de la historia de los medios masivos en el contexto global, regional y local."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Reconocer las particularidades de la construcción de la publicidad en los medios masivos.",
+          "aprendizajes": [
+            "Identificación de componentes utilizados para la comprensión y la producción de diferentes mensajes publicitarios.",
+            "Elaboración de diferentes mensajes mediáticos en diversos formatos y lenguajes."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Reconocer las particularidades de la construcción de la publicidad en los medios masivos.",
+          "aprendizajes": [
+            "Identificación de componentes utilizados para la comprensión y la producción de diferentes mensajes publicitarios.",
+            "Elaboración de diferentes mensajes mediáticos en diversos formatos y lenguajes."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Analizar en las imágenes las representaciones sociales que proponen los medios masivos de comunicación a partir del uso de los estereotipos.",
+          "aprendizajes": [
+            "Observación e identificación de los elementos técnicos y expresivos de las imágenes.",
+            "Observación y análisis de mensajes provenientes de diferentes medios masivos e interpretación de diferentes textos para reconocer la función que cumplen los códigos de representación.",
+            "Reconocimiento de las características de los estereotipos, valores y modelos para llegar a la desnaturalización."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Analizar en las imágenes las representaciones sociales que proponen los medios masivos de comunicación a partir del uso de los estereotipos.",
+          "aprendizajes": [
+            "Observación e identificación de los elementos técnicos y expresivos de las imágenes.",
+            "Observación y análisis de mensajes provenientes de diferentes medios masivos e interpretación de diferentes textos para reconocer la función que cumplen los códigos de representación.",
+            "Reconocimiento de las características de los estereotipos, valores y modelos para llegar a la desnaturalización."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Conocer y diferenciar los géneros discursivos mediáticos y sus re-significaciones a partir de las TIC e interpretar formatos textuales con estructuras comunicativas hipertextuales no lineales.",
+          "aprendizajes": [
+            "Contrastación de distintos textos mediáticos considerando la multiplicidad de formatos en que se presenta la información.",
+            "Reconocimiento de estructuras comunicativas hipertextuales no lineales, para ampliar el concepto de texto dirigido a la combinación de discursos verbales con recursos audiovisuales (imágenes, sonidos, videos, entre otros).",
+            "Reconocimiento del impacto, alcance y riesgos que implican los mensajes en redes sociales y entornos colaborativos."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Conocer y diferenciar los géneros discursivos mediáticos y sus re-significaciones a partir de las TIC e interpretar formatos textuales con estructuras comunicativas hipertextuales no lineales.",
+          "aprendizajes": [
+            "Contrastación de distintos textos mediáticos considerando la multiplicidad de formatos en que se presenta la información.",
+            "Reconocimiento de estructuras comunicativas hipertextuales no lineales, para ampliar el concepto de texto dirigido a la combinación de discursos verbales con recursos audiovisuales (imágenes, sonidos, videos, entre otros).",
+            "Reconocimiento del impacto, alcance y riesgos que implican los mensajes en redes sociales y entornos colaborativos."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Analizar los procesos de uso y los impactos de las nuevas tecnologías como medios masivos de comunicación.",
+          "aprendizajes": [
+            "Reconocimiento de estructuras comunicativas hipertextuales no lineales ampliando el concepto de texto dirigido a la combinación de discursos verbales con recursos audiovisuales (imágenes, sonidos, videos entre otros).",
+            "Producción de mensajes con distintos soportes y formatos mediáticos y tecnológicos."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Analizar los procesos de uso y los impactos de las nuevas tecnologías como medios masivos de comunicación.",
+          "aprendizajes": [
+            "Reconocimiento de estructuras comunicativas hipertextuales no lineales ampliando el concepto de texto dirigido a la combinación de discursos verbales con recursos audiovisuales (imágenes, sonidos, videos entre otros).",
+            "Producción de mensajes con distintos soportes y formatos mediáticos y tecnológicos."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Producir mensajes utilizando variedad de formatos mediáticos (radiales, periódicos, afiches, audiovisuales, etc.).",
+          "aprendizajes": [
+            "Realización de producciones radiales escolares contextualizadas.",
+            "Organización del periódico o diario mural de la escuela.",
+            "Realización de imágenes fijas para dar a conocer ideas propias surgidas a partir de diferentes propuestas problemáticas.",
+            "Producción mediática con abordaje interdisciplinario teniendo en cuenta la intención, los destinatarios, las posibilidades tecnológicas y la información obtenida."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Producir mensajes utilizando variedad de formatos mediáticos (radiales, periódicos, afiches, audiovisuales, etc.).",
+          "aprendizajes": [
+            "Realización de producciones radiales escolares contextualizadas.",
+            "Organización del periódico o diario mural de la escuela.",
+            "Realización de imágenes fijas para dar a conocer ideas propias surgidas a partir de diferentes propuestas problemáticas.",
+            "Producción mediática con abordaje interdisciplinario teniendo en cuenta la intención, los destinatarios, las posibilidades tecnológicas y la información obtenida."
+          ]
+        }
+      ]
+    }
+  ]
+}

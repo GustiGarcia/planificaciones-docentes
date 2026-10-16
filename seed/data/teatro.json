@@ -1,0 +1,152 @@
+{
+  "_fuente": "DCP Secundario Mendoza - Bachiller en Turismo. Teatro, Formación General - Ciclo Básico.",
+  "_nota": "El encabezado del DCP dice '1° y/o 2° Año Ciclo Básico': una sola tabla de saberes para los dos años. Cada saber está cargado dos veces, como 1° y como 2°, para que aparezca elijas el año que elijas. No es una progresión: es el MISMO saber. Páginas 195 y 196 del PDF.",
+  "materia": {
+    "nombre": "Teatro",
+    "orientacion": "Bachiller en Turismo"
+  },
+  "ejes": [
+    {
+      "nombre": "En relación con las prácticas de producción en teatro",
+      "contenidos": [
+        {
+          "anio": "1",
+          "saberes": "Acrecentar la confianza y respeto por los otros en el trabajo individual y cooperativo.",
+          "aprendizajes": [
+            "Participación activa en dinámicas lúdicas grupales diversas, con diferente grado de complejidad y compromiso."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Acrecentar la confianza y respeto por los otros en el trabajo individual y cooperativo.",
+          "aprendizajes": [
+            "Participación activa en dinámicas lúdicas grupales diversas, con diferente grado de complejidad y compromiso."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Captar sensorial y perceptivamente el entorno y la propia corporalidad.",
+          "aprendizajes": [
+            "Aplicación de dinámicas de caldeamiento que favorezcan la disponibilidad adecuada para el trabajo específico."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Captar sensorial y perceptivamente el entorno y la propia corporalidad.",
+          "aprendizajes": [
+            "Aplicación de dinámicas de caldeamiento que favorezcan la disponibilidad adecuada para el trabajo específico."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Identificar y organizar los componentes del lenguaje teatral y reconocer su importancia en la construcción de sentido.",
+          "aprendizajes": [
+            "Fortalecimiento de las capacidades expresivas del cuerpo, la voz y la palabra en dinámicas exploratorias, trabajo de roles e improvisaciones.",
+            "Reconocimiento y organización de los elementos de la Estructura Dramática (Sujeto, Conflicto, Entorno, Acción, Historia) en improvisaciones, dramatizaciones y creaciones colectivas.",
+            "Identificación de los elementos de la construcción escénica (vestuarios, maquillajes, escenografía, utilería, sonido, iluminación, movimientos, texto y dispositivos tecnológicos) y su exploración en la construcción de sentido.",
+            "Reconocimiento de las cualidades expresivas de los distintos dispositivos y medios tecnológicos, a partir de exploraciones lúdicas en sus propias producciones.",
+            "Análisis activo y reflexivo de textos dramáticos."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Identificar y organizar los componentes del lenguaje teatral y reconocer su importancia en la construcción de sentido.",
+          "aprendizajes": [
+            "Fortalecimiento de las capacidades expresivas del cuerpo, la voz y la palabra en dinámicas exploratorias, trabajo de roles e improvisaciones.",
+            "Reconocimiento y organización de los elementos de la Estructura Dramática (Sujeto, Conflicto, Entorno, Acción, Historia) en improvisaciones, dramatizaciones y creaciones colectivas.",
+            "Identificación de los elementos de la construcción escénica (vestuarios, maquillajes, escenografía, utilería, sonido, iluminación, movimientos, texto y dispositivos tecnológicos) y su exploración en la construcción de sentido.",
+            "Reconocimiento de las cualidades expresivas de los distintos dispositivos y medios tecnológicos, a partir de exploraciones lúdicas en sus propias producciones.",
+            "Análisis activo y reflexivo de textos dramáticos."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Producir y representar escenas, obras teatrales breves y/o creaciones colectivas situadas respetando la diversidad y la inclusión.",
+          "aprendizajes": [
+            "Identificación de temáticas de interés propias y posibilidades de abordaje para la producción de proyectos teatrales.",
+            "Utilización de los componentes del teatro en la construcción de sentido.",
+            "Valoración del ensayo como instancia inherente a la actividad teatral.",
+            "Diferenciación de roles en la producción teatral, en forma activa y responsable.",
+            "Reconocimiento de las posibilidades creativas propias y de sus pares, orientado a la valoración del trabajo cooperativo."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Producir y representar escenas, obras teatrales breves y/o creaciones colectivas situadas respetando la diversidad y la inclusión.",
+          "aprendizajes": [
+            "Identificación de temáticas de interés propias y posibilidades de abordaje para la producción de proyectos teatrales.",
+            "Utilización de los componentes del teatro en la construcción de sentido.",
+            "Valoración del ensayo como instancia inherente a la actividad teatral.",
+            "Diferenciación de roles en la producción teatral, en forma activa y responsable.",
+            "Reconocimiento de las posibilidades creativas propias y de sus pares, orientado a la valoración del trabajo cooperativo."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "En relación con las prácticas del teatro y su contexto",
+      "contenidos": [
+        {
+          "anio": "1",
+          "saberes": "Apreciar las producciones realizadas.",
+          "aprendizajes": [
+            "Identificación de los elementos abordados y de las diferentes resoluciones encontradas en reflexiones compartidas.",
+            "Interpretación de los sentidos transmitidos en las representaciones de sus compañeros.",
+            "Construcción de criterios para la valoración de los procesos individuales y grupales realizados y los resultados alcanzados.",
+            "Verbalización de dificultades encontradas y el modo en que fueron resueltas.",
+            "Identificación progresiva de aspectos simbólicos en las producciones."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Apreciar las producciones realizadas.",
+          "aprendizajes": [
+            "Identificación de los elementos abordados y de las diferentes resoluciones encontradas en reflexiones compartidas.",
+            "Interpretación de los sentidos transmitidos en las representaciones de sus compañeros.",
+            "Construcción de criterios para la valoración de los procesos individuales y grupales realizados y los resultados alcanzados.",
+            "Verbalización de dificultades encontradas y el modo en que fueron resueltas.",
+            "Identificación progresiva de aspectos simbólicos en las producciones."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Expectar e interpretar espectáculos y/o manifestaciones teatrales de distintos tipos, dentro y fuera de la escuela, en vivo y/o en diversos soportes tecnológicos.",
+          "aprendizajes": [
+            "Reconocimiento de percepciones y verbalización de modo libre y reflexivo.",
+            "Apropiación paulatina de criterios de valoración ejercitando el reconocimiento de elementos, sus diversos modos de organización y su intencionalidad estética.",
+            "Identificación de las temáticas y los modos particulares de abordaje.",
+            "Análisis del contexto de producción y circulación (quién/es lo hicieron, cuándo, dónde, por qué, para qué, para quién)."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Expectar e interpretar espectáculos y/o manifestaciones teatrales de distintos tipos, dentro y fuera de la escuela, en vivo y/o en diversos soportes tecnológicos.",
+          "aprendizajes": [
+            "Reconocimiento de percepciones y verbalización de modo libre y reflexivo.",
+            "Apropiación paulatina de criterios de valoración ejercitando el reconocimiento de elementos, sus diversos modos de organización y su intencionalidad estética.",
+            "Identificación de las temáticas y los modos particulares de abordaje.",
+            "Análisis del contexto de producción y circulación (quién/es lo hicieron, cuándo, dónde, por qué, para qué, para quién)."
+          ]
+        },
+        {
+          "anio": "1",
+          "saberes": "Comprender y valorar manifestaciones teatrales que integran el patrimonio artístico cultural local.",
+          "aprendizajes": [
+            "Conocimiento de creadores y espectáculos del ámbito local.",
+            "Identificación de salas teatrales y otros circuitos de circulación de espectáculos.",
+            "Identificación de medios de difusión la oferta artístico-cultural del ámbito local."
+          ]
+        },
+        {
+          "anio": "2",
+          "saberes": "Comprender y valorar manifestaciones teatrales que integran el patrimonio artístico cultural local.",
+          "aprendizajes": [
+            "Conocimiento de creadores y espectáculos del ámbito local.",
+            "Identificación de salas teatrales y otros circuitos de circulación de espectáculos.",
+            "Identificación de medios de difusión la oferta artístico-cultural del ámbito local."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "_fuente": "DCP Secundario Mendoza - Bachiller en Turismo. Tecnologías de la Información y la Comunicación, Formación General - Ciclo Orientado (4° Año, páginas 221-222).",
+  "_nota": "Las TIC aparecen como espacio curricular propio solo en el Ciclo Orientado (4° año). El tercer eje ('Integración de las TIC en Turismo') está orientado a la especialidad del bachiller.",
+  "materia": {
+    "nombre": "Tecnologías de la Información y la Comunicación",
+    "orientacion": "Bachiller en Turismo"
+  },
+  "ejes": [
+    {
+      "nombre": "Fundamentos de las Tecnologías de la Información y la Comunicación",
+      "contenidos": [
+        {
+          "anio": "4",
+          "saberes": "Distinguir variados dispositivos digitales para el procesamiento y la comunicación de la información.",
+          "aprendizajes": [
+            "Diferenciación entre sistemas analógicos y digitales.",
+            "Identificación de distintos hardware.",
+            "Caracterización de las particularidades de diversos dispositivos de procesamiento y comunicación de la información."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Reconocer las características y las funcionalidades de los sistemas operativos y el almacenamiento de la información.",
+          "aprendizajes": [
+            "Identificación de la función e importancia del sistema operativo de un dispositivo.",
+            "Exploración de las principales funciones de sistemas operativos disponibles considerando licenciados y de libre uso.",
+            "Distinción de los diferentes medios de almacenamiento de información."
+          ]
+        },
+        {
+          "anio": "4",
+          "saberes": "Conocer y gestionar múltiples entornos de software.",
+          "aprendizajes": [
+            "Identificación de criterios para la selección de un software determinado teniendo en cuenta la intencionalidad del problema a resolver.",
+            "Exploración y profundización de diversos entornos de software on/off line.",
+            "Desarrollo de distintas propuestas de procesamiento y/o comunicación de información a partir de proyectos de intervención contextualizados."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Sociedad y TIC",
+      "contenidos": [
+        {
+          "anio": "4",
+          "saberes": "Reflexionar acerca de las implicancias sociales, culturales, estéticas, éticas, de privacidad, de propiedad y económicas relacionadas a las TIC.",
+          "aprendizajes": [
+            "Identificación de los cambios producidos en la sociedad a partir de la aparición de las TIC.",
+            "Comprensión de la importancia de la democratización de las TIC.",
+            "Distinción del impacto negativo de las TIC respecto de las desigualdades en cuanto al acceso.",
+            "Análisis crítico del uso de las TIC para el desarrollo de buenas prácticas en referencia a valores.",
+            "Reconocimiento de las particularidades y marco legal de los derechos de autor en las TIC, versus el software libre y de código abierto."
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Integración de las TIC en Turismo",
+      "contenidos": [
+        {
+          "anio": "4",
+          "saberes": "Aplicar distintas herramientas informáticas para la producción, distribución y difusión de recursos turísticos.",
+          "aprendizajes": [
+            "Producción de hojas de cálculo para resolver situaciones problemáticas específicas de la gestión hotelera, gastronómica o de otras empresas vinculadas al sector turístico.",
+            "Análisis de dispositivos digitales multimediales empleados en la difusión turística.",
+            "Compaginación y edición digital de imágenes y/o videos a partir de capturas en diversos atractivos turísticos.",
+            "Identificación y utilización de software específicos para la manipulación de distintos tipos de información (texto, imagen fija y en movimiento, audio, etc.).",
+            "Producción de diversos recursos de difusión turística en soporte papel (folletería, pósters, revistas, etc.).",
+            "Exploración, reconocimiento y selección de software específico orientado a la reserva, venta y emisión de billetes a nivel local, nacional o internacional (CRS y GDS).",
+            "Producción de weblog relacionado a la difusión y producción de recursos turísticos.",
+            "Análisis de las posibilidades de difusión turística que ofrecen las redes sociales y construcción de situaciones posibles que simulen ofertas locales o nacionales."
+          ]
+        }
+      ]
+    }
+  ]
+}
